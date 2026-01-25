@@ -1,0 +1,46 @@
+---
+import { Linkedin } from "lucide-react";
+---
+
+<div
+    class="mt-16 bg-beige-softer rounded-2xl p-8 border border-forest/10 flex flex-col md:flex-row items-center gap-8 shadow-sm"
+>
+    <div class="relative w-24 h-24 md:w-32 md:h-32 flex-shrink-0">
+        <img
+            src="/media/anthony-courtin.jpg"
+            alt="Anthony COURTIN"
+            class="w-full h-full object-cover rounded-full border-4 border-white shadow-md"
+        />
+        <div
+            class="absolute bottom-1 right-1 bg-[#0077b5] p-1.5 rounded-full text-white shadow-sm"
+        >
+            <Linkedin className="w-4 h-4 fill-current" />
+        </div>
+    </div>
+
+    <div class="text-center md:text-left space-y-3">
+        <h3 class="text-xl font-bold text-forest-dark">À propos de l'auteur</h3>
+        <p class="text-forest-dark/80 italic">
+            Article rédigé par <strong class="text-earth"
+                >Anthony COURTIN</strong
+            >.
+        </p>
+        <p class="text-sm text-forest-dark/70 leading-relaxed max-w-lg">
+            Passionné par la nature et la préservation de la biodiversité, je
+            partage ici mes conseils pour protéger nos amis les hérissons.
+        </p>
+        <a
+            href="https://www.linkedin.com/in/anthony-courtin/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 text-sm font-bold text-[#0077b5] hover:underline mt-2"
+        >
+            <span>Suivez-moi sur LinkedIn</span>
+            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"
+                ><path
+                    d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"
+                ></path></svg
+            >
+        </a>
+    </div>
+</div>

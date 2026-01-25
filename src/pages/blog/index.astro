@@ -1,0 +1,171 @@
+---
+export const prerender = true;
+import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+// Static build: fetch all posts
+const allPosts = await getCollection("blog");
+const sortedPosts = allPosts.sort(
+    (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+// Basic pagination for now: show all or top 20
+const posts = sortedPosts;
+---
+
+<Layout
+    title="Le Blog Sovkipik"
+    description="Découvrez tous nos articles et guides sur les hérissons : conseils, soins, habitat et protection."
+>
+    <!-- Hero Section -->
+    <section class="relative pt-32 pb-20 overflow-hidden">
+        <div class="absolute inset-0 z-0">
+            <div
+                class="absolute top-0 right-0 w-[500px] h-[500px] bg-forest-light/10 rounded-full blur-3xl translate-x-1/2 -translate-y-1/2"
+            >
+            </div>
+            <div
+                class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-earth/5 rounded-full blur-3xl -translate-x-1/2 translate-y-1/2"
+            >
+            </div>
+        </div>
+
+        <div class="container mx-auto px-4 relative z-10 text-center">
+            <span
+                class="text-earth font-bold tracking-widest uppercase text-xs mb-3 block opacity-80"
+                >Guides & Conseils</span
+            >
+            <h1
+                class="text-4xl md:text-6xl font-bold text-forest-dark mb-6 font-display"
+            >
+                Le Journal du Hérisson
+            </h1>
+            <p
+                class="text-lg text-forest-dark/70 max-w-2xl mx-auto leading-relaxed"
+            >
+                Tout savoir pour protéger nos amis piquants. Des guides complets,
+                des astuces pratiques et l'actualité de la sauvegarde.
+            </p>
+        </div>
+    </section>
+
+    <!-- Category Filter -->
+    <section class="pb-12 border-b border-forest/5 mb-12">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-wrap justify-center gap-4" id="category-filters">
+                <button
+                    class="category-btn px-6 py-2 rounded-full border border-forest/20 text-forest font-bold text-sm hover:bg-forest hover:text-white transition-all active bg-forest text-white"
+                    data-category="all"
+                >
+                    Tout voir
+                </button>
+                {
+                    [...new Set(posts.map((p) => p.data.category).filter(Boolean).sort())].map((category) => (
+                        <button
+                            class="category-btn px-6 py-2 rounded-full border border-forest/20 text-forest font-bold text-sm hover:bg-forest hover:text-white transition-all bg-white"
+                            data-category={category}
+                        >
+                            {category}
+                        </button>
+                    ))
+                }
+            </div>
+        </div>
+    </section>
+
+    <!-- Blog Grid -->
+    <section class="pb-24">
+        <div class="container mx-auto px-4">
+            <div id="posts-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
+                {
+                    posts.map((post) => (
+                        <a href={`/blog/${post.slug}`} class="group h-full post-item" data-category={post.data.category}>
+                            <article class="bg-white rounded-[2rem] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 h-full flex flex-col border border-forest/5 relative">
+                                <!-- Image Container -->
+                                <div class="relative h-64 overflow-hidden">
+                                    <div class="absolute inset-0 bg-forest-dark/10 group-hover:bg-forest-dark/0 transition-colors z-10" />
+                                    <img
+                                        src={post.data.image}
+                                        alt={post.data.title}
+                                        loading="lazy"
+                                        class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700"
+                                    />
+                                    
+                                    <!-- Date Badge -->
+                                    <div class="absolute top-4 right-4 bg-white/95 backdrop-blur-md px-4 py-2 rounded-full text-xs font-bold text-forest-dark shadow-sm z-20 flex items-center gap-2">
+                                        <span class="w-1.5 h-1.5 rounded-full bg-earth"></span>
+                                        {post.data.date.toLocaleDateString(
+                                            "fr-FR",
+                                            {
+                                                day: "numeric",
+                                                month: "short",
+                                                year: "numeric"
+                                            }
+                                        )}
+                                    </div>
+                                </div>
+
+                                <!-- Content -->
+                                <div class="p-8 flex flex-col flex-grow relative">
+                                    <div class="text-xs font-bold text-earth uppercase tracking-wider mb-3">
+                                        {post.data.category || "Conseil Hérisson"}
+                                    </div>
+
+                                    <h2 class="text-2xl font-bold text-forest-dark mb-4 group-hover:text-earth transition-colors leading-tight">
+                                        {post.data.title}
+                                    </h2>
+                                    
+                                    <p class="text-forest-dark/60 text-sm line-clamp-3 mb-6 flex-grow leading-relaxed">
+                                        {post.data.excerpt || "Découvrez nos conseils pour aider les hérissons au quotidien..."}
+                                    </p>
+                                    
+                                    <div class="flex items-center justify-between pt-6 border-t border-forest/5">
+                                        <span class="text-forest-dark/40 text-xs font-semibold flex items-center gap-1">
+                                            Lecture 5 min
+                                        </span>
+                                        <span class="text-earth font-bold text-sm group-hover:translate-x-1 transition-transform flex items-center gap-1">
+                                            Lire
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                                            </svg>
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+                        </a>
+                    ))
+                }
+            </div>
+        </div>
+    </section>
+
+    <script>
+        const buttons = document.querySelectorAll('.category-btn');
+        const posts = document.querySelectorAll('.post-item');
+
+        buttons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                // Remove active class from all
+                buttons.forEach(b => {
+                    b.classList.remove('bg-forest', 'text-white');
+                    b.classList.add('bg-white', 'text-forest');
+                });
+                // Add active class to clicked
+                btn.classList.remove('bg-white', 'text-forest');
+                btn.classList.add('bg-forest', 'text-white');
+
+                const category = btn.getAttribute('data-category');
+
+                posts.forEach(post => {
+                    if (category === 'all' || post.getAttribute('data-category') === category) {
+                        post.classList.remove('hidden');
+                        post.classList.add('block');
+                    } else {
+                        post.classList.add('hidden');
+                        post.classList.remove('block');
+                    }
+                });
+            });
+        });
+    </script>
+</Layout>

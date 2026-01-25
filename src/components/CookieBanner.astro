@@ -1,0 +1,73 @@
+<div
+    id="cookie-banner"
+    class="fixed bottom-0 left-0 right-0 z-50 p-4 transform translate-y-full transition-transform duration-500"
+>
+    <div
+        class="max-w-4xl mx-auto bg-white rounded-2xl shadow-2xl border border-forest/10 p-6 flex flex-col md:flex-row items-center justify-between gap-6"
+    >
+        <div class="flex-1">
+            <h3
+                class="font-bold text-forest text-lg mb-2 flex items-center gap-2"
+            >
+                <span>🍪</span> Des cookies pour nos hérissons ?
+            </h3>
+            <p class="text-forest-dark/70 text-sm leading-relaxed">
+                Non, pas pour les manger ! Nous utilisons des cookies pour
+                améliorer votre expérience et mesurer l'audience du site.
+                Promis, aucune donnée n'est vendue à des tiers.
+                <a href="/confidentialite" class="underline hover:text-earth"
+                    >En savoir plus</a
+                >.
+            </p>
+        </div>
+        <div class="flex items-center gap-3">
+            <button
+                id="reject-cookies"
+                class="px-5 py-2.5 rounded-xl border border-earth/20 text-earth font-bold text-sm hover:bg-beige-softer transition-colors"
+            >
+                Continuer sans accepter
+            </button>
+            <button
+                id="accept-cookies"
+                class="px-5 py-2.5 rounded-xl bg-forest text-white font-bold text-sm hover:bg-forest-light transition-colors shadow-md"
+            >
+                Accepter et fermer
+            </button>
+        </div>
+    </div>
+</div>
+
+<script>
+    const banner = document.getElementById("cookie-banner");
+    const acceptBtn = document.getElementById("accept-cookies");
+    const rejectBtn = document.getElementById("reject-cookies");
+
+    // Check storage
+    const cookiesPreference = localStorage.getItem("sovkipik_cookies_consent");
+
+    if (!cookiesPreference && banner) {
+        // Show banner after a small delay
+        setTimeout(() => {
+            banner.classList.remove("translate-y-full");
+        }, 1000);
+    }
+
+    const closeBanner = () => {
+        if (banner) banner.classList.add("translate-y-full");
+    };
+
+    if (acceptBtn) {
+        acceptBtn.addEventListener("click", () => {
+            localStorage.setItem("sovkipik_cookies_consent", "accepted");
+            closeBanner();
+            // Here you would trigger analytics
+        });
+    }
+
+    if (rejectBtn) {
+        rejectBtn.addEventListener("click", () => {
+            localStorage.setItem("sovkipik_cookies_consent", "rejected");
+            closeBanner();
+        });
+    }
+</script>

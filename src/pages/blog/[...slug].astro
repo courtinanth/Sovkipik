@@ -1,0 +1,288 @@
+---
+export const prerender = true;
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+import AuthorBox from "../../components/AuthorBox.astro";
+
+import { Calendar, Clock, User, Tag } from "lucide-react";
+
+export async function getStaticPaths() {
+    const blogEntries = await getCollection("blog");
+    return blogEntries.map((entry) => ({
+        params: { slug: entry.slug },
+        props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content, headings } = await entry.render();
+
+// For sidebar: get recent posts
+const allPosts = await getCollection("blog");
+const recentPosts = allPosts
+    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+    .slice(0, 5);
+
+// Calculate reading time (approximate)
+const wordCount = entry.body.split(/\s+/g).length;
+const readingTime = Math.ceil(wordCount / 200);
+
+const dateFormat = new Intl.DateTimeFormat("fr-FR", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+});
+---
+
+<Layout title={`${entry.data.title} - Sovkipik`}>
+    <!-- Header Section with soft background -->
+    <header
+        class="bg-beige-softer border-b border-earth/10 relative overflow-hidden pb-20"
+    >
+        <div
+            class="absolute top-0 left-0 w-full h-full opacity-10 pointer-events-none"
+        >
+            <div
+                class="absolute -top-40 -right-40 w-96 h-96 bg-forest rounded-full blur-3xl"
+            >
+            </div>
+            <div
+                class="absolute -bottom-40 -left-40 w-96 h-96 bg-highlight rounded-full blur-3xl"
+            >
+            </div>
+        </div>
+
+        <div
+            class="container mx-auto px-4 pt-16 relative z-10 text-center max-w-4xl"
+        >
+            <div
+                class="inline-flex items-center gap-2 bg-white/60 backdrop-blur-sm px-3 py-1 rounded-full text-forest text-sm font-bold mb-6 border border-white/50 shadow-sm"
+            >
+                <Tag className="w-4 h-4" />
+                {entry.data.category}
+            </div>
+
+            <h1
+                class="text-4xl md:text-5xl lg:text-6xl font-bold text-forest-dark mb-6 leading-tight"
+            >
+                {entry.data.title}
+            </h1>
+
+            <div
+                class="flex flex-wrap justify-center gap-6 text-earth-dark text-sm md:text-base font-medium mb-12"
+            >
+                <div class="flex items-center gap-2">
+                    <User className="w-4 h-4" />
+                    {entry.data.author}
+                </div>
+                <div class="flex items-center gap-2">
+                    <Calendar className="w-4 h-4" />
+                    {dateFormat.format(entry.data.date)}
+                </div>
+                <div class="flex items-center gap-2">
+                    <Clock className="w-4 h-4" />
+                    {readingTime} min de lecture
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container mx-auto px-4 py-12 grid lg:grid-cols-12 gap-8 mt-24">
+        <!-- Left Sidebar (TOC + Share) -->
+        <div class="hidden lg:block lg:col-span-2">
+            <div class="sticky top-32 flex flex-col gap-8">
+                {
+                    headings.filter((h) => h.depth === 2).length > 0 && (
+                        <div class="bg-white p-5 rounded-2xl shadow-sm border border-beige-dark/10 text-sm">
+                            <h3 class="font-bold text-forest mb-4 border-b border-earth/10 pb-2">
+                                Sommaire
+                            </h3>
+                            <ul class="space-y-3">
+                                {headings
+                                    .filter((h) => h.depth === 2)
+                                    .map((heading) => (
+                                        <li>
+                                            <a
+                                                href={`#${heading.slug}`}
+                                                class="text-earth-dark hover:text-highlight transition-colors font-medium block leading-snug"
+                                            >
+                                                {heading.text}
+                                            </a>
+                                        </li>
+                                    ))}
+                            </ul>
+                        </div>
+                    )
+                }
+
+                <div class="flex flex-col gap-4 items-center">
+                    <!-- Icons for sharing could go here -->
+                    <div
+                        class="w-10 h-10 rounded-full bg-white border border-beige-dark/20 flex items-center justify-center hover:text-forest hover:border-forest transition-colors cursor-pointer"
+                        title="Partager"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="20"
+                            height="20"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="2"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            ><circle cx="18" cy="5" r="3"></circle><circle
+                                cx="6"
+                                cy="12"
+                                r="3"></circle><circle cx="18" cy="19" r="3"
+                            ></circle><line
+                                x1="8.59"
+                                y1="13.51"
+                                x2="15.42"
+                                y2="17.49"></line><line
+                                x1="15.41"
+                                y1="6.51"
+                                x2="8.59"
+                                y2="10.49"></line></svg
+                        >
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <main class="lg:col-span-7">
+            <div
+                class="bg-white p-8 md:p-12 rounded-3xl shadow-sm border border-beige-dark/10"
+            >
+                <article
+                    class="prose prose-lg md:prose-xl prose-forest max-w-none
+              prose-headings:font-bold prose-headings:text-forest-dark prose-headings:scroll-mt-24
+              prose-p:text-earth-dark prose-p:leading-relaxed prose-p:text-base md:prose-p:text-lg
+              prose-a:text-highlight prose-a:no-underline hover:prose-a:underline
+              prose-img:rounded-3xl prose-img:shadow-lg prose-img:mx-auto prose-img:my-10
+              prose-blockquote:border-l-4 prose-blockquote:border-highlight prose-blockquote:bg-beige-softer prose-blockquote:mx-0 prose-blockquote:py-6 prose-blockquote:px-8 prose-blockquote:text-forest prose-blockquote:not-italic prose-blockquote:rounded-r-2xl prose-blockquote:shadow-sm prose-blockquote:font-medium
+              prose-li:marker:text-highlight
+              prose-table:w-full prose-table:border-collapse prose-table:my-8 prose-table:rounded-xl prose-table:overflow-hidden prose-table:shadow-sm
+              prose-th:bg-forest/5 prose-th:p-4 prose-th:text-forest-dark prose-th:font-bold prose-th:text-left
+              prose-td:p-4 prose-td:border-b prose-td:border-earth/10 prose-td:text-earth-dark"
+                >
+                    <Content />
+                </article>
+
+                <AuthorBox />
+            </div>
+
+            <!-- Related Articles Section -->
+            <div class="mt-16 pt-12 border-t border-earth/20">
+                <h3
+                    class="text-2xl font-bold text-forest mb-8 flex items-center gap-2"
+                >
+                    <span class="w-8 h-1 bg-highlight rounded-full"></span>
+                    À lire aussi
+                </h3>
+
+                <div class="grid md:grid-cols-3 gap-6">
+                    {
+                        allPosts
+                            .filter((p) => p.slug !== entry.slug) // Exclude current
+                            .sort(
+                                (a, b) =>
+                                    b.data.date.valueOf() -
+                                    a.data.date.valueOf(),
+                            ) // Sort by date
+                            .slice(0, 3) // Take top 3
+                            .map((post) => (
+                                <a href={`/blog/${post.slug}`} class="group">
+                                    <article class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-forest/5 h-full flex flex-col">
+                                        <div class="h-40 overflow-hidden relative">
+                                            <div class="absolute inset-0 bg-forest-dark/10 group-hover:bg-forest-dark/0 transition-colors z-10" />
+                                            <img
+                                                src={post.data.image}
+                                                alt={post.data.title}
+                                                class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
+                                            />
+                                        </div>
+                                        <div class="p-5 flex flex-col flex-grow">
+                                            <h4 class="font-bold text-forest-dark mb-2 group-hover:text-highlight transition-colors line-clamp-2 text-sm">
+                                                {post.data.title}
+                                            </h4>
+                                            <span class="text-xs text-earth font-bold mt-auto pt-4 flex items-center gap-1 opacity-80 group-hover:opacity-100">
+                                                Lire l'article →
+                                            </span>
+                                        </div>
+                                    </article>
+                                </a>
+                            ))
+                    }
+                </div>
+            </div>
+        </main>
+
+        <!-- Right Sidebar (Recent Posts) -->
+        <aside class="lg:col-span-3">
+            <div class="sticky top-32 space-y-8">
+                <div
+                    class="bg-white p-6 rounded-2xl shadow-sm border border-beige-dark/10"
+                >
+                    <h3
+                        class="text-xl font-bold text-forest mb-6 pb-2 border-b border-earth/10"
+                    >
+                        Derniers articles
+                    </h3>
+                    <ul class="space-y-6">
+                        {
+                            recentPosts.map((post) => (
+                                <li>
+                                    <a
+                                        href={`/blog/${post.slug}`}
+                                        class="group group-hover:text-forest transition-colors"
+                                    >
+                                        <span class="block text-xs text-earth/70 mb-1">
+                                            {dateFormat.format(post.data.date)}
+                                        </span>
+                                        <h4 class="font-bold text-forest-dark group-hover:text-highlight transition-colors leading-snug">
+                                            {post.data.title}
+                                        </h4>
+                                    </a>
+                                </li>
+                            ))
+                        }
+                    </ul>
+                    <div class="mt-8 pt-6 border-t border-earth/10">
+                        <a
+                            href="/blog"
+                            class="text-sm font-bold text-highlight hover:underline flex items-center gap-1"
+                        >
+                            Voir tous les articles <span>→</span>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Promo Box -->
+                <div
+                    class="bg-forest text-white p-6 rounded-2xl shadow-lg relative overflow-hidden group"
+                >
+                    <div
+                        class="absolute top-0 right-0 w-32 h-32 bg-white/10 rounded-full -translate-y-10 translate-x-10 blur-xl"
+                    >
+                    </div>
+                    <h3 class="text-xl font-bold mb-4 relative z-10">
+                        Urgence Hérisson ?
+                    </h3>
+                    <p class="text-white/80 text-sm mb-6 relative z-10">
+                        Vous avez trouvé un animal en détresse ? Consultez notre
+                        guide d'urgence.
+                    </p>
+                    <a
+                        href="/sauver-les-herissons"
+                        class="block w-full text-center bg-white text-forest font-bold py-3 rounded-lg hover:bg-highlight hover:text-white transition-all shadow-md relative z-10"
+                    >
+                        Voir le guide 🚑
+                    </a>
+                </div>
+            </div>
+        </aside>
+    </div>
+</Layout>

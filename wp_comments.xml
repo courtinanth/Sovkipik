@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 5.2.2
+- https://www.phpmyadmin.net
+-
+- Host: 127.0.0.1:3306
+- Generation Time: Jan 24, 2026 at 10:57 AM
+- Server version: 11.8.3-MariaDB-log
+- PHP Version: 7.2.34
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="https://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="u210464004_ES49v" collation="utf8mb4_unicode_ci" charset="utf8mb4">
+            <pma:table name="wp_comments">
+                CREATE TABLE `wp_comments` (
+                  `comment_ID` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+                  `comment_post_ID` bigint(20) unsigned NOT NULL DEFAULT 0,
+                  `comment_author` tinytext NOT NULL,
+                  `comment_author_email` varchar(100) NOT NULL DEFAULT '',
+                  `comment_author_url` varchar(200) NOT NULL DEFAULT '',
+                  `comment_author_IP` varchar(100) NOT NULL DEFAULT '',
+                  `comment_date` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+                  `comment_date_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+                  `comment_content` text NOT NULL,
+                  `comment_karma` int(11) NOT NULL DEFAULT 0,
+                  `comment_approved` varchar(20) NOT NULL DEFAULT '1',
+                  `comment_agent` varchar(255) NOT NULL DEFAULT '',
+                  `comment_type` varchar(20) NOT NULL DEFAULT 'comment',
+                  `comment_parent` bigint(20) unsigned NOT NULL DEFAULT 0,
+                  `user_id` bigint(20) unsigned NOT NULL DEFAULT 0,
+                  PRIMARY KEY (`comment_ID`),
+                  KEY `comment_post_ID` (`comment_post_ID`),
+                  KEY `comment_approved_date_gmt` (`comment_approved`,`comment_date_gmt`),
+                  KEY `comment_date_gmt` (`comment_date_gmt`),
+                  KEY `comment_parent` (`comment_parent`),
+                  KEY `comment_author_email` (`comment_author_email`(10))
+                ) ENGINE=InnoDB AUTO_INCREMENT=492 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Database: 'u210464004_ES49v'
+    -->
+    <database name="u210464004_ES49v">
+        <!-- Table wp_comments -->
+        <table name="wp_comments">
+            <column name="comment_ID">7</column>
+            <column name="comment_post_ID">258</column>
+            <column name="comment_author">Francis Roger VARNEROT</column>
+            <column name="comment_author_email">francisvarnerot@gmail.com</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a01:e0a:85c:3030:599f:65d2:52ff:9dd1</column>
+            <column name="comment_date">2023-09-12 22:34:43</column>
+            <column name="comment_date_gmt">2023-09-12 20:34:43</column>
+            <column name="comment_content">Je viens de retirer 4 tiques sur un herisson qui nous rend visite tous les jours et Nous en avons 5 ou 6 régulièrement, il faut dire que les croquettes des chats plus de l'eau à volonté sont là pour eux ,nous avons toujours eu des hérissons que nous adorons !</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">8</column>
+            <column name="comment_post_ID">258</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">133.159.148.75</column>
+            <column name="comment_date">2023-09-18 07:09:55</column>
+            <column name="comment_date_gmt">2023-09-18 05:09:55</column>
+            <column name="comment_content">S'ils reviennent régulièrement vous voir c'est que vous vous occupez bien d'eux. Continuez comme cela et merci pour eux de prendre soin de ces petites bêtes en retirant leurs tiques !</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">7</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">9</column>
+            <column name="comment_post_ID">263</column>
+            <column name="comment_author">Béatrice Vandamme</column>
+            <column name="comment_author_email">sphynxcats@hotmail.be</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">197.27.61.247</column>
+            <column name="comment_date">2023-09-25 16:59:18</column>
+            <column name="comment_date_gmt">2023-09-25 14:59:18</column>
+            <column name="comment_content">Bjr
+Un bb hérisson a été abandonné chez moi. Il pesait 23 gr voilà 1 semaine. Ce jour, 34 gr. Il a du lait maternisé, a tjrs les yeux fermés, se déplace bien mais a des épisodes de selles semis liquides. J ai donné de l eau de riz, que faire d autre ? Il est sur 1 coussin chauffant. PS:j habite en Tunisie, pas de refuges ! Véto n y connaît rien.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 10; MAR-LX1B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.58 Mobile Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">10</column>
+            <column name="comment_post_ID">239</column>
+            <column name="comment_author">Ohnona</column>
+            <column name="comment_author_email">nohma85@gmail.com</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a01:e0a:1c1:40c0:ec2d:9887:b8b1:cdad</column>
+            <column name="comment_date">2023-09-29 08:10:55</column>
+            <column name="comment_date_gmt">2023-09-29 06:10:55</column>
+            <column name="comment_content">Bonjour.
+J ai la chance d avoir des hérissons dans mon jardin, je leur donne des croquettes pour chats. Qu’ils se préparent pour leur hibernation. Et il m’est arrivé de trouver des grosses tiques (pleines) grises sur le sol où ils viennent se nourrir que j’ai éliminées sans attendre. Mais peut être en ont ils encore. Sont elles dangereuses pour les hérissons? Y a t’il un moyen de les débarrasser de ces parasites?
+Je précise que je suis leur pérégrination à ‘aide d’une caméra placée face à leur point de nourrissage et qu’ils semblent en très bonne santé.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (iPad; CPU OS 15_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">11</column>
+            <column name="comment_post_ID">263</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">14.201.8.18</column>
+            <column name="comment_date">2023-10-04 00:56:40</column>
+            <column name="comment_date_gmt">2023-10-03 22:56:40</column>
+            <column name="comment_content">Bonjour Béatrice,
+Nous vous conseillons de contacter Alliance Hérisson qui vous donnerons des conseils adaptés pour optimiser la survie de notre amis qui piquent !
+Nous vous remercions également de prendre soin de cette petite bête comme vous le faite.
+
+Lien d'Alliance Hérisson : &lt;a href=&quot;https://www.facebook.com/profile.php?id=100064320027110&quot; rel=&quot;nofollow ugc&quot;&gt;https://www.facebook.com/profile.php?id=100064320027110&lt;/a&gt;</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">9</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">12</column>
+            <column name="comment_post_ID">239</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">14.201.8.18</column>
+            <column name="comment_date">2023-10-04 01:06:49</column>
+            <column name="comment_date_gmt">2023-10-03 23:06:49</column>
+            <column name="comment_content">Bonjour Ohnona,
+Oui les tiques peuvent être dangereuses pour les hérissons et le seul moyen pour vous de pouvoir les retirer est via une pince à tique. Nous vous déconseillons de mettre des produits conçu pour les chiens et chats, car ils ne sont pas adaptés aux hérissons.
+Si les hérissons que vous voyez à travers votre caméra semblent en excellente santé, mieux vaut tout de même ne pas les déranger !
+Cependant, si vous rencontrez de plus en plus de tiques, vous pourrez demander conseil à un vétérinaire, il pourra sûrement vous prescrire un anti-tique pour hérissons.
+
+Merci de prendre soin de nos amis qui piquent !</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">10</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">15</column>
+            <column name="comment_post_ID">162</column>
+            <column name="comment_author">robeaux françoise</column>
+            <column name="comment_author_email">gaston.robeaux@orange.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a01:cb0c:1f8:7900:9c28:7c6c:6ac6:41ef</column>
+            <column name="comment_date">2023-11-15 12:38:30</column>
+            <column name="comment_date_gmt">2023-11-15 11:38:30</column>
+            <column name="comment_content">bonjour,aujourd'hui un hérisson est sorti de sa taniére et il est venu devant la maison.Mon chat l'a vu mais ne s'est pas approché.il a mangé et ensuite il est reparti dans mon jardin.J'ai fait des photos mais je ne sais pas si je pourrais vous les transmettre.Il va bientot hiberner je pense sous un plancher au bout du jardin.je vous ai déjà envoyé des photos, un soir d'été.cordt.me robeaux françoise.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">16</column>
+            <column name="comment_post_ID">162</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">149.167.168.255</column>
+            <column name="comment_date">2023-11-17 00:04:59</column>
+            <column name="comment_date_gmt">2023-11-16 23:04:59</column>
+            <column name="comment_content">Bonjour Mme Robeaux françoise, très belle découverte que vous avez fait là avec notre ami à pique. Si vous souhaitez nous envoyer des photos vous pouvez le faire à cette adresse mail : photo@sovkipik.com
+
+C'est possible qu'il hiberne bientôt, car la saison approche, il ne faut surtout pas oublier de leur apporter une source d'eau continue et tant qu'il n'a pas commencé son hibernation, vous pouvez aussi lui donner des croquettes pour chat afin qu'il se constitue une réserve de graisse suffisante pour passer l'hiver !
+
+Merci pour votre intérêt envers les hérissons,
+Anthony</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">15</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">42</column>
+            <column name="comment_post_ID">239</column>
+            <column name="comment_author">FRANCOIS JP</column>
+            <column name="comment_author_email">jpf0648@gmail.com</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">90.25.172.197</column>
+            <column name="comment_date">2024-02-03 20:20:59</column>
+            <column name="comment_date_gmt">2024-02-03 19:20:59</column>
+            <column name="comment_content">Bons conseils,on va essayer.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">54</column>
+            <column name="comment_post_ID">222</column>
+            <column name="comment_author">Carrard</column>
+            <column name="comment_author_email">40epicea@gmail.com</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2001:861:51c6:fe10:e1af:4724:a351:27b7</column>
+            <column name="comment_date">2024-03-11 09:39:25</column>
+            <column name="comment_date_gmt">2024-03-11 08:39:25</column>
+            <column name="comment_content">Merci pour l’info qui m’a rendu service pour nous persuader qu’il s’agissait bien d’une famille de hérissons sui venait manger les croquettes du chat ( très nombreuses crottes ) . Nous sommes ravis de les avoir dans le jardin.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/122.0.6261.89 Mobile/15E148 Safari/604.1</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">55</column>
+            <column name="comment_post_ID">232</column>
+            <column name="comment_author">ollier</column>
+            <column name="comment_author_email">enolflo@free.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a01:e0a:f8:5d20:e155:c577:32a2:6bfe</column>
+            <column name="comment_date">2024-03-13 18:27:08</column>
+            <column name="comment_date_gmt">2024-03-13 17:27:08</column>
+            <column name="comment_content">Je viens de trouver dans mon terrain la peau entière avec ses pics d'un hérisson , et la peau intérieure toute lisse sans chaire dessus , je suis triste , il avait été vu dans les phares de la voiture un matin où il faisait encore nuit trottinant dans l'herbe il y a environ 15 jours et aujourd'hui je ne retrouve que la peau ? quel animal peut lui avoir fait ça ? j'ai cherché sa cachette mais je n'ai rien trouvé .j'ai des tas de bois pour la cheminée et je pensais qu'il avait niché dans l'un d'eux , mais rien de visible ?s'il y a des petits pensez vous qu'ils soient déjà nés en Mars j'aimerai les protéger .</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">65</column>
+            <column name="comment_post_ID">323</column>
+            <column name="comment_author">Granger-Veyron Elisabeth</column>
+            <column name="comment_author_email">elisabeth.granger-veyron@orange.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">90.113.212.239</column>
+            <column name="comment_date">2024-04-12 21:30:41</column>
+            <column name="comment_date_gmt">2024-04-12 19:30:41</column>
+            <column name="comment_content">Beaucoup d'informations intéressantes et instructives.
+Longue vie à nos petits amis les hérissons.
+Merci pour eux.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 13; 23108RN04Y Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/453.0.0.38.109;]</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">67</column>
+            <column name="comment_post_ID">232</column>
+            <column name="comment_author">Durand</column>
+            <column name="comment_author_email">sophie.durand12@bbox.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2001:861:e3d8:9840:fce3:89fe:31b2:7f0a</column>
+            <column name="comment_date">2024-04-15 22:27:30</column>
+            <column name="comment_date_gmt">2024-04-15 20:27:30</column>
+            <column name="comment_content">J'ai des hérissons dans mon jardin mais il y a 2 grands ducs comment les eloigner ils viennent même la journée alors que les grands ducs sont diurnes je suis désespérée comment faire pour faire partir les grands ducs ? Merci</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">70</column>
+            <column name="comment_post_ID">232</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">169.155.250.73</column>
+            <column name="comment_date">2024-04-19 09:44:16</column>
+            <column name="comment_date_gmt">2024-04-19 07:44:16</column>
+            <column name="comment_content">Bonjour, malheureusement vous ne pouvez pas faire grand chose à part créer un abri pour les hérissons, car comme les hérissons, le grand-duc est aussi une espèce protégée.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">67</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">85</column>
+            <column name="comment_post_ID">258</column>
+            <column name="comment_author">isabelle degardin</column>
+            <column name="comment_author_email">theoisa@orange.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2001:861:2052:f680:2ddb:ba83:42e5:f546</column>
+            <column name="comment_date">2024-04-30 19:05:23</column>
+            <column name="comment_date_gmt">2024-04-30 17:05:23</column>
+            <column name="comment_content">bjr, j aimerez savoir si on peut mettre un peu de vinaigre blanc et eau sur l hérisson, cela éviterez que les insectes, puces et tiques vienne sur lui, merci de me répondre</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">88</column>
+            <column name="comment_post_ID">258</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">169.155.250.6</column>
+            <column name="comment_date">2024-05-03 09:48:39</column>
+            <column name="comment_date_gmt">2024-05-03 07:48:39</column>
+            <column name="comment_content">Bonjour, non il ne faut surtout pas mettre de vinaigre blanc sur un hérisson, car ils détestent cela, le vinaigre blanc peut en certains cas être utilisé comme répulsif naturel CONTRE les hérissons, donc en mettre sur-eux n'ai pas une bonne idée. Par contre, vous pouvez utiliser de l'huile essentielle de lavande ce qui marche bien contre les tiques et puces. Attention ne mettez pas l'huile pure sur eux, vous devrez créer un rapide mélange, en mettant 1 goutte d'huile de lavande dans 20 gouttes d'huile de table (tournesol, colza...).
+
+Merci à vous de votre intérêt pour la cause hérissonne !</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">85</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">118</column>
+            <column name="comment_post_ID">239</column>
+            <column name="comment_author">yves alba</column>
+            <column name="comment_author_email">y.alba@wanadoo.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a01:cb10:8698:5800:e979:9666:6d8e:d428</column>
+            <column name="comment_date">2024-06-14 08:39:25</column>
+            <column name="comment_date_gmt">2024-06-14 06:39:25</column>
+            <column name="comment_content">bonjour
+une maman hérisson s'est installée dans ma grange, elle a 3 petits, des amis m'en demandent un, ils courent partout(les hérissons) puis je en donner un?
+merci pour votre conseil</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">119</column>
+            <column name="comment_post_ID">239</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">216.128.23.121</column>
+            <column name="comment_date">2024-06-14 10:43:28</column>
+            <column name="comment_date_gmt">2024-06-14 08:43:28</column>
+            <column name="comment_content">Bonjour Yves,
+
+Tout d'abord, merci pour votre question.
+
+Pour y répondre, non, vous ne pouvez pas donner de hérisson à votre ami, car le hérisson d'Europe est un mammifère intégralement protégé en France au titre de l'article L411-1 du code de l'environnement.
+
+La meilleure façon d'aider ces petits mammifères et de les laisser faire leur vie sans les déranger, car le hérisson est un animal solitaire, donc si vous veniez à déranger cette famille, la mère pourrait prendre la fuite et abandonner ses bébés, ce qui les tuera à coup sûr. 
+
+Si vous souhaitez plus de conseils à propos des bébés hérissons, j'ai rédigé un article complet que vous trouverez dans le menu du site !
+
+En espérant avoir correctement répondu à votre question, et en vous souhaitant une bonne journée.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">118</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">248</column>
+            <column name="comment_post_ID">258</column>
+            <column name="comment_author">Pannier</column>
+            <column name="comment_author_email">edwigepannier@free.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">92.162.29.164</column>
+            <column name="comment_date">2024-10-29 22:32:11</column>
+            <column name="comment_date_gmt">2024-10-29 21:32:11</column>
+            <column name="comment_content">Bonjour, nous avons dasn notre jardin un hérisson envahit de tiques autour des yeux mais impossible de le debouler donc de lui retirer tous ces tiques, { une vinsgtaine)on y a passe des heures ces derniers jours en faisant toutes les techniques. Comment faire, nous sommes très inquiets.
+Merci</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">249</column>
+            <column name="comment_post_ID">263</column>
+            <column name="comment_author">Bayle Amanda</column>
+            <column name="comment_author_email">amandabayle09200@gmail.com</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a01:cb19:8503:4a00:e912:f9f0:cb01:d57b</column>
+            <column name="comment_date">2024-11-01 15:42:36</column>
+            <column name="comment_date_gmt">2024-11-01 14:42:36</column>
+            <column name="comment_content">Bonjour , 
+Je viens de recueillir une jeune femelle de 4 semaines environ , elle pèse 120gm . Cela fait 2 jours qu'elle partage notre quotidien . J'arrive à l'a prendre sur mes genoux , elle apprécie les caresses . Je voudrais qu'elle puise grandir et vivre dans notre très grand potager , mais j'ai peur qu'elle s'habitue trop à l'humain . Pour le moment , elle vie dans la maison . Pouvez-vous me donner des conseils sur son développement , sur la façon de bien s'en occupée ,de la baignée . Merci , cordialement</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">250</column>
+            <column name="comment_post_ID">413</column>
+            <column name="comment_author">Claude Tracol</column>
+            <column name="comment_author_email">clatracemp11@yahoo.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">78.246.63.122</column>
+            <column name="comment_date">2024-11-21 16:05:14</column>
+            <column name="comment_date_gmt">2024-11-21 15:05:14</column>
+            <column name="comment_content">Les hérissons ont besoin de boire beaucoup s ils mangent des croquettes ...
+Il faut leur mettre des bacs d'eau très stables car ils renversent tout...</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 14; SM-A057G Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.46 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/490.0.0.63.82;IABMV/1;]</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">251</column>
+            <column name="comment_post_ID">413</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">169.155.250.223</column>
+            <column name="comment_date">2024-11-21 16:23:56</column>
+            <column name="comment_date_gmt">2024-11-21 15:23:56</column>
+            <column name="comment_content">Bonjour, oui vous avez tout à fait raison !</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">250</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">252</column>
+            <column name="comment_post_ID">263</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">169.155.250.223</column>
+            <column name="comment_date">2024-11-21 16:29:09</column>
+            <column name="comment_date_gmt">2024-11-21 15:29:09</column>
+            <column name="comment_content">Bonjour, désolé pour notre réponse, tardive, nous espérons que vous vous êtes bien occupée de notre petit ami le hérisson !
+
+Mais pour tout de même répondre à votre question pour les prochains qui en auront besoin : 
+
+Je comprends votre désir de prendre soin de ce jeune hérisson. Cependant, en France, le hérisson d'Europe est une espèce intégralement protégée par l'article L411-1 du code de l'environnement et l'arrêté du 23 avril 2007. Il est donc interdit de capturer, de détenir ou de transporter un hérisson, même pour lui porter assistance.
+
+Source : LPO
+
+La détention d'un hérisson, même temporaire, est illégale et peut entraîner des sanctions. Il est recommandé de contacter un centre de sauvegarde de la faune sauvage agréé, qui dispose des compétences et des autorisations nécessaires pour s'occuper de ces animaux. Ces centres sont équipés pour prodiguer les soins appropriés et assurer la réhabilitation des hérissons dans leur habitat naturel.
+
+Vous pouvez trouver le centre de soins le plus proche de chez vous en consultant la liste des centres de sauvegarde sur notre site :
+
+&lt;a href=&quot;https://sovkipik.com/centres-soins-herissons/&quot; rel=&quot;ugc&quot;&gt;https://sovkipik.com/centres-soins-herissons/&lt;/a&gt;</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">249</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">253</column>
+            <column name="comment_post_ID">258</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">169.155.250.223</column>
+            <column name="comment_date">2024-11-21 16:32:28</column>
+            <column name="comment_date_gmt">2024-11-21 15:32:28</column>
+            <column name="comment_content">Bonjour, désolé pour notre réponse, tardive, nous espérons que vous vous êtes bien occupée de notre petit ami le hérisson !
+
+Mais pour tout de même répondre à votre question pour les prochains qui en auront besoin :
+
+Le plus simple est d'emmener directement le hérisson chez un vétérinaire capable de les soigner. Pour transporter le hérisson, vous aurez besoin : 
+
+&lt;strong&gt;1. Préparer un contenant adapté&lt;/strong&gt;
+Utilisez une boîte en carton solide ou une petite caisse de transport pour animaux. Assurez-vous qu’elle est bien aérée en perçant de petits trous sur les côtés.
+Tapissez le fond de la boîte avec des chiffons propres, un vieux t-shirt ou du papier absorbant pour qu’il se sente à l’aise et évite de glisser.
+Évitez les cages à barreaux : un hérisson pourrait se coincer les pattes ou se blesser.
+
+&lt;strong&gt;2. Manipuler le hérisson avec précaution&lt;/strong&gt;
+Portez des gants épais ou utilisez un tissu pour éviter de vous piquer et pour réduire le stress de l’animal.
+Saisissez-le délicatement en formant une sorte de &quot;nid&quot; avec vos mains ou le tissu. Évitez de le retourner brusquement ou de le manipuler trop longtemps.
+
+&lt;strong&gt;3. Assurer sa sécurité pendant le transport&lt;/strong&gt;
+Maintenez la boîte à une température confortable : entre 20 et 25 °C. En cas de froid, placez une bouteille d'eau chaude (enveloppée dans un chiffon) à côté de l’animal, sans contact direct pour éviter les brûlures.
+Placez la boîte dans un endroit stable de votre véhicule pour éviter qu’elle ne glisse ou ne se renverse.
+
+&lt;strong&gt;4. Minimiser le stress&lt;/strong&gt;
+Gardez l’environnement aussi calme et sombre que possible. Cela aidera à rassurer le hérisson.
+Évitez de secouer ou d’ouvrir la boîte inutilement pendant le transport.
+
+&lt;strong&gt;5. Apporter des informations&lt;/strong&gt;
+Si possible, notez des informations sur l’état de l’animal : son comportement, ses blessures visibles, son poids approximatif, et le lieu où il a été trouvé.
+Ces détails peuvent être utiles pour le vétérinaire ou le centre de sauvegarde.
+
+En suivant ces étapes, vous garantissez le confort et la sécurité du hérisson pendant le transport. Une fois sur place, les professionnels pourront évaluer son état et décider des soins nécessaires.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">248</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">274</column>
+            <column name="comment_post_ID">222</column>
+            <column name="comment_author">Catherine Noyel</column>
+            <column name="comment_author_email">catnoy2@orange.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a04:cec0:f058:c911:0:3d:697d:5b01</column>
+            <column name="comment_date">2025-07-14 13:56:54</column>
+            <column name="comment_date_gmt">2025-07-14 11:56:54</column>
+            <column name="comment_content">Merci pour les infos ! J'ai créé une mare au printemps pour attirer les hérissons au jardin et j'ai trouvé une crotte aujourd'hui (après vérification, élytres d'insectes à l'intérieur). Mon objectif est atteint et je suis très heureuse d'accueillir ce petit mammifère chez moi ☺️</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">295</column>
+            <column name="comment_post_ID">404</column>
+            <column name="comment_author">valerie veinante</column>
+            <column name="comment_author_email">valerieveinante@orange.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">92.184.124.42</column>
+            <column name="comment_date">2025-08-26 00:52:05</column>
+            <column name="comment_date_gmt">2025-08-25 22:52:05</column>
+            <column name="comment_content">Pikpik à vous! J'ai 2 de ces adorables petites bestioles dans mon jardin, avec abris, gamelles, nourriture spéciale mais l' un rentre régulièrement et fait le tour du salon en laissant des ptites crottes partout avec mes 2chats le regardant faire comme leur pote 🦔 je suis un peu démunie mais me dit que comme les hirondelles de sous mon toit ça porte bonheur 🦔❤️ Bonne pikpik à vous 🦔🦔🦔</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">309</column>
+            <column name="comment_post_ID">258</column>
+            <column name="comment_author">Dominique Amiot</column>
+            <column name="comment_author_email">amidomi60@netcourrier.com</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a02:8434:d460:2c01:a7f:bf61:1b5d:a2b9</column>
+            <column name="comment_date">2025-09-08 19:51:34</column>
+            <column name="comment_date_gmt">2025-09-08 17:51:34</column>
+            <column name="comment_content">Merci pour tous ces précieux conseils que nous mettons en pratique pour sauver un jeune hérisson qu’on nous a apporté</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">336</column>
+            <column name="comment_post_ID">413</column>
+            <column name="comment_author">Isa</column>
+            <column name="comment_author_email">rabache80@gmail.com</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a01:cb06:d043:f852:7c97:cddb:defb:9722</column>
+            <column name="comment_date">2025-10-03 13:38:17</column>
+            <column name="comment_date_gmt">2025-10-03 11:38:17</column>
+            <column name="comment_content">Je nourris également les hérissons et ont leur petite maison pour l'hiver ! C'est mon Téléthon ! Les hérissons, les chats errants et les oiseaux de la nature ont leurs petits festins quotidiens... c'est un réel plaisir de les observer, surtout quand les oiseaux se baignent pour faire leurs toilettes, particulièrement les merles. Ça m'éloigne des humains déshumanisés, et je me sens mieux avec les animaux... pas déçue...</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">337</column>
+            <column name="comment_post_ID">413</column>
+            <column name="comment_author">Isa</column>
+            <column name="comment_author_email">rabache80@gmail.com</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a01:cb06:d043:f852:7c97:cddb:defb:9722</column>
+            <column name="comment_date">2025-10-03 13:42:23</column>
+            <column name="comment_date_gmt">2025-10-03 11:42:23</column>
+            <column name="comment_content">S'il vous plaît, ne pas oublier de mettre de l'eau à volonté pour les hérissons, oiseaux et chats errants... et de la nourriture si c'est possible ! Pas de LAIT pour les hérissons, surtout pas. Ils peuvent en mourir, merci d'avance pour eux.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">370</column>
+            <column name="comment_post_ID">413</column>
+            <column name="comment_author">Frésard Dominique</column>
+            <column name="comment_author_email">seladom@bluewin.ch</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a02:aa10:ea7e:3a80:72fa:b9a:1b3b:cab4</column>
+            <column name="comment_date">2025-11-01 11:08:42</column>
+            <column name="comment_date_gmt">2025-11-01 10:08:42</column>
+            <column name="comment_content">J'ai une cabane pour hérissons d'un côté de la maison. Ils mangent, boivent, mais je les vois très rarement. J'ai une cabane pour chats errants du village de l'autre côté de la maison, ils mangent, boivent mais parfois, j'y vois un hérisson. Mais il fait ses crottes dans la cabane voir dans les auges de nourriture!! que puis-je faire pour éviter ses crottes? Merci à l'avance.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">371</column>
+            <column name="comment_post_ID">413</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">2001:861:4d81:c2d0:b492:aa5c:54e3:cf06</column>
+            <column name="comment_date">2025-11-01 19:07:53</column>
+            <column name="comment_date_gmt">2025-11-01 18:07:53</column>
+            <column name="comment_content">Merci pour votre message et pour prendre soin des hérissons. 
+
+Ce comportement est fréquent : ils font souvent leurs besoins là où ils mangent ou se sentent en sécurité. Pour limiter cela, placez la nourriture et l’eau à l’extérieur de la cabane, dans un petit abri séparé. 
+
+Nettoyez régulièrement les gamelles et évitez les aliments trop humides. Ainsi, le hérisson gardera sa cabane plus propre.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">370</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">372</column>
+            <column name="comment_post_ID">413</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">2001:861:4d81:c2d0:b492:aa5c:54e3:cf06</column>
+            <column name="comment_date">2025-11-01 19:09:02</column>
+            <column name="comment_date_gmt">2025-11-01 18:09:02</column>
+            <column name="comment_content">Merci pour vos messages et votre bienveillance envers les animaux. Vous avez entièrement raison : l’eau fraîche à volonté est essentielle, surtout en période chaude, et le lait est effectivement dangereux pour les hérissons. 
+
+Votre attention et vos gestes quotidiens font une réelle différence pour la faune locale. C’est un bel exemple d’humanité et de respect envers la nature.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">337</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">400</column>
+            <column name="comment_post_ID">258</column>
+            <column name="comment_author">Bubulle</column>
+            <column name="comment_author_email">angebox@orange.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a01:e0a:5ea:7b20:ac9b:3842:d8e2:bc05</column>
+            <column name="comment_date">2025-11-24 19:26:35</column>
+            <column name="comment_date_gmt">2025-11-24 18:26:35</column>
+            <column name="comment_content">Bonjour, 
+
+Aujourd'hui 24 Novembre 2025, nous venons de recueillir un choupisson, une tique est logé entre ses piques. 
+
+Au vu des températures extérieurs, des épisodes neigeux passés, et de sa petite taille nous l'avons mis sur une bouillote tiède (entouré d'épaisseurs de tissu), avec des croquettes de l'eau dans une boite elle-même dans une cage, non loins d'un radiateur et dans un coin sombre pour l'aider à passer l'hiver dans notre maison. 
+
+Je précise que nous avons l'habitude de leur préparer de quoi se nourrir aux belles saison. 
+
+Auriez-vous des conseils pour lui retirer la tique entre les piques qui n'est pas facile d'accès? ainsi que pour l'aider au mieux à passer l'hiver dans les meilleures conditions? 
+
+
+D'avance un énormé merci pour votre retour qui nous sera très précieux.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">410</column>
+            <column name="comment_post_ID">258</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">2001:861:4d81:c2d0:8dcf:a7b7:1c04:ef5f</column>
+            <column name="comment_date">2025-12-05 18:00:47</column>
+            <column name="comment_date_gmt">2025-12-05 17:00:47</column>
+            <column name="comment_content">Merci beaucoup, ce commentaire nous fait extrêmement plaisir !</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">309</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">411</column>
+            <column name="comment_post_ID">258</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">2001:861:4d81:c2d0:8dcf:a7b7:1c04:ef5f</column>
+            <column name="comment_date">2025-12-05 18:02:22</column>
+            <column name="comment_date_gmt">2025-12-05 17:02:22</column>
+            <column name="comment_content">Bonjour,
+
+Toutes mes excuses pour le délai de cette réponse, j'espère que le petit va bien depuis votre message du 24.
+
+Concernant la tique, je vous conseille vivement de consulter un vétérinaire pour qu'il la retire. La zone est très délicate d'accès : si elle est mal enlevée (tête qui reste coincée) ou écrasée lors de la manipulation, cela provoquera une grave infection chez le choupisson.
+
+Le vétérinaire pourra en profiter pour vérifier son état général (poids et parasites internes) pour qu'il passe l'hiver en toute sécurité.
+
+Merci pour ce que vous faites pour lui !</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">400</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">412</column>
+            <column name="comment_post_ID">404</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">2001:861:4d81:c2d0:b492:aa5c:54e3:cf06</column>
+            <column name="comment_date">2025-12-06 23:44:56</column>
+            <column name="comment_date_gmt">2025-12-06 22:44:56</column>
+            <column name="comment_content">Oui l'essentiel c'est que toutes ces petites bêtes soient en formes !
+Merci à vous ! 🦔</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">295</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">413</column>
+            <column name="comment_post_ID">222</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">2001:861:4d81:c2d0:b492:aa5c:54e3:cf06</column>
+            <column name="comment_date">2025-12-10 19:02:34</column>
+            <column name="comment_date_gmt">2025-12-10 18:02:34</column>
+            <column name="comment_content">Toujours un plaisir de voir ces petits bêtes chez nous !</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">54</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">414</column>
+            <column name="comment_post_ID">222</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">2001:861:4d81:c2d0:b492:aa5c:54e3:cf06</column>
+            <column name="comment_date">2025-12-10 19:03:32</column>
+            <column name="comment_date_gmt">2025-12-10 18:03:32</column>
+            <column name="comment_content">Très heureuse pour vous, je suis sûr qu'avec cette marre à proximité, ils vont être heureux !</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">274</column>
+            <column name="user_id">1</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">420</column>
+            <column name="comment_post_ID">225</column>
+            <column name="comment_author">Charlotte VOIOLOT</column>
+            <column name="comment_author_email">charlotte.violot@wanadoo.fr</column>
+            <column name="comment_author_url"></column>
+            <column name="comment_author_IP">2a01:cb09:b020:299d:9454:c129:63a5:b964</column>
+            <column name="comment_date">2025-12-31 11:04:38</column>
+            <column name="comment_date_gmt">2025-12-31 10:04:38</column>
+            <column name="comment_content">très bonnes informations, le hérisson est un animal utile.</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">0</column>
+            <column name="user_id">0</column>
+        </table>
+        <table name="wp_comments">
+            <column name="comment_ID">421</column>
+            <column name="comment_post_ID">225</column>
+            <column name="comment_author">Anthony</column>
+            <column name="comment_author_email">courtin.lppdg@gmail.com</column>
+            <column name="comment_author_url">https://sovkipik.com</column>
+            <column name="comment_author_IP">2001:861:4d81:c2d0:b492:aa5c:54e3:cf06</column>
+            <column name="comment_date">2026-01-01 16:46:32</column>
+            <column name="comment_date_gmt">2026-01-01 15:46:32</column>
+            <column name="comment_content">Merci pour votre commentaire, oui le hérisson est très utile en plus d'être mignon !</column>
+            <column name="comment_karma">0</column>
+            <column name="comment_approved">1</column>
+            <column name="comment_agent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36</column>
+            <column name="comment_type">comment</column>
+            <column name="comment_parent">420</column>
+            <column name="user_id">1</column>
+        </table>
+    </database>
+</pma_xml_export>

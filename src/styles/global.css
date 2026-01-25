@@ -1,0 +1,68 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-forest: #3A5A40;
+  --color-forest-light: #A3B18A;
+  --color-forest-dark: #1A2F23;
+
+  --color-earth: #BC6C25;
+  --color-earth-light: #DDA15E;
+  --color-earth-dark: #603813;
+
+  --color-beige: #F5F5DC;
+  --color-beige-softer: #DAD7CD;
+
+  --color-highlight: #E76F51;
+  --color-highlight-hover: #D65A3B;
+
+  --font-sans: "Inter", sans-serif;
+
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-sway: sway 4s ease-in-out infinite;
+
+  @keyframes float {
+
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+
+    50% {
+      transform: translateY(-20px);
+    }
+  }
+
+  @keyframes sway {
+
+    0%,
+    100% {
+      transform: rotate(-3deg);
+    }
+
+    50% {
+      transform: rotate(3deg);
+    }
+  }
+}
+
+@layer base {
+  body {
+    background-color: var(--color-beige);
+    color: var(--color-forest-dark);
+    /* Changed from earth-dark to forest-dark for better contrast */
+    font-family: var(--font-sans);
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%233a5a40' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: bold;
+    color: var(--color-forest-dark);
+    letter-spacing: -0.025em;
+  }
+}

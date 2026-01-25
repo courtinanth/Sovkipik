@@ -1,0 +1,18 @@
+---
+import CustomComments from "./CustomComments";
+
+interface Props {
+  pageId: string;
+  pageTitle: string;
+  pageUrl: string;
+}
+
+const { pageId, pageTitle, pageUrl } = Astro.props;
+---
+
+<CustomComments
+  client:load
+  pageId={pageId}
+  pageTitle={pageTitle}
+  pageUrl={pageUrl}
+/>

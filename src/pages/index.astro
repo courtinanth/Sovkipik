@@ -1,0 +1,522 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Hero from "../components/Hero.astro";
+import { getCollection } from "astro:content";
+
+const posts = await getCollection("blog");
+const latestPosts = posts
+    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+    .slice(0, 3);
+---
+
+<Layout title="Sovkipik - Protection et soins des hérissons">
+    <!-- Navbar is already in Layout -->
+
+    <Hero />
+
+    <section class="container mx-auto px-4 py-16 relative overflow-hidden">
+        <!-- Organic Background Blob -->
+        <div
+            class="absolute top-0 right-0 w-[600px] h-[600px] bg-forest-light/10 rounded-full blur-3xl translate-x-1/2 -translate-y-1/2 -z-10"
+        >
+        </div>
+        <div
+            class="absolute bottom-0 left-0 w-[500px] h-[500px] bg-earth/5 rounded-full blur-3xl -translate-x-1/2 translate-y-1/2 -z-10"
+        >
+        </div>
+
+        <div class="text-center mb-16 relative z-10">
+            <span
+                class="text-earth font-bold tracking-widest uppercase text-xs mb-3 block opacity-80"
+                >Bienvenue dans la nature</span
+            >
+            <h2
+                class="text-4xl md:text-5xl font-bold text-forest-dark mb-6 font-display"
+            >
+                L'Univers de Sovkipik
+            </h2>
+            <p
+                class="text-lg text-forest-dark/70 max-w-2xl mx-auto leading-relaxed"
+            >
+                Une initiative passionnée pour la sauvegarde des hérissons
+                d'Europe. Découvrez comment cohabiter pacifiquement et les aider
+                au quotidien.
+            </p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+            <!-- Card 1 -->
+            <div
+                class="group bg-white/60 backdrop-blur-md p-8 rounded-[2rem] shadow-sm border border-forest/5 hover:border-forest/20 transition-all duration-500 hover:shadow-xl hover:-translate-y-2 flex flex-col relative overflow-hidden"
+            >
+                <div
+                    class="absolute top-0 right-0 w-32 h-32 bg-forest/5 rounded-bl-full -mr-10 -mt-10 transition-transform group-hover:scale-110"
+                >
+                </div>
+
+                <div
+                    class="w-16 h-16 bg-gradient-to-br from-forest to-forest-dark text-white rounded-2xl flex items-center justify-center text-3xl mb-6 shadow-lg rotate-3 group-hover:rotate-6 transition-transform duration-300"
+                >
+                    🚑
+                </div>
+                <h3 class="text-2xl font-bold text-forest-dark mb-3">
+                    Premiers Secours
+                </h3>
+                <p
+                    class="text-forest-dark/70 text-base mb-6 flex-grow leading-relaxed"
+                >
+                    Un hérisson en plein jour ? Blessé ? Découvrez les gestes
+                    d'urgence absolus pour le sauver avant d'agir.
+                </p>
+                <a
+                    href="/sauver-les-herissons"
+                    class="inline-flex items-center text-earth font-bold group-hover:text-earth-dark transition-colors"
+                >
+                    Le guide d'urgence <span
+                        class="ml-2 transform group-hover:translate-x-1 transition-transform"
+                        >→</span
+                    >
+                </a>
+            </div>
+
+            <!-- Card 2 -->
+            <div
+                class="group bg-white/60 backdrop-blur-md p-8 rounded-[2rem] shadow-sm border border-forest/5 hover:border-forest/20 transition-all duration-500 hover:shadow-xl hover:-translate-y-2 flex flex-col relative overflow-hidden"
+            >
+                <div
+                    class="absolute top-0 right-0 w-32 h-32 bg-earth/5 rounded-bl-full -mr-10 -mt-10 transition-transform group-hover:scale-110"
+                >
+                </div>
+
+                <div
+                    class="w-16 h-16 bg-gradient-to-br from-earth to-earth-dark text-white rounded-2xl flex items-center justify-center text-3xl mb-6 shadow-lg -rotate-2 group-hover:-rotate-4 transition-transform duration-300"
+                >
+                    🏡
+                </div>
+                <h3 class="text-2xl font-bold text-forest-dark mb-3">
+                    Le Jardin Idéal
+                </h3>
+                <p
+                    class="text-forest-dark/70 text-base mb-6 flex-grow leading-relaxed"
+                >
+                    Transformez votre jardin en havre de paix. Abris, passages,
+                    et dangers à éviter absolument.
+                </p>
+                <a
+                    href="/blog"
+                    class="inline-flex items-center text-earth font-bold group-hover:text-earth-dark transition-colors"
+                >
+                    Aménager son jardin <span
+                        class="ml-2 transform group-hover:translate-x-1 transition-transform"
+                        >→</span
+                    >
+                </a>
+            </div>
+
+            <!-- Card 3 -->
+            <div
+                class="group bg-white/60 backdrop-blur-md p-8 rounded-[2rem] shadow-sm border border-forest/5 hover:border-forest/20 transition-all duration-500 hover:shadow-xl hover:-translate-y-2 flex flex-col relative overflow-hidden"
+            >
+                <div
+                    class="absolute top-0 right-0 w-32 h-32 bg-highlight/5 rounded-bl-full -mr-10 -mt-10 transition-transform group-hover:scale-110"
+                >
+                </div>
+
+                <div
+                    class="w-16 h-16 bg-gradient-to-br from-highlight to-highlight-hover text-white rounded-2xl flex items-center justify-center text-3xl mb-6 shadow-lg rotate-1 group-hover:rotate-3 transition-transform duration-300"
+                >
+                    🐛
+                </div>
+                <h3 class="text-2xl font-bold text-forest-dark mb-3">
+                    Alimentation
+                </h3>
+                <p
+                    class="text-forest-dark/70 text-base mb-6 flex-grow leading-relaxed"
+                >
+                    Croquettes, pâtée ou insectes ? Démêlez le vrai du faux sur
+                    le régime alimentaire du hérisson.
+                </p>
+                <a
+                    href="/blog/que-mange-un-herisson"
+                    class="inline-flex items-center text-earth font-bold group-hover:text-earth-dark transition-colors"
+                >
+                    Lire le guide complet <span
+                        class="ml-2 transform group-hover:translate-x-1 transition-transform"
+                        >→</span
+                    >
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Statistics Section (New) -->
+    <section class="py-24 bg-forest-dark text-beige relative overflow-hidden">
+        <div
+            class="absolute top-0 left-0 w-full overflow-hidden leading-[0] -mt-[1px] z-10"
+        >
+            <svg
+                class="relative block w-[calc(100%+1.3px)] h-[60px]"
+                data-name="Layer 1"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 1200 120"
+                preserveAspectRatio="none"
+            >
+                <path
+                    d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
+                    fill="#F5F5DC"></path>
+            </svg>
+        </div>
+
+        <div class="container mx-auto px-4 relative z-20">
+            <div class="text-center mb-16">
+                <span
+                    class="text-earth-light font-bold tracking-widest uppercase text-xs mb-3 block"
+                    >Urgence 2026</span
+                >
+                <h2 class="text-3xl md:text-5xl font-bold text-white mb-6">
+                    Le Hérisson en quelques chiffres
+                </h2>
+                <p class="text-white/70 max-w-2xl mx-auto">
+                    La situation est critique. Voici les données actualisées
+                    pour 2025-2026 concernant la population de hérissons en
+                    France.
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-12 items-center">
+                <!-- Chart 1: Population Decline -->
+                <div
+                    class="bg-white/5 p-8 rounded-3xl border border-white/10 backdrop-blur-sm"
+                >
+                    <h3
+                        class="text-xl font-bold text-white mb-6 flex items-center gap-2"
+                    >
+                        📉 Chute de la population
+                    </h3>
+                    <div class="space-y-6">
+                        <div>
+                            <div
+                                class="flex justify-between text-sm mb-2 text-white/80"
+                            >
+                                <span>1990</span>
+                                <span>100% (Référence)</span>
+                            </div>
+                            <div
+                                class="h-4 bg-white/10 rounded-full overflow-hidden"
+                            >
+                                <div
+                                    class="h-full bg-earth w-full rounded-full"
+                                >
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div
+                                class="flex justify-between text-sm mb-2 text-white/80"
+                            >
+                                <span>2010</span>
+                                <span>~50%</span>
+                            </div>
+                            <div
+                                class="h-4 bg-white/10 rounded-full overflow-hidden"
+                            >
+                                <div
+                                    class="h-full bg-earth/80 w-[50%] rounded-full"
+                                >
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div
+                                class="flex justify-between text-sm mb-2 text-highlight font-bold"
+                            >
+                                <span>2026 (Estimation)</span>
+                                <span>&lt; 30%</span>
+                            </div>
+                            <div
+                                class="h-4 bg-white/10 rounded-full overflow-hidden relative"
+                            >
+                                <div
+                                    class="h-full bg-highlight w-[28%] rounded-full animate-pulse"
+                                >
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="text-xs text-white/40 mt-6 italic">
+                        Source : Estimations basées sur les études européennes
+                        (2024-2025).
+                    </p>
+                </div>
+
+                <!-- Stats Grid -->
+                <div class="grid grid-cols-2 gap-6">
+                    <div
+                        class="bg-forest-light/20 p-6 rounded-2xl border border-white/5 text-center"
+                    >
+                        <div class="text-4xl font-bold text-highlight mb-2">
+                            700k
+                        </div>
+                        <div class="text-sm text-white/80">
+                            Hérissons tués sur les routes / an
+                        </div>
+                    </div>
+                    <div
+                        class="bg-forest-light/20 p-6 rounded-2xl border border-white/5 text-center"
+                    >
+                        <div class="text-4xl font-bold text-earth-light mb-2">
+                            2030
+                        </div>
+                        <div class="text-sm text-white/80">
+                            Année d'extinction possible
+                        </div>
+                    </div>
+                    <div
+                        class="bg-forest-light/20 p-6 rounded-2xl border border-white/5 text-center col-span-2"
+                    >
+                        <div class="text-4xl font-bold text-white mb-2">
+                            +1500
+                        </div>
+                        <div class="text-sm text-white/80">
+                            Centres de soins saturés en 2025
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Care Centers Section -->
+    <section class="pt-24 pb-24 bg-beige-softer relative overflow-hidden">
+        <div
+            class="absolute top-0 left-0 w-full overflow-hidden leading-[0] -mt-[1px] z-10"
+        >
+            <svg
+                class="relative block w-[calc(100%+1.3px)] h-[60px]"
+                data-name="Layer 1"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 1200 120"
+                preserveAspectRatio="none"
+            >
+                <path
+                    d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
+                    fill="#1A2F23"></path>
+            </svg>
+        </div>
+
+        <div class="container mx-auto px-4 relative z-20">
+            <div class="text-center mb-16">
+                <span
+                    class="text-earth font-bold tracking-widest uppercase text-xs mb-3 block opacity-80"
+                    >Urgence & Soins</span
+                >
+                <h2
+                    class="text-3xl md:text-5xl font-bold text-forest-dark mb-6 font-display"
+                >
+                    Les Centres de Soins Principaux
+                </h2>
+                <p
+                    class="text-forest-dark/70 max-w-2xl mx-auto leading-relaxed"
+                >
+                    Si vous trouvez un hérisson blessé, contactez immédiatement
+                    un centre de soins. Voici quelques références majeures en
+                    France.
+                </p>
+                <div
+                    class="w-24 h-1 bg-gradient-to-r from-earth to-earth-light mx-auto rounded-full mt-6"
+                >
+                </div>
+            </div>
+
+            <div
+                class="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-7xl mx-auto mb-12"
+            >
+                <!-- Center 1 -->
+                <div
+                    class="bg-white p-6 rounded-2xl shadow-sm border border-forest/5 hover:shadow-lg hover:-translate-y-1 transition-all duration-300"
+                >
+                    <div
+                        class="text-earth font-bold text-sm mb-2 uppercase tracking-wider"
+                    >
+                        Ile-de-France
+                    </div>
+                    <h3
+                        class="text-xl font-bold text-forest-dark mb-3 leading-tight"
+                    >
+                        Ecole Vétérinaire d'Alfort
+                    </h3>
+                    <p class="text-forest-dark/60 text-sm mb-4">
+                        Service spécialisé faune sauvage.
+                    </p>
+                    <a
+                        href="tel:+33143967020"
+                        class="inline-flex items-center text-forest font-bold text-sm hover:text-earth transition-colors"
+                    >
+                        📍 Maisons-Alfort
+                    </a>
+                </div>
+
+                <!-- Center 2 -->
+                <div
+                    class="bg-white p-6 rounded-2xl shadow-sm border border-forest/5 hover:shadow-lg hover:-translate-y-1 transition-all duration-300"
+                >
+                    <div
+                        class="text-earth font-bold text-sm mb-2 uppercase tracking-wider"
+                    >
+                        Grand Est
+                    </div>
+                    <h3
+                        class="text-xl font-bold text-forest-dark mb-3 leading-tight"
+                    >
+                        LPO Alsace
+                    </h3>
+                    <p class="text-forest-dark/60 text-sm mb-4">
+                        Refuge pour la faune sauvage.
+                    </p>
+                    <a
+                        href="tel:+33388044212"
+                        class="inline-flex items-center text-forest font-bold text-sm hover:text-earth transition-colors"
+                    >
+                        📍 Rosenwiller
+                    </a>
+                </div>
+
+                <!-- Center 3 -->
+                <div
+                    class="bg-white p-6 rounded-2xl shadow-sm border border-forest/5 hover:shadow-lg hover:-translate-y-1 transition-all duration-300"
+                >
+                    <div
+                        class="text-earth font-bold text-sm mb-2 uppercase tracking-wider"
+                    >
+                        Normandie
+                    </div>
+                    <h3
+                        class="text-xl font-bold text-forest-dark mb-3 leading-tight"
+                    >
+                        Association CHENE
+                    </h3>
+                    <p class="text-forest-dark/60 text-sm mb-4">
+                        Centre d'Hébergement et d'Étude.
+                    </p>
+                    <a
+                        href="tel:+33235960654"
+                        class="inline-flex items-center text-forest font-bold text-sm hover:text-earth transition-colors"
+                    >
+                        📍 Allouville-Bellefosse
+                    </a>
+                </div>
+
+                <!-- Center 4 -->
+                <div
+                    class="bg-white p-6 rounded-2xl shadow-sm border border-forest/5 hover:shadow-lg hover:-translate-y-1 transition-all duration-300"
+                >
+                    <div
+                        class="text-earth font-bold text-sm mb-2 uppercase tracking-wider"
+                    >
+                        Bourgogne-Franche-Comté
+                    </div>
+                    <h3
+                        class="text-xl font-bold text-forest-dark mb-3 leading-tight"
+                    >
+                        Centre Athénas
+                    </h3>
+                    <p class="text-forest-dark/60 text-sm mb-4">
+                        Spécialiste faune sauvage.
+                    </p>
+                    <a
+                        href="tel:+33384246605"
+                        class="inline-flex items-center text-forest font-bold text-sm hover:text-earth transition-colors"
+                    >
+                        📍 L'Etoile
+                    </a>
+                </div>
+            </div>
+
+            <div class="text-center">
+                <a
+                    href="/blog/centres-soins-herissons"
+                    class="inline-flex items-center justify-center px-8 py-3 bg-white text-forest-dark border-2 border-forest-dark/10 rounded-full font-bold shadow-sm hover:bg-forest hover:text-white hover:border-forest transition-all duration-300 group"
+                >
+                    Voir la liste complète
+                    <span
+                        class="ml-2 transform group-hover:translate-x-1 transition-transform"
+                        >→</span
+                    >
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Latest Blog Posts Section -->
+    <section class="py-24 bg-beige relative">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <span
+                    class="text-earth font-bold tracking-widest uppercase text-xs mb-3 block opacity-80"
+                    >Actualités</span
+                >
+                <h2
+                    class="text-3xl md:text-5xl font-bold text-forest-dark mb-6 font-display"
+                >
+                    Les derniers conseils
+                </h2>
+                <div
+                    class="w-24 h-1 bg-gradient-to-r from-earth to-earth-light mx-auto rounded-full"
+                >
+                </div>
+            </div>
+
+            <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto mb-16">
+                {
+                    latestPosts.map((post) => (
+                        <a href={`/blog/${post.slug}`} class="group">
+                            <article class="bg-white rounded-[2rem] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 h-full flex flex-col border border-forest/5">
+                                <div class="relative h-56 overflow-hidden">
+                                    <img
+                                        src={post.data.image}
+                                        alt={post.data.title}
+                                        class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700"
+                                    />
+                                    <div class="absolute top-4 right-4 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-xs font-bold text-forest-dark shadow-sm">
+                                        {post.data.date.toLocaleDateString(
+                                            "fr-FR",
+                                            {
+                                                day: "numeric",
+                                                month: "short",
+                                            },
+                                        )}
+                                    </div>
+                                </div>
+                                <div class="p-8 flex flex-col flex-grow">
+                                    <h3 class="text-xl font-bold text-forest-dark mb-3 group-hover:text-earth transition-colors line-clamp-2">
+                                        {post.data.title}
+                                    </h3>
+                                    <p class="text-forest-dark/60 text-sm line-clamp-3 mb-6 flex-grow">
+                                        {post.data.excerpt}
+                                    </p>
+                                    <div class="flex items-center text-earth font-bold text-sm">
+                                        Lire l'article{" "}
+                                        <span class="ml-2 transform group-hover:translate-x-1 transition-transform">
+                                            →
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+                        </a>
+                    ))
+                }
+            </div>
+
+            <div class="text-center">
+                <a
+                    href="/blog"
+                    class="inline-flex items-center justify-center px-8 py-4 bg-forest text-white rounded-full font-bold shadow-lg shadow-forest/20 hover:bg-forest-dark hover:shadow-forest/40 hover:-translate-y-1 transition-all duration-300"
+                >
+                    Voir tous les articles
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer is already in Layout -->
+</Layout>

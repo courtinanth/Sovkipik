@@ -1,0 +1,70 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="SOS Hérisson - Que faire ? | Sovkipik">
+  <div class="bg-forest text-white py-20">
+    <div class="container mx-auto px-4 text-center">
+      <h1 class="text-5xl font-bold mb-6">🚑 Urgence Hérisson</h1>
+      <p class="text-2xl max-w-3xl mx-auto opacity-90">
+        Vous avez trouvé un hérisson ? Voici les règles d'or à respecter pour ne pas aggraver la situation.
+      </p>
+    </div>
+  </div>
+
+  <section class="container mx-auto px-4 py-16 max-w-4xl">
+    <div class="bg-white p-10 rounded-3xl shadow-xl -mt-24 border border-beige-dark/10">
+      
+      <!-- Warning Box -->
+      <div class="bg-red-50 border-l-8 border-red-500 p-6 rounded-r-lg mb-10">
+        <h3 class="text-red-700 font-bold text-xl mb-2">⛔ Règle N°1 : Ne jamais donner de lait de vache ni de pain !</h3>
+        <p class="text-red-600">
+          Cela provoque des diarrhées mortelles. Donnez uniquement de l'eau et, en cas d'urgence, des croquettes pour chat au poulet.
+        </p>
+      </div>
+
+      <div class="space-y-12">
+        <!-- Step 1 -->
+        <div class="flex flex-col md:flex-row gap-6">
+          <div class="flex-shrink-0 w-16 h-16 bg-forest text-white rounded-full flex items-center justify-center text-3xl font-bold shadow-lg">1</div>
+          <div>
+            <h3 class="text-2xl font-bold text-forest mb-3">Observez la situation</h3>
+            <p class="text-earth-dark text-lg leading-relaxed">
+              Un hérisson vu <strong>en plein jour</strong> est presque toujours un animal en détresse (malade, blessé, orphelin), sauf s'il a été dérangé. 
+              S'il est couché sur le flanc, a des mouches autour de lui, ou semble maigre, il faut agir vite.
+            </p>
+          </div>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="flex flex-col md:flex-row gap-6">
+          <div class="flex-shrink-0 w-16 h-16 bg-forest text-white rounded-full flex items-center justify-center text-3xl font-bold shadow-lg">2</div>
+          <div>
+            <h3 class="text-2xl font-bold text-forest mb-3">Sécurisez l'animal</h3>
+            <p class="text-earth-dark text-lg leading-relaxed">
+              Rentrez-le à l'intérieur. Placez-le dans un carton avec des bords hauts.
+              Mettez du journal au fond et une polaire pour qu'il se cache.
+              <strong>Le réchauffer est la priorité</strong> (bouillotte tiède enveloppée), même en été.
+            </p>
+          </div>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="flex flex-col md:flex-row gap-6">
+           <div class="flex-shrink-0 w-16 h-16 bg-forest text-white rounded-full flex items-center justify-center text-3xl font-bold shadow-lg">3</div>
+          <div>
+            <h3 class="text-2xl font-bold text-forest mb-3">Contactez un centre de soins</h3>
+            <p class="text-earth-dark text-lg leading-relaxed">
+              N'essayez pas de le soigner vous-même. Les hérissons sont des animaux sauvages protégés.
+              Contactez le centre de faune sauvage le plus proche ou appelez un sanctuaire pour des conseils.
+            </p>
+             <a href="/blog/centres-soins-herissons" class="inline-block mt-4 text-highlight font-bold hover:underline py-2 px-4 rounded border border-highlight hover:bg-highlight hover:text-white transition-colors">
+                Voir la liste des centres de soins
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</Layout>

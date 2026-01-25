@@ -1,0 +1,107 @@
+---
+const currentYear = new Date().getFullYear();
+---
+
+<footer
+  class="relative bg-forest-dark text-beige mt-20 pt-24 pb-8 text-forest-light"
+>
+  <!-- Organic Top Wave -->
+  <!-- Negative margin to pull it up and cover gap -->
+  <div
+    class="absolute top-0 left-0 w-full overflow-hidden leading-[0] -mt-[1px] z-10"
+  >
+    <svg
+      class="relative block w-[calc(100%+1.3px)] h-[60px]"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1200 120"
+      preserveAspectRatio="none"
+    >
+      <!-- Fill must match the body background color (beige) -->
+      <path
+        d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
+        fill="#F5F5DC"></path>
+    </svg>
+  </div>
+
+  <div
+    class="container mx-auto px-4 grid md:grid-cols-3 gap-12 text-sm relative z-20"
+  >
+    <div class="space-y-4">
+      <div class="mb-4">
+        <!-- Use full logo image instead of text -->
+        <img
+          src="/media/logo-ecrit-png-600x193-1.png"
+          alt="Sovkipik Logo"
+          class="h-14 brightness-0 invert opacity-90"
+        />
+      </div>
+      <p class="leading-relaxed opacity-80">
+        Protégeons ensemble nos amis les hérissons. Une initiative pour la
+        préservation de la biodiversité locale.
+      </p>
+    </div>
+
+    <div>
+      <h3
+        class="text-lg font-bold mb-6 text-white border-b border-forest-light/20 pb-2 inline-block"
+      >
+        Liens rapides
+      </h3>
+      <ul class="space-y-3">
+        <li>
+          <a
+            href="/sauver-les-herissons"
+            class="hover:text-earth-light transition-colors flex items-center gap-2"
+            >🚑 Hérisson en détresse ?</a
+          >
+        </li>
+        <li>
+          <a
+            href="/blog"
+            class="hover:text-earth-light transition-colors flex items-center gap-2"
+            >🌲 Le Blog des Piquants</a
+          >
+        </li>
+        <li>
+          <a
+            href="/contact"
+            class="hover:text-earth-light transition-colors flex items-center gap-2"
+            >✉️ Contact</a
+          >
+        </li>
+      </ul>
+    </div>
+
+    <div>
+      <h3
+        class="text-lg font-bold mb-6 text-white border-b border-forest-light/20 pb-2 inline-block"
+      >
+        Légal
+      </h3>
+      <ul class="space-y-3">
+        <li>
+          <a
+            href="/mentions-legales"
+            class="hover:text-earth-light transition-colors">Mentions Légales</a
+          >
+        </li>
+        <li>
+          <a
+            href="/confidentialite"
+            class="hover:text-earth-light transition-colors"
+            >Politique de Confidentialité</a
+          >
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div
+    class="container mx-auto px-4 mt-12 pt-8 border-t border-forest-light/10 text-center opacity-60 text-xs relative z-20"
+  >
+    <p>
+      &copy; {currentYear} Sovkipik. Tous droits réservés. Fait avec 💚 pour la nature.
+    </p>
+  </div>
+</footer>

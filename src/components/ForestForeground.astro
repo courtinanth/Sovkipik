@@ -1,0 +1,59 @@
+---
+
+---
+
+<div
+    class="pointer-events-none absolute bottom-0 left-0 w-full z-10 overflow-hidden leading-none"
+>
+    <!-- Cartoonish Bushes - Matching Mascot Style (Rounded, Clean) -->
+
+    <!-- Back Layer (Darker, Slower) -->
+    <svg
+        class="absolute bottom-[-10px] w-[130%] -left-[15%] h-32 md:h-48 text-[#8EB897] animate-bush-sway-slow origin-bottom drop-shadow-sm"
+        viewBox="0 0 1200 200"
+        preserveAspectRatio="none"
+    >
+        <path
+            d="M0,200 C150,150 250,100 400,120 C550,140 700,80 850,110 C1000,140 1100,100 1300,200 L0,200 Z"
+            fill="currentColor"></path>
+    </svg>
+
+    <!-- Front Layer (Lighter, Faster) -->
+    <svg
+        class="relative w-[120%] -left-[10%] h-24 md:h-36 text-[#A3B18A] animate-bush-sway origin-bottom drop-shadow-md"
+        viewBox="0 0 1200 150"
+        preserveAspectRatio="none"
+    >
+        <!-- Rounded bush shapes -->
+        <path
+            d="M0,150 
+                 Q 100,150 150,100 
+                 Q 200,50 250,100 
+                 Q 300,150 400,150
+                 Q 500,150 550,80
+                 Q 600,10 650,80
+                 Q 700,150 800,150
+                 Q 900,150 950,90
+                 Q 1000,30 1050,90
+                 Q 1100,150 1300,150 
+                 L 1300,150 L 0,150 Z"
+            fill="currentColor"></path>
+    </svg>
+</div>
+
+<style>
+    .animate-bush-sway {
+        animation: bushSway 4s ease-in-out infinite alternate;
+    }
+    .animate-bush-sway-slow {
+        animation: bushSway 6s ease-in-out infinite alternate-reverse;
+    }
+    @keyframes bushSway {
+        0% {
+            transform: translateX(0) skewX(0deg);
+        }
+        100% {
+            transform: translateX(10px) skewX(2deg);
+        }
+    }
+</style>

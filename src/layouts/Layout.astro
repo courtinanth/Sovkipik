@@ -1,0 +1,41 @@
+---
+import Navbar from "../components/Navbar.astro";
+import Footer from "../components/Footer.astro";
+import CookieBanner from "../components/CookieBanner.astro";
+import "../styles/global.css";
+
+interface Props {
+	title: string;
+	description?: string;
+}
+
+const { title, description = "Sovkipik - Protection et soins des hérissons" } =
+	Astro.props;
+---
+
+<!doctype html>
+<html lang="fr" class="scroll-smooth">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={description} />
+		<meta name="viewport" content="width=device-width" />
+		<link
+			rel="icon"
+			type="image/png"
+			href="/media/sovkipik-mascotte-png-900-sans-ombre.png"
+		/>
+		<meta name="generator" content={Astro.generator} />
+		<link rel="canonical" href={Astro.url.href} />
+		<title>{title}</title>
+	</head>
+	<body class="flex flex-col min-h-screen bg-beige font-sans">
+		<Navbar />
+
+		<main class="flex-grow">
+			<slot />
+		</main>
+
+		<Footer />
+		<CookieBanner />
+	</body>
+</html>

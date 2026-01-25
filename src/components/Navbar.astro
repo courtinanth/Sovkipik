@@ -1,0 +1,58 @@
+---
+import { Menu } from "lucide-react";
+
+const links = [
+  { href: "/", label: "Accueil" },
+  { href: "/sauver-les-herissons", label: "Sauver les hérissons" },
+  { href: "/blog", label: "Blog" },
+  { href: "/contact", label: "Contact" },
+];
+---
+
+<nav
+  class="bg-beige-softer/95 backdrop-blur-md shadow-sm sticky top-0 z-50 transition-all duration-300 border-b border-forest/10"
+>
+  <div class="container mx-auto px-4 py-2 flex justify-between items-center">
+    <!-- Logo area -->
+    <a href="/" class="flex items-center gap-3 group">
+      <img
+        src="/media/logo-ecrit-png-600x193-1.png"
+        alt="Sovkipik Logo"
+        class="h-10 md:h-14 w-auto transition-transform group-hover:scale-105"
+      />
+    </a>
+
+    <!-- Desktop Menu -->
+    <ul class="hidden md:flex gap-8 items-center">
+      {
+        links.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              class="text-forest-dark font-bold hover:text-earth transition-colors duration-200 relative group tracking-wide text-base"
+            >
+              {link.label}
+              <span class="absolute -bottom-1 left-0 w-0 h-0.5 bg-earth transition-all group-hover:w-full" />
+            </a>
+          </li>
+        ))
+      }
+      <li>
+        <a
+          href="/sauver-les-herissons"
+          class="bg-highlight hover:bg-highlight-hover text-white px-6 py-2.5 rounded-full font-bold shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5 text-sm flex items-center gap-2"
+        >
+          SOS Hérisson 🚑
+        </a>
+      </li>
+    </ul>
+
+    <!-- Mobile Menu Button -->
+    <button
+      class="md:hidden text-forest-dark p-2 hover:bg-forest/10 rounded-lg transition-colors border border-forest/10"
+      aria-label="Menu"
+    >
+      <Menu className="w-6 h-6" />
+    </button>
+  </div>
+</nav>
