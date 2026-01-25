@@ -49,10 +49,51 @@ const links = [
 
     <!-- Mobile Menu Button -->
     <button
+      id="mobile-menu-btn"
       class="md:hidden text-forest-dark p-2 hover:bg-forest/10 rounded-lg transition-colors border border-forest/10"
       aria-label="Menu"
     >
       <Menu className="w-6 h-6" />
     </button>
   </div>
+
+  <!-- Mobile Menu -->
+  <div
+    id="mobile-menu"
+    class="hidden md:hidden bg-beige-softer border-t border-forest/10 px-4 py-4 absolute w-full left-0 top-full shadow-lg"
+  >
+    <ul class="flex flex-col gap-4">
+      {
+        links.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              class="block text-forest-dark font-bold hover:text-earth transition-colors duration-200 text-lg py-2"
+            >
+              {link.label}
+            </a>
+          </li>
+        ))
+      }
+      <li>
+        <a
+          href="/sauver-les-herissons"
+          class="block text-center bg-highlight hover:bg-highlight-hover text-white px-6 py-3 rounded-full font-bold shadow-md hover:shadow-lg transition-all text-base mt-2"
+        >
+          SOS Hérisson 🚑
+        </a>
+      </li>
+    </ul>
+  </div>
 </nav>
+
+<script>
+  const mobileBtn = document.getElementById("mobile-menu-btn");
+  const mobileMenu = document.getElementById("mobile-menu");
+
+  if (mobileBtn && mobileMenu) {
+    mobileBtn.addEventListener("click", () => {
+      mobileMenu.classList.toggle("hidden");
+    });
+  }
+</script>
