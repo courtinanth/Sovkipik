@@ -4,6 +4,7 @@ date: 2025-12-30T18:30:20+01:00
 excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
+description: "Tout sur l'hibernation du hérisson : dates (octobre-avril), physiologie, perte de poids. Faut-il les nourrir en hiver ? Ne les réveillez jamais !"
 image: "/media/generated/hibernation-herisson.png"
 ---
 

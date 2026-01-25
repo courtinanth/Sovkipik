@@ -4,6 +4,7 @@ date: 2025-12-31T13:10:20+01:00
 excerpt: ""
 category: "Guide & Conseil"
 author: "Anthony COURTIN"
+description: "Puis-je adopter un hérisson en 2026 ? Découvrez pourquoi la détention est illégale, les risques pour l'animal et comment les aider sans les domestiquer."
 image: "/media/generated/adopter-un-herisson.png"
 ---
 

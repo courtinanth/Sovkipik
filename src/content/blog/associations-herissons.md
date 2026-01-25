@@ -4,6 +4,7 @@ date: 2026-01-25T11:30:12+02:00
 excerpt: ""
 category: "Santé & Danger"
 author: "Anthony COURTIN"
+description: "Liste complète des associations et centres de soins pour hérissons en France, Suisse et Belgique. Contacts d'urgence pour sauver un hérisson blessé."
 image: "/media/generated/associations-herissons.png"
 ---
 

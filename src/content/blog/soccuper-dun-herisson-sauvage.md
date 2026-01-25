@@ -4,6 +4,7 @@ date: 2026-01-02T21:10:20+01:00
 excerpt: ""
 category: "Guide & Conseil"
 author: "Anthony COURTIN"
+description: "GUIDE : S'occuper d'un hérisson sauvage au jardin. Habitat, nourriture, eau. Apprenez à les protéger sans les domestiquer (c'est interdit !)."
 image: "/media/generated/sauver-les-herissons.png"
 ---
 

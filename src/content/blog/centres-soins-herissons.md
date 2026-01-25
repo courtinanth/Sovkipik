@@ -4,6 +4,7 @@ date: 2026-01-02T11:50:20+01:00
 excerpt: ""
 category: "Santé & Danger"
 author: "Anthony COURTIN"
+description: "Annuaire des centres de soins pour hérissons en France (par région), Belgique et Suisse. Qui contacter en urgence pour un hérisson blessé ou malade ?"
 image: "/media/generated/centres-soins-herissons.png"
 ---
 

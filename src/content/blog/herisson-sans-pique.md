@@ -4,6 +4,7 @@ date: 2026-01-03T06:30:20+01:00
 excerpt: ""
 category: "Biologie & Espèce"
 author: "Anthony COURTIN"
+description: "Un hérisson sans piques ? Découvrez ce phénomène rare, les causes génétiques et des photos de hérissons nus. Un handicap lourd pour leur survie."
 image: "/media/generated/herisson-sans-pique.png"
 ---
 

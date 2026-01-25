@@ -4,6 +4,7 @@ date: 2026-01-04T19:50:20+01:00
 excerpt: ""
 category: "Santé & Danger"
 author: "Anthony COURTIN"
+description: "Votre hérisson a des puces ? Pas de panique ! Elles ne vont sur les chiens/chats. Tout savoir sur les parasites du hérisson et comment réagir."
 image: "/media/generated/puce-herisson.png"
 ---
 

@@ -4,6 +4,7 @@ date: 2025-12-31T03:50:20+01:00
 excerpt: ""
 category: "Santé & Danger"
 author: "Anthony COURTIN"
+description: "Reconnaître une crotte de hérisson : photos, taille et aspect. Ce que les excréments révèlent sur la santé de l'animal et sa présence dans votre jardin."
 image: "/media/generated/crottes-herissons.png"
 ---
 

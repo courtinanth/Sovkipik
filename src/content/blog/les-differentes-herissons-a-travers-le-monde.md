@@ -4,6 +4,7 @@ date: 2026-01-02T02:30:20+01:00
 excerpt: ""
 category: "Biologie & Espèce"
 author: "Anthony COURTIN"
+description: "Découvrez les différentes espèces de hérissons dans le monde : Europe, Afrique, Asie. Photos et description des familles Erinaceidae et Tenrecinae."
 image: "/media/generated/les-differentes-herissons-a-travers-le-monde.png"
 ---
 

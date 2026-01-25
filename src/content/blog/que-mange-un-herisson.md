@@ -4,6 +4,7 @@ date: 2025-12-30T09:10:20+01:00
 excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
+description: "Que mange un hérisson ? Guide complet : insectes, croquettes (poulet), fruits. Attention aux aliments interdits (lait, pain) qui sont mortels !"
 image: "/media/generated/que-mange-un-herisson.png"
 ---
 

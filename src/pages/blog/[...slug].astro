@@ -35,7 +35,10 @@ const dateFormat = new Intl.DateTimeFormat("fr-FR", {
 });
 ---
 
-<Layout title={`${entry.data.title} - Sovkipik`}>
+<Layout
+    title={`${entry.data.title} - Sovkipik`}
+    description={entry.data.description || entry.data.excerpt}
+>
     <!-- Header Section with soft background -->
     <header
         class="bg-beige-softer border-b border-earth/10 relative overflow-hidden pb-20"

@@ -7,11 +7,15 @@ const allPosts = await getCollection("blog");
 const suggestedPosts = allPosts
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
     .slice(0, 3); // Top 3 recent
-
 ---
 
-<Layout title="Page non trouvée - Sovkipik">
-    <section class="min-h-[80vh] flex flex-col justify-center py-20 relative overflow-hidden">
+<Layout
+    title="Page non trouvée - Sovkipik"
+    description="Oups ! La page que vous cherchez a disparu dans les fourrés. Retrouvez votre chemin vers nos conseils pour protéger les hérissons."
+>
+    <section
+        class="min-h-[80vh] flex flex-col justify-center py-20 relative overflow-hidden"
+    >
         <!-- Background Elements -->
         <div class="absolute inset-0 pointer-events-none">
             <div
@@ -27,28 +31,38 @@ const suggestedPosts = allPosts
         <div class="container mx-auto px-4 relative z-10">
             <div class="max-w-4xl mx-auto text-center">
                 <!-- Mascot / Image -->
-                 <div class="mb-8 relative inline-block">
-                    <div class="absolute inset-0 bg-earth/20 blur-2xl rounded-full"></div>
-                    <img 
-                        src="/media/sovkipik-mascotte-png-900-sans-ombre.png" 
-                        alt="Hérisson perdu" 
+                <div class="mb-8 relative inline-block">
+                    <div
+                        class="absolute inset-0 bg-earth/20 blur-2xl rounded-full"
+                    >
+                    </div>
+                    <img
+                        src="/media/sovkipik-mascotte-png-900-sans-ombre.png"
+                        alt="Hérisson perdu"
                         class="w-48 h-auto relative z-10 mx-auto animate-bounce-slow"
                     />
-                 </div>
+                </div>
 
-                <h1 class="text-6xl md:text-8xl font-bold text-forest-dark mb-4 font-display">
+                <h1
+                    class="text-6xl md:text-8xl font-bold text-forest-dark mb-4 font-display"
+                >
                     404
                 </h1>
                 <h2 class="text-2xl md:text-4xl font-bold text-forest mb-6">
                     Oups ! Ce chemin ne mène nulle part...
                 </h2>
-                <p class="text-lg text-earth-dark/80 mb-12 max-w-2xl mx-auto leading-relaxed">
-                    Il semblerait que vous vous soyez égaré dans les fourrés. 
-                    Ne vous inquiétez pas, même les meilleurs explorateurs se perdent parfois.
-                    Voici quelques pistes pour retrouver votre chemin.
+                <p
+                    class="text-lg text-earth-dark/80 mb-12 max-w-2xl mx-auto leading-relaxed"
+                >
+                    Il semblerait que vous vous soyez égaré dans les fourrés. Ne
+                    vous inquiétez pas, même les meilleurs explorateurs se
+                    perdent parfois. Voici quelques pistes pour retrouver votre
+                    chemin.
                 </p>
 
-                <div class="flex flex-col sm:flex-row gap-4 justify-center mb-20">
+                <div
+                    class="flex flex-col sm:flex-row gap-4 justify-center mb-20"
+                >
                     <a
                         href="/"
                         class="bg-forest hover:bg-forest-dark text-white px-8 py-4 rounded-full font-bold shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-1 flex items-center justify-center gap-2"
@@ -65,18 +79,20 @@ const suggestedPosts = allPosts
 
                 <!-- Suggested Articles -->
                 <div class="text-left">
-                    <h3 class="text-xl font-bold text-forest-dark mb-8 flex items-center gap-3">
+                    <h3
+                        class="text-xl font-bold text-forest-dark mb-8 flex items-center gap-3"
+                    >
                         <span class="w-8 h-1 bg-earth rounded-full"></span>
                         Ces articles pourraient vous intéresser
                     </h3>
-                    
+
                     <div class="grid md:grid-cols-3 gap-6">
                         {
                             suggestedPosts.map((post) => (
                                 <a href={`/blog/${post.slug}`} class="group">
                                     <article class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-forest/5 h-full flex flex-col">
                                         <div class="h-40 overflow-hidden relative">
-                                             <div class="absolute inset-0 bg-forest-dark/10 group-hover:bg-forest-dark/0 transition-colors z-10" />
+                                            <div class="absolute inset-0 bg-forest-dark/10 group-hover:bg-forest-dark/0 transition-colors z-10" />
                                             <img
                                                 src={post.data.image}
                                                 alt={post.data.title}
@@ -104,8 +120,13 @@ const suggestedPosts = allPosts
 
 <style>
     @keyframes bounce-slow {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-10px); }
+        0%,
+        100% {
+            transform: translateY(0);
+        }
+        50% {
+            transform: translateY(-10px);
+        }
     }
     .animate-bounce-slow {
         animation: bounce-slow 3s infinite ease-in-out;

@@ -4,6 +4,7 @@ date: 2026-01-05T14:30:20+01:00
 excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
+description: "Découvrez comment construire un abri pour hérisson ou en installer un sans bricolage. Plans PDF, astuces et conseils pour accueillir les hérissons dans votre jardin."
 image: "/media/generated/abri-pour-herisson-avec-et-sans-bricolage.png"
 ---
 

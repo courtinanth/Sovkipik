@@ -4,6 +4,7 @@ date: 2026-01-01T07:50:20+01:00
 excerpt: ""
 category: "Biologie & Espèce"
 author: "Anthony COURTIN"
+description: "Tout savoir sur les dents du hérisson : nombre, anatomie et morsures. Le hérisson peut-il mordre ? Est-ce dangereux ? Réponses d'experts."
 image: "/media/generated/dents-herisson.png"
 ---
 

@@ -4,6 +4,7 @@ date: 2025-12-31T22:30:20+01:00
 excerpt: ""
 category: "Santé & Danger"
 author: "Anthony COURTIN"
+description: "Comment savoir si un hérisson est malade ? Les signes qui ne trompent pas (toux, maigreur, sortie diurne). Guide pour réagir vite et contacter les secours."
 image: "/media/generated/detecter-un-herisson-malade.png"
 ---
 

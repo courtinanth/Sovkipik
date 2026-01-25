@@ -4,6 +4,7 @@ date: 2026-01-01T17:10:20+01:00
 excerpt: ""
 category: "Santé & Danger"
 author: "Anthony COURTIN"
+description: "Chats et hérissons peuvent-ils cohabiter ? Risques, puces, nourriture... Tout savoir sur l'entente entre votre félin et le hérisson au jardin."
 image: "/media/generated/herissons-et-chats.png"
 ---
 

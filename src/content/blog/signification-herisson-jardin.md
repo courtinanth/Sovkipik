@@ -4,6 +4,7 @@ date: 2026-01-03T15:50:20+01:00
 excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
+description: "Un hérisson dans votre jardin ? C'est une excellente nouvelle ! Signification écologique, spirituelle et conseils pour l'accueillir durablement."
 image: "/media/photo-herisson-banque-image-4.webp"
 ---
 

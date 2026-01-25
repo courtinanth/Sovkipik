@@ -4,6 +4,7 @@ date: 2026-01-05T05:10:20+01:00
 excerpt: ""
 category: "Santé & Danger"
 author: "Anthony COURTIN"
+description: "Qui sont les prédateurs du hérisson ? Blaireau, grand-duc, renard... et l'homme. Découvrez les menaces naturelles et comment protéger les hérissons."
 image: "/media/generated/predateurs-herisson.png"
 ---
 

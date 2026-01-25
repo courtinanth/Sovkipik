@@ -4,6 +4,7 @@ date: 2026-01-25T02:16:48+02:00
 excerpt: ""
 category: "Santé & Danger"
 author: "Anthony COURTIN"
+description: "9 gestes simples pour sauver les hérissons : bannir les pesticides, sécuriser le jardin, conduire prudemment. Agissez pour protéger cette espèce menacée."
 image: "/media/generated/sauver-les-herissons.png"
 ---
 

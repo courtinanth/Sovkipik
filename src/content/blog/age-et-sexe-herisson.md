@@ -4,6 +4,7 @@ date: 2026-01-04T01:10:20+01:00
 excerpt: ""
 category: "Biologie & Espèce"
 author: "Anthony COURTIN"
+description: "Comment reconnaître l'âge et le sexe d'un hérisson ? Guide illustré avec photos pour identifier mâles, femelles et bébés (choupissons) facilement."
 image: "/media/generated/age-et-sexe-herisson.png"
 ---
 

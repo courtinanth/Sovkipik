@@ -4,6 +4,7 @@ date: 2026-01-05T23:50:20+01:00
 excerpt: ""
 category: "Guide & Conseil"
 author: "Anthony COURTIN"
+description: "Bébé hérisson trouvé ? Guide d'urgence : alimentation, soins, réchauffement. Ne donnez jamais de lait ! Contactez un centre spécialisé immédiatement."
 image: "/media/generated/bebe-herisson-presentation-et-comment-sen-occuper.png"
 ---
 
