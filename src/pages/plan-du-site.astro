@@ -1,0 +1,96 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const posts = await getCollection("blog");
+const pageTitle = "Plan du site | Sovkipik";
+---
+
+<Layout title={pageTitle}>
+    <main class="container mx-auto px-4 py-12">
+        <h1 class="text-4xl font-bold mb-8 text-forest-dark">Plan du site</h1>
+
+        <div class="grid md:grid-cols-2 gap-12">
+            <section>
+                <h2
+                    class="text-2xl font-bold mb-6 text-earth-dark border-b border-earth-light/30 pb-2"
+                >
+                    Pages Principales
+                </h2>
+                <ul class="space-y-3">
+                    <li>
+                        <a
+                            href="/"
+                            class="text-lg text-forest hover:text-earth transition-colors flex items-center gap-2"
+                        >
+                            🏠 Accueil
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                            href="/sauver-les-herissons"
+                            class="text-lg text-forest hover:text-earth transition-colors flex items-center gap-2"
+                        >
+                            🚑 Sauver les Hérissons
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                            href="/blog"
+                            class="text-lg text-forest hover:text-earth transition-colors flex items-center gap-2"
+                        >
+                            🌲 Le Blog des Piquants
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                            href="/contact"
+                            class="text-lg text-forest hover:text-earth transition-colors flex items-center gap-2"
+                        >
+                            ✉️ Contact
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                            href="/mentions-legales"
+                            class="text-lg text-forest hover:text-earth transition-colors flex items-center gap-2"
+                        >
+                            ⚖️ Mentions Légales
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                            href="/confidentialite"
+                            class="text-lg text-forest hover:text-earth transition-colors flex items-center gap-2"
+                        >
+                            🔒 Politique de Confidentialité
+                        </a>
+                    </li>
+                </ul>
+            </section>
+
+            <section>
+                <h2
+                    class="text-2xl font-bold mb-6 text-earth-dark border-b border-earth-light/30 pb-2"
+                >
+                    Articles de Blog
+                </h2>
+                <ul class="space-y-3">
+                    {
+                        posts.map((post) => (
+                            <li>
+                                <a
+                                    href={`/blog/${post.slug}`}
+                                    class="text-forest hover:text-earth transition-colors flex items-start gap-2"
+                                >
+                                    <span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-earth-light flex-shrink-0" />
+                                    <span>{post.data.title}</span>
+                                </a>
+                            </li>
+                        ))
+                    }
+                </ul>
+            </section>
+        </div>
+    </main>
+</Layout>
