@@ -7,10 +7,16 @@ import "../styles/global.css";
 interface Props {
 	title: string;
 	description?: string;
+	noIndex?: boolean;
+	structuredData?: object;
 }
 
-const { title, description = "Sovkipik - Protection et soins des hérissons" } =
-	Astro.props;
+const {
+	title,
+	description = "Sovkipik - Protection et soins des hérissons",
+	noIndex = false,
+	structuredData,
+} = Astro.props;
 ---
 
 <!doctype html>
@@ -19,6 +25,10 @@ const { title, description = "Sovkipik - Protection et soins des hérissons" } =
 		<meta charset="UTF-8" />
 		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width" />
+		<meta
+			name="robots"
+			content={noIndex ? "noindex, nofollow" : "index, follow"}
+		/>
 		<link
 			rel="icon"
 			type="image/png"
@@ -27,6 +37,14 @@ const { title, description = "Sovkipik - Protection et soins des hérissons" } =
 		<meta name="generator" content={Astro.generator} />
 		<link rel="canonical" href={Astro.url.href} />
 		<title>{title}</title>
+		{
+			structuredData && (
+				<script
+					type="application/ld+json"
+					set:html={JSON.stringify(structuredData)}
+				/>
+			)
+		}
 	</head>
 	<body class="flex flex-col min-h-screen bg-beige font-sans">
 		<Navbar />

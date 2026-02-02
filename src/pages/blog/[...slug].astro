@@ -4,6 +4,7 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 
 import AuthorBox from "../../components/AuthorBox.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
 
 import { Calendar, Clock, User, Tag } from "lucide-react";
 
@@ -33,11 +34,42 @@ const dateFormat = new Intl.DateTimeFormat("fr-FR", {
     month: "long",
     year: "numeric",
 });
+
+const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": Astro.url.href,
+    },
+    headline: entry.data.title,
+    description: entry.data.description || entry.data.excerpt,
+    image: entry.data.image
+        ? new URL(entry.data.image, Astro.url).href
+        : undefined,
+    author: {
+        "@type": "Person",
+        name: entry.data.author,
+    },
+    publisher: {
+        "@type": "Organization",
+        name: "Sovkipik",
+        logo: {
+            "@type": "ImageObject",
+            url: new URL(
+                "/media/sovkipik-mascotte-png-900-sans-ombre.png",
+                Astro.url,
+            ).href,
+        },
+    },
+    datePublished: entry.data.date.toISOString(),
+};
 ---
 
 <Layout
     title={`${entry.data.title} - Sovkipik`}
     description={entry.data.description || entry.data.excerpt}
+    structuredData={structuredData}
 >
     <!-- Header Section with soft background -->
     <header
@@ -56,9 +88,18 @@ const dateFormat = new Intl.DateTimeFormat("fr-FR", {
             </div>
         </div>
 
-        <div
-            class="container mx-auto px-4 pt-16 relative z-10 text-center max-w-4xl"
-        >
+        <div class="container mx-auto px-4 pt-8 relative z-10 max-w-4xl">
+            <Breadcrumbs
+                className="mb-8 justify-center"
+                items={[
+                    { label: "Blog", href: "/blog" },
+                    { label: entry.data.category, href: "#" }, // Not linked as cat pages don't exist yet
+                    { label: entry.data.title, href: Astro.url.pathname },
+                ]}
+            />
+        </div>
+
+        <div class="container mx-auto px-4 relative z-10 text-center max-w-4xl">
             <div
                 class="inline-flex items-center gap-2 bg-white/60 backdrop-blur-sm px-3 py-1 rounded-full text-forest text-sm font-bold mb-6 border border-white/50 shadow-sm"
             >

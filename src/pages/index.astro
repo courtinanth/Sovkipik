@@ -7,11 +7,24 @@ const posts = await getCollection("blog");
 const latestPosts = posts
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
     .slice(0, 3);
+
+const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Sovkipik",
+    url: "https://sovkipik.com",
+    potentialAction: {
+        "@type": "SearchAction",
+        target: "https://sovkipik.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string",
+    },
+};
 ---
 
 <Layout
     title="Sovkipik - Protection et soins des hérissons"
     description="Sovkipik : Le guide complet pour protéger les hérissons. Conseils d'experts, soins d'urgence, aménagement du jardin et alimentation adaptée."
+    structuredData={structuredData}
 >
     <!-- Navbar is already in Layout -->
 
