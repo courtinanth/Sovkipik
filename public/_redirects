@@ -1,0 +1,21 @@
+# Redirections des anciens articles vers le blog
+/abri-pour-herisson-avec-et-sans-bricolage /blog/abri-pour-herisson-avec-et-sans-bricolage 301
+/adopter-un-herisson /blog/adopter-un-herisson 301
+/age-et-sexe-herisson /blog/age-et-sexe-herisson 301
+/associations-herissons /blog/associations-herissons 301
+/bebe-herisson-presentation-et-comment-sen-occuper /blog/bebe-herisson-presentation-et-comment-sen-occuper 301
+/centres-soins-herissons /blog/centres-soins-herissons 301
+/crottes-herissons /blog/crottes-herissons 301
+/dents-herisson /blog/dents-herisson 301
+/detecter-un-herisson-malade /blog/detecter-un-herisson-malade 301
+/herisson-sans-pique /blog/herisson-sans-pique 301
+/herissons-et-chats /blog/herissons-et-chats 301
+/hibernation-herisson /blog/hibernation-herisson 301
+/les-differentes-herissons-a-travers-le-monde /blog/les-differentes-herissons-a-travers-le-monde 301
+/predateurs-herisson /blog/predateurs-herisson 301
+/puce-herisson /blog/puce-herisson 301
+/que-mange-un-herisson /blog/que-mange-un-herisson 301
+# /sauver-les-herissons existe maintenant comme une page dédiée (/src/pages/sauver-les-herissons.astro), donc pas de redirection vers le blog pour éviter les conflits.
+/signification-herisson-jardin /blog/signification-herisson-jardin 301
+/soccuper-dun-herisson-sauvage /blog/soccuper-dun-herisson-sauvage 301
+/tique-herisson /blog/tique-herisson 301
