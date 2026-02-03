@@ -31,17 +31,18 @@ import Layout from "../layouts/Layout.astro";
         </p>
       </div>
 
-      <div class="space-y-12">
+      <ol class="space-y-12 list-none m-0 p-0">
         <!-- Step 1 -->
-        <div class="flex flex-col md:flex-row gap-6">
+        <li class="flex flex-col md:flex-row gap-6">
           <div
             class="flex-shrink-0 w-16 h-16 bg-forest text-white rounded-full flex items-center justify-center text-3xl font-bold shadow-lg"
+            aria-hidden="true"
           >
             1
           </div>
           <div>
             <h3 class="text-2xl font-bold text-forest mb-3">
-              Observez la situation
+              1. Observez la situation
             </h3>
             <p class="text-earth-dark text-lg leading-relaxed">
               Un hérisson vu <strong>en plein jour</strong> est presque toujours un
@@ -50,18 +51,19 @@ import Layout from "../layouts/Layout.astro";
               maigre, il faut agir vite.
             </p>
           </div>
-        </div>
+        </li>
 
         <!-- Step 2 -->
-        <div class="flex flex-col md:flex-row gap-6">
+        <li class="flex flex-col md:flex-row gap-6">
           <div
             class="flex-shrink-0 w-16 h-16 bg-forest text-white rounded-full flex items-center justify-center text-3xl font-bold shadow-lg"
+            aria-hidden="true"
           >
             2
           </div>
           <div>
             <h3 class="text-2xl font-bold text-forest mb-3">
-              Sécurisez l'animal
+              2. Sécurisez l'animal
             </h3>
             <p class="text-earth-dark text-lg leading-relaxed">
               Rentrez-le à l'intérieur. Placez-le dans un carton avec des bords
@@ -71,18 +73,19 @@ import Layout from "../layouts/Layout.astro";
               même en été.
             </p>
           </div>
-        </div>
+        </li>
 
         <!-- Step 3 -->
-        <div class="flex flex-col md:flex-row gap-6">
+        <li class="flex flex-col md:flex-row gap-6">
           <div
             class="flex-shrink-0 w-16 h-16 bg-forest text-white rounded-full flex items-center justify-center text-3xl font-bold shadow-lg"
+            aria-hidden="true"
           >
             3
           </div>
           <div>
             <h3 class="text-2xl font-bold text-forest mb-3">
-              Contactez un centre de soins
+              3. Contactez un centre de soins
             </h3>
             <p class="text-earth-dark text-lg leading-relaxed">
               N'essayez pas de le soigner vous-même. Les hérissons sont des
@@ -96,8 +99,8 @@ import Layout from "../layouts/Layout.astro";
               Voir la liste des centres de soins
             </a>
           </div>
-        </div>
-      </div>
+        </li>
+      </ol>
     </div>
   </section>
 </Layout>
