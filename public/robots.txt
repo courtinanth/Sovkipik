@@ -3,4 +3,5 @@ Allow: /
 Disallow: /mentions-legales
 Disallow: /confidentialite
 
+Sitemap: https://sovkipik.com/sitemap.xml
 Sitemap: https://sovkipik.com/sitemap-index.xml
