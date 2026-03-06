@@ -8,7 +8,22 @@ description: "Liste complète des associations et centres de soins pour hérisso
 image: "/media/generated/associations-herissons.png"
 ---
 
-Des bons contacts, pour des soins rapides !
+Des bons contacts, pour des soins rapides ! Si vous avez [trouvé un hérisson en difficulté](/blog/herisson-trouve-que-faire), il est essentiel de contacter rapidement une structure adaptée. Voici notre annuaire complet des associations et groupes d'entraide.
+
+**CE QU'IL FAUT RETENIR :**
+
+* Plusieurs associations en France, Suisse et Belgique accueillent les hérissons blessés ou malades
+* Les groupes Facebook permettent d'obtenir des conseils rapides en cas d'urgence
+* En parallèle, des [centres de soins spécialisés](/blog/centres-soins-herissons) assurent la prise en charge vétérinaire
+* Le hérisson est une [espèce protégée par la loi](/blog/herisson-protection-loi) : il est interdit de le garder chez soi
+* Savoir [reconnaître un hérisson malade](/blog/detecter-un-herisson-malade) permet d'agir plus vite
+
+| Pays | Nombre d'associations listées | Spécificité |
+|------|-------------------------------|-------------|
+| France | 5 associations | Couverture nationale et régionale |
+| Suisse | 2 associations | Valais et cantons romands |
+| Belgique | 1 association | Wallonie et Bruxelles |
+| Groupes Facebook | 4 groupes | Entraide en ligne, conseils rapides |
 
 ## Les associations en France 🔵⚪🔴
 
@@ -148,3 +163,11 @@ Des bons contacts, pour des soins rapides !
   </div>
 
 </div>
+
+## Quand et comment contacter une association ?
+
+Si vous trouvez un hérisson en pleine journée, immobile ou visiblement blessé, il y a de fortes chances qu'il ait besoin d'aide. Avant d'appeler, essayez d'évaluer son état : un hérisson qui titube, qui est couvert de mouches ou qui reste en boule sans réagir est probablement en détresse. Notre guide pour [savoir comment réagir face à un hérisson trouvé](/blog/herisson-trouve-que-faire) vous détaille les premiers gestes à adopter.
+
+Les associations listées ci-dessus travaillent en étroite collaboration avec les [centres de soins vétérinaires](/blog/centres-soins-herissons) qui accueillent la faune sauvage. Si l'association contactée ne peut pas intervenir directement, elle vous orientera vers le centre le plus proche.
+
+N'oubliez pas que chacun peut contribuer à [protéger les hérissons au quotidien](/blog/sauver-les-herissons) avec des gestes simples : bannir les pesticides, laisser des passages dans les clôtures ou encore signaler les individus en difficulté.

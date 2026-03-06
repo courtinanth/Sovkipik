@@ -12,13 +12,30 @@ image: "/media/generated/adopter-un-herisson.png"
 
 **Adopter un hérisson peut sembler être une idée charmante** pour les amoureux de la nature, mais il est crucial de comprendre que cet acte est non seulement illégal en France mais aussi néfaste pour l’animal.
 
+**CE QU’IL FAUT RETENIR :**
+
+* Le hérisson d’Europe est protégé par la loi : sa detention est interdite et passible d’amendes
+* Les hérissons sont des animaux nocturnes et solitaires, inadaptés a la vie domestique
+* La population de hérissons a diminué de 40 % en 20 ans
+* Plutot que d’adopter, vous pouvez aider en aménageant votre jardin
+* En cas de hérisson blessé, contactez un centre de soins spécialisé
+
 Avant de céder à la tentation, découvrez pourquoi il est essentiel de respecter leur mode de vie naturel et comment vous pouvez les aider sans les adopter.
 
 ## Domestiquer un hérisson ?
 
-Les hérissons sont des créatures nocturnes, solitaires et timides qui ne s’adaptent pas à la vie domestique.
+Les hérissons sont des créatures nocturnes, solitaires et timides qui ne s’adaptent pas à la vie domestique. Pour mieux comprendre pourquoi, consultez notre article sur le [hérisson domestique : mythe ou réalité](/blog/herisson-domestique).
 
 Contrairement aux animaux de compagnie traditionnels, ils ne tolèrent pas bien la captivité et leur bien-être est compromis lorsqu’ils sont confinés.
+
+| Besoin du hérisson | En liberte | En captivite |
+|-------------------|------------|-------------|
+| Deplacement nocturne | 1 a 3 km par nuit | Quelques metres |
+| Changement de nid | Tous les 2-3 jours en été | Impossible |
+| Alimentation | Variée (insectes, vers, escargots) | Limitée et monotone |
+| Hibernation | Naturelle selon la temperature | Perturbée par le chauffage |
+| Reproduction | Libre et saisonniere | Compromise par le stress |
+| Comportement social | Solitaire et autonome | Stress lié a la presence humaine |
 
 Le hérisson est un nomade capable de parcourir de nombreux kilomètres chaque nuit. En été, il change de nid tous les deux ou trois jours, ce qui rend impossible de le garder dans un espace restreint sans affecter son comportement naturel.
 
@@ -28,7 +45,7 @@ Un hérisson ne se touche pas !
 
 ## La loi qui protège les hérissons d'Europe
 
-**Le hérisson d'Europe est protégé par l'annexe III de la convention de Berne** relative à la conservation de la vie sauvage et du milieu naturel.
+**Le hérisson d'Europe est [protégé par la loi](/blog/herisson-protection-loi)**, notamment l'annexe III de la convention de Berne relative à la conservation de la vie sauvage et du milieu naturel.
 
 En France, cette protection a été instaurée en 1981 et renforcée par un arrêté de 2007. Cette loi interdit de capturer, de détenir ou de transporter des hérissons. 
 
@@ -44,7 +61,7 @@ Malgré cela, les experts assurent que les hérissons ne disparaîtront pas dans
 
 Si un hérisson s'invite dans votre jardin, il est important de savoir comment réagir correctement. Tout d’abord, **éloignez vos animaux domestiques, en particulier les chiens**, qui pourraient attaquer le hérisson et se blesser en retour.
 
-Vous pouvez lui fournir de la nourriture adaptée, comme des croquettes pour chat au poulet, et de l'eau propre, surtout en période de sécheresse.
+Vous pouvez lui fournir de la nourriture adaptée, comme des [croquettes adaptées pour hérisson](/blog/croquettes-herisson), et de l'eau propre, surtout en période de sécheresse.
 
 Voici un article qui pourrait vous aider : “[Que mange un hérisson ?](/blog/que-mange-un-herisson)”
 
@@ -58,6 +75,6 @@ Vous trouverez la liste des différents centres de soins qui acceptent les héri
 
 **Même si l'idée d'adopter un hérisson peut être tentante**, il est de notre responsabilité de respecter leur nature sauvage et de les protéger dans leur environnement naturel.
 
-En adoptant des pratiques respectueuses et en contribuant à la préservation de leur habitat, nous pouvons aider ces adorables créatures à prospérer sans compromettre leur bien-être.
+En adoptant des pratiques respectueuses et en contribuant à la préservation de leur habitat, nous pouvons aider ces adorables créatures à prospérer sans compromettre leur bien-être. Par exemple, vous pouvez [construire un abri pour hérisson](/blog/abri-pour-herisson-avec-et-sans-bricolage) dans votre jardin pour leur offrir un refuge sûr.
 
 Vous pouvez d'ailleurs continuer votre lecture avec notre article : [détecter si un hérisson est malade](/blog/detecter-un-herisson-malade).

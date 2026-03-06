@@ -8,15 +8,34 @@ description: "Annuaire des centres de soins pour hérissons en France (par régi
 image: "/media/generated/centres-soins-herissons.png"
 ---
 
-Vous avez trouvé un hérisson mal en point et vous souhaitez le faire soigner au plus vite ?
+Vous avez [trouvé un hérisson mal en point](/blog/herisson-trouve-que-faire) et vous souhaitez le faire soigner au plus vite ?
 
-Nous avons listé pour vous, **le plus de centres de soins qui prennent en charge les hérissons.** Nous avons fait une liste pour les centres situés en France, Suisse et Belgique.
+**CE QU'IL FAUT RETENIR :**
+
+* Les centres de soins sont répartis sur toute la France, en Belgique et en Suisse
+* Appelez toujours avant de vous déplacer pour confirmer la disponibilité du centre
+* En attendant, gardez le hérisson au chaud dans un carton avec un tissu
+* Les [associations dédiées aux hérissons](/blog/associations-herissons) peuvent aussi vous orienter rapidement
+* Le hérisson est [protégé par la loi](/blog/herisson-protection-loi) : seuls les centres agréés peuvent le détenir
+
+Nous avons listé pour vous, **le plus de centres de soins qui prennent en charge les hérissons.** Nous avons fait une liste pour les centres situés en France, Suisse et Belgique. Avant de contacter un centre, pensez à [vérifier les signes d'un hérisson malade](/blog/detecter-un-herisson-malade) pour mieux décrire la situation au soignant.
 
 La liste a été créée en réunissant toutes les informations de plusieurs sites différents afin de vous faciliter la tâche, vous nos sauveurs de hérissons !
 
 Si vous connaissez d'autres centres non-présents dans cette liste, veuillez nous l'indiquer en commentaire s'il vous plaît dans le but de les rajouter à la liste, merci et bonne lecture !
 
+| Région / Pays | Nombre de centres | Contact principal |
+|---------------|-------------------|-------------------|
+| Auvergne-Rhône-Alpes | 2 | Panse-Bêtes, Le Tichodrome |
+| Bretagne | 4 | Boules Epiques, Les Alcides, PIAFS, LPO |
+| Hauts-de-France | 4 | SEPRONAT, Parc d'Isle, Sanctuaire, LPA |
+| Nouvelle-Aquitaine | 5 | Charente Nature, LPO Aquitaine, Hegalaldia... |
+| Belgique | 6+ | CREAVES, Birds Bay et autres |
+| Suisse | Via associations | Voir [associations suisses](/blog/associations-herissons) |
+
 Si vous souhaitez connaître toutes les différentes espèces de hérisson, alors lisez cet article : "[Les différentes hérissons à travers le monde](/blog/les-differentes-herissons-a-travers-le-monde)"
+
+## Les centres de soins en France (par région)
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
 
@@ -150,3 +169,7 @@ Si vous souhaitez connaître toutes les différentes espèces de hérisson, alor
   </div>
 
 </div>
+
+## Comment aider les hérissons au-delà des soins ?
+
+Confier un hérisson blessé à un centre de soins est un geste indispensable, mais la protection de cette espèce passe aussi par des actions quotidiennes. Découvrez [9 gestes simples pour sauver les hérissons](/blog/sauver-les-herissons) et contribuer à la préservation de leur habitat naturel.

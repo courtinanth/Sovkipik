@@ -14,13 +14,29 @@ image: "/media/generated/puce-herisson.png"
 
 Mais heureusement des astuces rapides existent pour enlever les tiques qui se trouvent sur les hérissons afin de leur sauver la vie. 🦔
 
+**CE QU'IL FAUT RETENIR :**
+
+* Les tiques s'attaquent principalement aux hérissons déjà affaiblis
+* Elles empoisonnent le sang du hérisson et peuvent transmettre des maladies
+* Utiliser un tire-tique ou une pince à épiler fine pour les retirer
+* Ne jamais utiliser d'alcool, de vaseline ou d'essence pour retirer une tique
+* Contacter un vétérinaire après le retrait pour une vermifugation adaptée
+
 ## Les tiques sont-elles dangereuses pour les hérissons ?
 
 **Oui les tiques sont dangereuses pour les hérissons**, elles vont contaminer leur sang et peuvent infecter les hérissons avec des parasites ou des maladies.
 
 De plus, **les tiques s’attaquent à des hérissons déjà affaiblis** (faim, blessure, parasite …), ce qui complique fortement le rétablissement de nos amis à pic. ⛑️
 
-Les tiques ne sont pas à confondre avec les puces de hérisson, dont nous avons déjà parlé dans cet article "[Les hérissons et les puces](/blog/puce-herisson)".
+Les tiques ne sont pas à confondre avec les puces de hérisson, dont nous avons déjà parlé dans cet article "[Les hérissons et les puces](/blog/puce-herisson)". De manière générale, la présence de tiques est un signe qu'il faut savoir [détecter un hérisson malade](/blog/detecter-un-herisson-malade) pour intervenir à temps.
+
+| Critère | Tique | Puce |
+| --- | --- | --- |
+| Taille | 3-11 mm (gorgée de sang) | 1-3 mm |
+| Fixation | S'ancre dans la peau | Saute sur l'hôte |
+| Danger principal | Empoisonnement du sang, maladies | Affaiblissement si infestation |
+| Retrait | Tire-tique / pince à épiler | Traitement vétérinaire |
+| Transmissible à l'homme | Oui (maladie de Lyme) | Non (puce spécifique) |
 
 ![Image 1: une tique](/media/imported/img-a6566097.webp)
 
@@ -42,7 +58,7 @@ Hérisson infesté de tique
 
 Enlever une tique d’un hérisson n’est pas difficile et vous pouvez le faire chez vous, cependant, fait bien attention d’enlever toute la tique et **fait attention à ne pas oublier la tête dans le corps du hérisson**, ce qui pourrait l’infecter ou lui transmettre des maladies. 🦠
 
-Car les maladies sont aussi une source de mortalité importante chez les hérissons tout comme leurs [prédateurs](/blog/predateurs-herisson).
+Car les maladies sont aussi une source de mortalité importante chez les hérissons tout comme leurs [prédateurs](/blog/predateurs-herisson). Les animaux domestiques peuvent aussi être concernés : si vous avez un chien, consultez notre article sur [le hérisson et le chien](/blog/herisson-et-chien), et si vous avez un chat, lisez notre guide sur [les hérissons et les chats](/blog/herissons-et-chats).
 
 Vous aimez prendre soin des hérissons ? Voici notre guide qui vous explique [comment prendre soin d'un hérisson sauvage.](/blog/soccuper-dun-herisson-sauvage)
 
@@ -94,6 +110,6 @@ Si les tiques se trouvent sur la tête ou sur le ventre du hérisson et que celu
 
 Cette manipulation est un peu technique, mais elle vous permettra de manipuler l’animal plus facilement.
 
-Une fois que vous avez retiré toutes les tiques du hérisson, **contactez un vétérinaire pour qu’il vous conseille sur la vermifugation du hérisson. 📞**
+Une fois que vous avez retiré toutes les tiques du hérisson, **contactez un vétérinaire pour qu’il vous conseille sur la vermifugation du hérisson. 📞** Vous pouvez trouver un professionnel compétent dans notre liste des [centres de soins pour hérissons](/blog/centres-soins-herissons) en France, Suisse et Belgique.
 
 Si vous connaissez d’autres techniques plus faciles pour enlever les tiques ou manipuler un hérisson, nous serons ravi que vous nous en informiez en commentaire de cet article !

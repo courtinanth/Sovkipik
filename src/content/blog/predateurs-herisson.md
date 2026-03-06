@@ -10,21 +10,39 @@ image: "/media/generated/predateurs-herisson.png"
 
 
 
-**Les prédateurs des hérissons ne sont pas nombreux**, ceci est dû à son armure piquante qui lui sert de protection.
+**Les prédateurs des hérissons ne sont pas nombreux**, ceci est dû à son armure piquante qui lui sert de protection. En Europe, le [hérisson commun (Erinaceus europaeus)](/blog/herisson-europe) fait face à quelques adversaires redoutables, mais son principal ennemi reste l’homme.
+
+**CE QU’IL FAUT RETENIR :**
+
+* Seuls le blaireau et le grand-duc peuvent ouvrir un hérisson mis en boule
+* Les chats ne menacent que les bébés hérissons, pas les adultes
+* Les chiens peuvent blesser les hérissons par curiosité ou excitation
+* L’homme reste de loin le plus grand prédateur du hérisson (routes, pesticides, clôtures)
+* Quelques gestes simples suffisent pour réduire les dangers dans votre jardin
 
 Mais, cela n’effraie pas les animaux comme le grand-duc 🦉 ou le blaireau 🦡 qui arrivent à passer à travers cette défense.
 
 Voyons les autres animaux qui peuvent être des prédateurs pour les hérissons.
 
-Sommaire :
-
 ## Les différents prédateurs des hérissons
 
 Comme dit précédemment, les prédateurs des hérissons ne sont pas nombreux, nous pouvons retrouver **le grand-duc** 🦉, **le blaireau** 🦡,**le renard** 🦊, **le sanglier** 🐗, **la chouette hulotte** 🦉,**la buse variable** 🦅 et **la fouine** .
 
-**Seul le blaireau et le grand-duc peuvent ouvrir un hérisson en boule.**
+**Seul le blaireau et le grand-duc peuvent ouvrir un [hérisson en boule](/blog/herisson-en-boule).**
 
-Nous ne pouvons rien faire contre les prédateurs cités ci-dessus, cependant, nous pouvons agir contre les autres prédateurs du hérisson qui sont les chiens et les humains.
+| Prédateur | Niveau de danger | Peut ouvrir un hérisson en boule ? | Présence en France |
+|-----------|-----------------|-----------------------------------|-------------------|
+| Blaireau | Elevé | Oui (grâce à ses griffes puissantes) | Oui |
+| Grand-duc | Elevé | Oui (grâce à ses serres) | Oui |
+| Renard | Moyen | Non | Oui |
+| Sanglier | Moyen | Non | Oui |
+| Chouette hulotte | Faible | Non | Oui |
+| Buse variable | Faible | Non | Oui |
+| Fouine | Faible | Non | Oui |
+| Chien | Variable | Non (tente de faire rouler le hérisson) | Oui |
+| Homme | Tres elevé | - (menaces indirectes) | Oui |
+
+Nous ne pouvons rien faire contre les prédateurs cités ci-dessus, cependant, nous pouvons agir contre les autres prédateurs du hérisson qui sont les chiens et les humains. Ces menaces influencent directement la [durée de vie du hérisson](/blog/duree-de-vie-herisson), qui dépasse rarement 2 à 3 ans en milieu urbain.
 
 Plus bas, vous verrez comment agir pour protéger les hérissons.
 
@@ -50,7 +68,7 @@ Pour blesser les hérissons, les chiens ne peuvent pas passer à travers leurs p
 
 ## Comment protéger les hérissons des hommes ?
 
-Le plus grand prédateur des hérissons en cumulant les installations sur son territoire, en clôturant les jardins, avec les routes, l'entretien des jardins, les trous et les piscines, **l’homme est sans aucun doute le plus grand prédateur des hérissons**.
+Le plus grand prédateur des hérissons en cumulant les installations sur son territoire, en clôturant les jardins, avec les routes, l’entretien des jardins, les trous et les piscines, **l’homme est sans aucun doute le plus grand prédateur des hérissons**. Les [dangers du jardin pour le hérisson](/blog/dangers-jardin-herisson) sont nombreux et souvent sous-estimés.
 
 Bien que chasser cette espèce est devenu illégal depuis 2007, toute les activités humaines touchant à son environnement de départ sont nocives pour cette espèce.
 
@@ -73,7 +91,7 @@ Faite attention pour leur survie s'il vous plaît !
 
 **Mais comment les hérissons se protègent-ils de tous ces prédateurs ?** C’est une question assez facile à répondre, en effet, grâce à leurs longs pics, les hérissons ne sont pas facilement atteignables.
 
-Doté d’une mauvaise vue, ils ressentent d’autant plus les vibrations qu’un autre être vivant va produire sur le sol, **c’est à l’approche d’une présence inconnue que le hérisson va s’immobiliser et dresser ses pics sur son dos**. À ce moment, il peut rester des heures les pics droits sans se fatiguer.
+Doté d’une mauvaise vue, ils ressentent d’autant plus les vibrations qu’un autre être vivant va produire sur le sol, **c’est à l’approche d’une présence inconnue que le hérisson va s’immobiliser et dresser ses pics sur son dos**. Il peut aussi émettre un [cri caractéristique](/blog/cri-du-herisson) pour intimider l’intrus. À ce moment, il peut rester des heures les pics droits sans se fatiguer.
 
 Si l’être vivant se rapproche trop près de lui, le hérisson protégera sa tête en penchant sa tête vers l’avant, et si l’animal essaie de le retourner, il se mettra complètement en boule afin de cacher sa tête et ses pieds.
 

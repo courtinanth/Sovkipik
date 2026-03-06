@@ -12,7 +12,15 @@ image: "/media/generated/age-et-sexe-herisson.png"
 
 **Identifier le sexe est l’âge du hérisson** pour être important quand nous souhaitons savoir rapidement s’il a besoin d’une aide extérieure ou non. ⛑️
 
-Par exemple, nous savons qu’un hérisson trop petit durant l’automne, ne passera sûrement pas l’hiver seul, il faudra donc l’aider en contactant un vétérinaire ou une association adéquate.
+**CE QU’IL FAUT RETENIR :**
+
+* Les organes génitaux du mâle se situent au milieu du ventre, ceux de la femelle près de l’anus
+* Un hérisson adulte pèse au minimum 400 g et possède des piquants légèrement jaunâtres
+* Les bébés hérissons naissent avec des piquants blancs et pèsent environ 20-25 g
+* La taille et l’agressivité ne permettent pas de déterminer le sexe d’un hérisson
+* Un hérisson trop léger en automne aura besoin d’aide pour survivre à l’hiver
+
+Par exemple, nous savons qu’un hérisson trop petit durant l’automne, ne passera sûrement pas l’hiver seul, il faudra donc l’aider en contactant un vétérinaire ou une association adéquate. Connaître l’âge de l’animal est aussi utile pour estimer son [espérance de vie](/blog/duree-de-vie-herisson).
 
 ## Comment reconnaître un hérisson mâle et femelle
 
@@ -25,6 +33,8 @@ Les hérissons femelles auront à avoir leurs organes génitaux plus près des p
 Une autre façon plus insolite de différencier les mâles des femelles sans pour autant devoir les déranger, se trouve dans la taille de leurs excréments.
 
 **Les excréments des mâles sont longs tandis que ceux des femelles sont plus courts.** 💩
+
+La distinction mâle/femelle est particulièrement importante pendant la [saison de reproduction du hérisson](/blog/reproduction-herisson), lorsque l'on souhaite comprendre les comportements observés dans son jardin.
 
 ![Image 1: sexe femelle hérisson](/media/imported/img-ee0e2dc8.webp)
 
@@ -40,6 +50,8 @@ Sexe hérisson femelle
 | 3 semaines | 100g | Dent apparaissent |
 | 1 à 3 mois | 100-300g | Hérisson bien formé |
 | Adulte/sénior | 400 et plus | Piquants légèrement jaunâtres |
+
+Pour en savoir plus sur les premières semaines de vie, consultez notre guide complet sur le [bébé hérisson : présentation et comment s’en occuper](/blog/bebe-herisson-presentation-et-comment-sen-occuper).
 
 ## Les fausses rumeurs sur le sexe et l’âge d’un hérisson
 
@@ -61,6 +73,6 @@ Non ❌, ceci n'est pas vrai, les hérissons hibernent de la même manière, de 
 
 **Les bébés hérissons ont plus de tiques que les adultes ?**
 
-Non ❌, les bébés hérissons ont autant de chance de posséder des [tiques](/blog/tique-herisson) que les adultes, les tiques étant lié à la mauvaise santé d'un hérisson, si vous en voyer sur un hérisson dans votre jardin, vous pouvez lui enlever, car ceux-ci empoisonnent son sang.
+Non ❌, les bébés hérissons ont autant de chance de posséder des [tiques](/blog/tique-herisson) que les adultes, les tiques étant lié à la mauvaise santé d'un hérisson, si vous en voyer sur un hérisson dans votre jardin, vous pouvez lui enlever, car ceux-ci empoisonnent son sang. D'une manière générale, apprenez à [détecter un hérisson malade](/blog/detecter-un-herisson-malade) pour pouvoir réagir rapidement.
 
 Si vous connaissez d'autres rumeurs, qu'elles soient vrais ou fausses, nous vous invitons à les écrire en commentaire !

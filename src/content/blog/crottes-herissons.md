@@ -10,6 +10,8 @@ image: "/media/generated/crottes-herissons.png"
 
 
 
+> **Cet article a été mis à jour !** Consultez notre [guide complet sur les crottes de hérisson](/blog/crotte-de-herisson) pour des informations plus détaillées et un tableau comparatif complet.
+
 Ces petits mammifères nocturnes jouent un rôle crucial en régulant les populations d'insectes et autres nuisibles.
 
 Par conséquent,**la présence de crottes de hérissons dans votre jardin pourrait être un signe de bonne santé** pour votre environnement.

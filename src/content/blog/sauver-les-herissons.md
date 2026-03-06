@@ -10,7 +10,29 @@ image: "/media/generated/sauver-les-herissons.png"
 
 ## 9 gestes simples pour protéger les Erinaceus europaeus (hérissons d'Europe)
 
-### Geste 1 : Évitez les pesticides
+Le hérisson d'Europe est une [espèce protégée par la loi](/blog/herisson-protection-loi) depuis 1981 en France. Pourtant, sa population continue de diminuer. Voici comment agir concrètement pour inverser la tendance.
+
+**CE QU'IL FAUT RETENIR :**
+
+* Les pesticides empoisonnent les hérissons et leurs proies
+* Les hérissons parcourent 1 a 2 km par nuit : ils ont besoin de passages entre les jardins
+* En cas de hérisson blessé, contactez un centre de soins ou une association
+* Un jardin "un peu sauvage" est le meilleur refuge pour les hérissons
+* Ne tentez jamais de soigner un hérisson vous-même sans avis professionnel
+
+| Geste | Difficulte | Impact pour les hérissons |
+|-------|-----------|--------------------------|
+| Eviter les pesticides | Facile | Tres fort (protege toute la chaine alimentaire) |
+| Vérifier avant de tailler | Facile | Fort (evite les blessures mortelles) |
+| Conduire prudemment la nuit | Facile | Fort (premiere cause de mortalite) |
+| Offrir eau et nourriture | Facile | Moyen (aide en periode de secheresse) |
+| Laisser une zone en friche | Moyen | Fort (cree un habitat naturel) |
+| Protéger piscines et trous | Moyen | Fort (evite les noyades) |
+| Laisser des passages | Moyen | Tres fort (permet la circulation nocturne) |
+| Signaler les hérissons blessés | Facile | Tres fort (sauve des vies) |
+| Sensibiliser votre entourage | Facile | Fort (effet multiplicateur) |
+
+### Geste 1 : Evitez les pesticides
 
 Les pesticides sont nocifs pour les hérissons et leur nourriture.
 
@@ -52,7 +74,7 @@ Nous avons rédigé une liste complète des aliments à ne pas donner aux héris
 
 ### Geste 5 : Laissez une partie de votre jardin en friche
 
-Favorisez la biodiversité en laissant une zone de votre jardin en friche, ce qui offrira un habitat et une source de nourriture pour les hérissons.
+Favorisez la biodiversité en laissant une zone de votre jardin en friche, ce qui offrira un habitat et une source de nourriture pour les hérissons. Vous pouvez aussi [construire un abri pour hérisson](/blog/abri-pour-herisson-avec-et-sans-bricolage) afin de leur offrir un refuge sûr pour l'hibernation ou la mise bas.
 
 ![Image 5: laissez la faune et la flore se développer dans votre jardin](/media/imported/img-412bcfc5.webp)
 
@@ -74,7 +96,7 @@ N'oubliez pas, les hérissons parcours de grandes distances la nuit, **ils parco
 
 ### Geste 8 : Signalez les hérissons blessés ou infectés
 
-Si vous trouvez un hérisson blessé, malade ou en détresse, **contactez au plus vite un centre de soins pour la faune sauvage** ou un vétérinaire pour lui venir en aide.
+Si vous trouvez un hérisson blessé, malade ou en détresse, **contactez au plus vite un [centre de soins pour la faune sauvage](/blog/centres-soins-herissons)** ou un vétérinaire pour lui venir en aide. Apprenez aussi à [reconnaître les signes d'un hérisson malade](/blog/detecter-un-herisson-malade) pour savoir quand intervenir.
 
 Si personne n'est disponible ou ne veut prendre notre amis hérisson, n'hésitez pas à contacter les associations qui vous répondront au plus vite !
 
@@ -93,3 +115,5 @@ Informez-vous sur les campagnes de protection des hérissons et partagez les inf
 ### Les hérissons, des animaux qui ont besoin d'aide
 
 Avec ces gestes simples à mettre en place, nous pouvons sauver toute une espèce. N'attendons plus et commençons à agir !
+
+Si vous trouvez un hérisson en difficulté, consultez notre guide complet sur [la marche à suivre pour aider un hérisson trouvé](/blog/herisson-trouve-que-faire).

@@ -16,6 +16,14 @@ Bien qu'elles ne puissent aller sur les humains ou sur nos animaux domestiques, 
 
 Que signifie un hérisson avec plein de puces ? Nous répondons à toutes vos questions en quelques lignes.
 
+**CE QU'IL FAUT RETENIR :**
+
+* La puce du hérisson (Archaeopsylla erinacei) est spécifique à son espèce
+* Les puces de hérisson ne survivent pas sur les chiens, chats ou humains
+* Un hérisson couvert de puces est souvent un hérisson en mauvaise santé
+* Ne jamais utiliser de produit antipuces (Frontline, etc.) sans avis vétérinaire
+* Consulter un vétérinaire ou une association spécialisée en cas d'infestation
+
 ## Les hérissons ont-ils des puces ?
 
 **La réponse est oui !** Comme de nombreux animaux, les hérissons peuvent être victimes des puces.
@@ -24,9 +32,15 @@ Cependant, il est important de noter que nous nous concentrerons ici sur le hér
 
 **L’espèce de puce présente sur les hérissons est l’Archaeopsylla erinacei** est une espèce de puce en très grande partie présente sur les hérissons d’Europe. 🌍
 
-Ce n’est d’ailleurs pas normal qu’un hérisson ait beaucoup de puces, cela indique qu’il peut être en mauvaise santé.
+Ce n’est d’ailleurs pas normal qu’un hérisson ait beaucoup de puces, cela indique qu’il peut être en mauvaise santé. Pour savoir si un hérisson nécessite une intervention, apprenez à [reconnaître les signes d’un hérisson malade](/blog/detecter-un-herisson-malade).
 
 C’est d’ailleurs la même chose pour [les tiques](/blog/tique-herisson).
+
+| Parasite | Espèce | Transmissible aux animaux domestiques ? | Danger pour le hérisson |
+| --- | --- | --- | --- |
+| Puce | Archaeopsylla erinacei | Non | Modéré (affaiblissement si infestation) |
+| Tique | Ixodes hexagonus | Oui (rarement) | Élevé (empoisonnement du sang) |
+| Puce humaine | Pulex irritans | — | Très rare, faible impact |
 
 ![Image 1: Puce hérisson Archaeopsylla erinacei](/media/imported/img-9b2ba718.webp)
 
@@ -34,7 +48,7 @@ Archaeopsylla erinacei : Puce de hérisson
 
 ## Les puces de hérissons peuvent-elles aller sur mon chien ou chat ?
 
-Si vous avez un chien ou un chat et que vous avez remarqué la présence de puces sur un hérisson, vous pourriez vous inquiéter de la possibilité que ces parasites sautent sur vos animaux de compagnie.
+Si vous avez un chien ou un chat et que vous avez remarqué la présence de puces sur un hérisson, vous pourriez vous inquiéter de la possibilité que ces parasites sautent sur vos animaux de compagnie. Cette question revient souvent chez les propriétaires de [chats qui cohabitent avec un hérisson](/blog/herissons-et-chats) ou de [chiens qui croisent un hérisson](/blog/herisson-et-chien) dans le jardin.
 
 Mais pas de panique, **les puces de hérissons sont inhérentes aux hérissons**, cela veut dire qu’elles ne se transmettent pas sur les autres animaux.
 
@@ -64,7 +78,7 @@ Il est essentiel d'utiliser des produits spécifiquement conçus pour les héris
 
 N’utilisez pas de produit comme Frontline ou autre sur votre hérisson, sans l’aval d’un vétérinaire !
 
-Si vous avez besoin de conseils concernant les soins à prodiguer à un hérisson, vous pouvez contacter gratuitement votre vétérinaire ou poser votre question aux associations, comme **Alliance Hérisson** ou **Les P’tits Kipik**.
+Si vous avez besoin de conseils concernant les soins à prodiguer à un hérisson, vous pouvez contacter gratuitement votre vétérinaire ou poser votre question aux associations, comme **Alliance Hérisson** ou **Les P’tits Kipik**. Retrouvez la liste complète dans notre annuaire des [centres de soins pour hérissons](/blog/centres-soins-herissons).
 
 Bien que les hérissons puissent être porteurs de puces, cela ne signifie pas nécessairement qu'ils sont en mauvaise santé ou que votre jardin est insalubre.
 

@@ -14,6 +14,14 @@ image: "/media/generated/sauver-les-herissons.png"
 
 Avant de plonger dans les détails de leurs soins, familiarisons-nous avec les différentes tailles de ces charmants mammifères. 🦔
 
+**CE QU'IL FAUT RETENIR :**
+
+* Les hérissons sont une espèce protégée : il est interdit de les domestiquer
+* Laissez une partie de votre jardin "sauvage" pour les accueillir naturellement
+* Proposez de l'eau et des croquettes pour chat, surtout avant et après l'hibernation
+* Un hérisson actif en journée est probablement en difficulté et nécessite une aide rapide
+* Contactez un vétérinaire ou un centre de soins en cas de hérisson blessé ou malade
+
 Sommaire :
 
 ## Pourquoi prendre soin des hérissons?
@@ -65,7 +73,7 @@ Bien que les hérissons soient des chasseurs habiles, un petit coup de pouce ne 
 
 Proposez de la nourriture pour chat de bonne qualité, ou des aliments spécialisés pour hérissons, et **mettez à disposition un bol d'eau**, surtout pendant les mois chauds.
 
-Découvrez [comment nourrir des hérissons correctement](/blog/soccuper-dun-herisson-sauvage_wp_link_placeholder) !
+Découvrez [que mange un hérisson et comment le nourrir correctement](/blog/que-mange-un-herisson) ! En hiver, pensez également à adapter l'alimentation avec notre guide sur la [nourriture du hérisson en hiver](/blog/herisson-nourriture-hiver).
 
 ## Les différentes tailles de hérissons
 
@@ -73,11 +81,18 @@ Les hérissons d’Europe ne sont pas uniformes en taille. Le hérisson europée
 
 **Ces hérissons atteignent leur taille adulte après environ un an**, mais avant cela, ils passent par l'adorable phase de choupisson, pesant à peine 15 grammes à la naissance. 🍼
 
+| Stade de vie | Poids | Taille | Besoins spécifiques |
+| --- | --- | --- | --- |
+| Nouveau-né (choupisson) | 15-25 g | 5-7 cm | Dépendant de la mère |
+| Jeune (1-3 mois) | 100-300 g | 10-15 cm | Sevrage, apprentissage |
+| Sub-adulte (3-6 mois) | 300-500 g | 15-22 cm | Prise de poids avant l'hiver |
+| Adulte | 400-1200 g | 22-27 cm | Autonome |
+
 L'automne voit souvent des hérissons 'à l'embonpoint' se préparer pour l'hibernation.
 
 ## Attention aux hérissons malades ou blessés
 
-**Si vous trouvez un hérisson qui semble malade, blessé ou désorienté pendant la journée, il peut nécessiter une aide immédiate.**
+**Si vous trouvez un hérisson qui semble malade, blessé ou désorienté pendant la journée, il peut nécessiter une aide immédiate.** Consultez notre guide [que faire si vous trouvez un hérisson](/blog/herisson-trouve-que-faire) pour connaître les bons réflexes, et apprenez à [reconnaître les symptômes d'un hérisson malade](/blog/detecter-un-herisson-malade).
 
 Utilisez des gants pour le placer dans une boîte avec des journaux pour le garder au chaud, offrez de l'eau mais évitez de le nourrir sans conseils vétérinaires, et contactez une association locale de protection des hérissons ou un vétérinaire spécialisé dans la faune sauvage. 🧤
 

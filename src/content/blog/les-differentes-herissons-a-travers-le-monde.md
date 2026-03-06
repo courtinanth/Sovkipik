@@ -12,6 +12,14 @@ image: "/media/generated/les-differentes-herissons-a-travers-le-monde.png"
 
 Aujourd’hui, nous allons voir les différents hérissons que nous pouvons trouver à travers le monde, pour pouvoir les identifier plus facilement lorsque vous en trouverez un en difficulté durant vos voyages.
 
+**CE QU’IL FAUT RETENIR :**
+
+* Il existe 2 grandes familles de hérissons : les Erinaceidae et les Tenrecinae
+* L’espece la plus repandue en Europe est l’Erinaceus europaeus (hérisson commun)
+* Les hérissons sont presents en Europe, Afrique et Asie, mais absents d’Amerique et d’Oceanie (sauf introduction)
+* Attention a ne pas confondre hérissons et [porcs-epics, qui sont des animaux tres differents](/blog/herisson-porc-epic-differences)
+* Certains individus naissent sans pigmentation : ce sont les [hérissons albinos](/blog/herisson-albinos)
+
 Nous allons commencer par voir les différentes espèces de hérissons qui existent, pour ensuite voir où celles-ci se situent à travers le monde.
 
 ![Image 1: les différentes especes de herisson](/media/imported/img-f87e8584.webp)
@@ -37,6 +45,11 @@ Pour expliquer ce que représente chaque famille, rien de mieux que de reprendre
 “Tenrecinae est une sous-famille de la famille des Tenrecidae. Elle comprend des petits mammifères insectivores appelés « tenrecs » ou tenrecs-hérissons, très semblables à des hérissons « vrais » de la famille des Erinaceidae.”
 
 Donc voici les deux grandes familles de hérisson, maintenant, nous allons voir les différentes races que contient chaque famille.
+
+| Famille | Nombre de genres | Zones geographiques | Particularite |
+|---------|-----------------|---------------------|---------------|
+| Erinaceidae | 6 (Erinaceus, Hemiechinus, Paraechinus, Aetechinus, Atelerix, Mesechinus) | Europe, Asie, Afrique | Vrais hérissons a epines |
+| Tenrecinae | 3 (Tenrec, Setifer, Echinops) | Madagascar uniquement | Tenrecs-hérissons, ressemblent aux hérissons mais famille distincte |
 
 ### **Dans la famille des Erinaceidae :**
 
@@ -120,7 +133,7 @@ Appelé petit hérisson-tenrec ou tenrec-hérisson
 
 ## Les hérissons en Europe
 
-Dans toutes les espèces de hérissons situées ci-dessus, voici celles présentent en Europe :
+Pour en savoir plus sur l'espece la plus commune chez nous, consultez notre guide complet sur le [hérisson d'Europe](/blog/herisson-europe). Dans toutes les espèces de hérissons situées ci-dessus, voici celles présentent en Europe :
 
 *   [Erinaceus europaeus](https://fr.wikipedia.org/wiki/H%C3%A9risson_commun)
 *   [Erinaceus concolor](https://fr.wikipedia.org/wiki/H%C3%A9risson_oriental)
@@ -163,6 +176,6 @@ En Océanie, seul l’Erinaceus europaeus ou hérisson commun a été introduit 
 
 Attention à ne pas confondre l’<a href="https://fr.wikipedia.org/wiki/%C3%89chidn%C3%A9" target="_blank" rel="noopener noreferrer">Échidné</a> vivant en Australie ou en Nouvelle-Guinée, qui sont des cousins des ornithorynques, les monotrèmes, car comme tous les monotrèmes, ils pondent des œufs bien que ce soit des mammifères.
 
-Vous connaissez désormais**toutes les espèces de hérisson ainsi que d’où ils proviennent**, vous ne pourrez plus vous tromper lors des parties de Trials Poursuit avec vos amis.
+Vous connaissez désormais **toutes les espèces de hérisson ainsi que d’où ils proviennent**, vous ne pourrez plus vous tromper lors des parties de Trials Poursuit avec vos amis. Sachez que selon l’espece et son environnement, la [durée de vie d’un hérisson](/blog/duree-de-vie-herisson) varie considérablement.
 
 Si vous souhaitez en apprendre plus sur les hérissons, venez découvrir [les dents du hérisson](/blog/dents-herisson).
