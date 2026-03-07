@@ -63,10 +63,7 @@ Le hérisson ne se contente pas d'un seul type d'abri. **Il construit plusieurs 
 
 L'hibernaculum est le nid le plus impressionnant que construit le hérisson. **C'est une véritable forteresse d'isolation thermique** que l'animal prépare avec soin avant l'arrivée de l'hiver.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Vue en coupe d'un hibernaculum de hérisson sous un tas de feuilles, montrant les couches de feuilles compactées, le hérisson en boule au centre, avec des feuilles mortes et de la mousse autour</p>
-</div>
+![Vue en coupe d'un hibernaculum de hérisson sous un tas de feuilles](/media/coupe-hibernaculum-herisson.webp)
 
 **Le hérisson consacre plusieurs jours à sa construction.** Il rassemble de grandes quantités de feuilles mortes qu'il transporte dans sa gueule. Le nid finalisé peut contenir l'équivalent d'un gros sac poubelle de feuilles compactées.
 
@@ -99,10 +96,7 @@ Pour en savoir plus, consultez notre guide complet sur [l'hibernation du hériss
 
 **Les hérissons ne creusent pas de terrier à proprement parler.** Ils construisent leur nid au-dessus du sol ou dans des cavités déjà existantes. Le terme "terrier de hérisson" est un abus de langage.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Schéma illustré d'un jardin vu de dessus avec des points rouges indiquant les emplacements typiques des nids de hérisson : sous la haie, dans le tas de compost, sous l'abri de jardin, dans le tas de bois</p>
-</div>
+![Schéma d'un jardin vu de dessus avec les emplacements typiques des nids de hérisson](/media/schema-emplacements-nids-herisson.webp)
 
 ## Attention aux destructions accidentelles !
 
@@ -132,10 +126,7 @@ Pour en savoir plus, consultez notre guide complet sur [l'hibernation du hériss
 
 Pour installer un abri permanent, consultez notre guide sur [les abris pour hérisson](/blog/abri-pour-herisson-avec-et-sans-bricolage).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo réaliste d'un nid de hérisson au pied d'une haie dans un jardin, avec des feuilles mortes accumulées en dôme, un petit passage visible pour l'entrée du hérisson</p>
-</div>
+![Nid de hérisson au pied d'une haie avec des feuilles mortes en dôme](/media/nid-herisson-haie-jardin.webp)
 
 ## FAQ sur le nid du hérisson
 

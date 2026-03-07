@@ -144,10 +144,7 @@ Mais comment le hérisson parvient-il à se replier aussi parfaitement sur lui-m
 
 **La fuite** : le hérisson peut courir jusqu'à 7 km/h en pointe, mais cette stratégie n'est utilisée qu'en dernier recours.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Comparaison visuelle côte à côte : hérisson vivant en boule (piquants dressés, fermes, position ronde et compacte) vs hérisson mort (piquants relâchés, corps partiellement déplié)</p>
-</div>
+![Comparaison côte à côte d'un hérisson vivant en boule vs un hérisson mort](/media/herisson-boule-vivant-vs-mort.webp)
 
 ## FAQ sur le hérisson en boule
 

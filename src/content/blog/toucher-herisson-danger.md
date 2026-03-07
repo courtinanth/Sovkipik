@@ -95,10 +95,7 @@ Le hérisson est un animal sauvage protégé par la loi, et le manipuler n'est n
 2. **Désinfectez les gants** ou lavez-les
 3. **Surveillez votre peau** dans les jours suivants : plaques rouges ou démangeaisons pourraient indiquer une teigne
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Personne portant des gants de jardinage épais soulevant délicatement un hérisson blessé pour le placer dans un carton avec une serviette, geste doux et précautionneux</p>
-</div>
+![Personne portant des gants de jardinage soulevant délicatement un hérisson blessé](/media/sauvetage-herisson-blesse-gants.webp)
 
 ## Quand est-il nécessaire de toucher un hérisson ?
 
@@ -151,10 +148,7 @@ Pour en savoir plus, consultez notre article sur [la protection du hérisson par
 
 **Le hérisson n'est pas un animal de compagnie.** Mais installer une gamelle de croquettes au jardin le soir et observer les hérissons depuis la fenetre avec une lampe rouge est une activité merveilleuse pour sensibiliser les enfants à la nature.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Enfant accroupi observant un hérisson depuis une distance respectueuse dans un jardin au crépuscule, sans le toucher, avec un air émerveillé</p>
-</div>
+![Enfant observant un hérisson depuis une distance respectueuse dans un jardin au crépuscule](/media/enfant-observe-herisson-distance.webp)
 
 ## FAQ sur les dangers du hérisson
 
