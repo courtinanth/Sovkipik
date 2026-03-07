@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Un hérisson sauvage vit en moyenne 2 à 3 ans, mais peut atteindre 10 ans. Découvrez les facteurs qui influencent sa longévité et comment l'aider à vivre plus longtemps."
-image: "/media/generated/duree-de-vie-herisson.png"
+image: "/media/cover-duree-vie-herisson.webp"
 tldr:
   - "La durée de vie d'un hérisson sauvage est de 2 à 3 ans en moyenne"
   - "En captivité (centres de soins), un hérisson peut vivre jusqu'à 8-10 ans"
@@ -61,10 +61,7 @@ En captivité, à l'abri des prédateurs et des voitures, **la durée de vie** p
 
 Cette différence montre à quel point **l'environnement joue un rôle majeur dans la longévité du hérisson**. Pour en savoir plus sur les dangers, consultez notre article sur [les prédateurs du hérisson](/blog/predateurs-herisson).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie comparative de la durée de vie d'un hérisson sauvage (2-3 ans) vs en captivité (8-10 ans), avec icônes représentant les deux environnements, style naturaliste et couleurs terre</p>
-</div>
+![Infographie comparative de la durée de vie d'un hérisson sauvage vs en captivité](/media/duree-vie-sauvage-vs-captivite.webp)
 
 ## 70% de mortalité la première année
 
@@ -94,10 +91,7 @@ La [reproduction du herisson](/blog/reproduction-herisson) joue un role cle dans
 
 En cumulant route, pesticides, destruction d'habitat, piscines et outils de jardinage, **l'homme est responsable de plus de 60% des décès de hérissons**. Les **pesticides** sont particulièrement pernicieux : ils empoisonnent aussi les insectes et limaces dont le hérisson se nourrit, provoquant une accumulation de toxines qui affaiblit progressivement son système immunitaire. Pour securiser votre espace vert, consultez notre guide sur les [dangers du jardin pour le herisson](/blog/dangers-jardin-herisson).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Diagramme circulaire illustrant les causes de mortalité du hérisson en pourcentages, avec icônes pour chaque cause (voiture, pesticide, flocon de neige, renard), palette de couleurs naturelles</p>
-</div>
+![Diagramme circulaire des causes de mortalité du hérisson](/media/diagramme-mortalite-herisson.webp)
 
 ## Facteurs qui influencent la durée de vie
 

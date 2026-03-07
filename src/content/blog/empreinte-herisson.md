@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Apprenez à identifier l'empreinte d'un hérisson grâce à ses 5 doigts caractéristiques. Photos, dimensions et comparaison avec d'autres traces animales."
-image: "/media/generated/empreinte-herisson.png"
+image: "/media/cover-empreinte-herisson.webp"
 tldr:
   - "L'empreinte de hérisson montre 5 doigts avec des griffes visibles"
   - "La patte avant mesure environ 2,5 cm de large, la patte arrière 2,8 cm"
@@ -49,10 +49,7 @@ L'**empreinte de hérisson** est assez distinctive une fois qu'on sait quoi cher
 
 **La démarche :** Le hérisson marche en **plantigrade** (il pose toute la plante du pied au sol). Ses pattes arrière se posent souvent **dans les traces des pattes avant**, créant des empreintes superposées parfois difficiles à lire.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Schéma scientifique annoté d'une empreinte de hérisson dans la boue, montrant les 5 doigts, les griffes, le coussinet plantaire, avec des côtes de mesure (2,5 cm de large)</p>
-</div>
+![Schéma scientifique annoté d'une empreinte de hérisson dans la boue](/media/schema-empreinte-herisson-annote.webp)
 
 ## Dimensions et différences patte avant / patte arrière
 
@@ -123,10 +120,7 @@ Le **tunnel à empreintes** est la méthode la plus efficace pour détecter la p
 5.  Installez le dispositif le soir le long d'une clôture ou d'un mur
 6.  Relevez le papier le lendemain matin et observez les empreintes
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo ou illustration d'un tunnel à empreintes DIY pour hérisson, montrant le tunnel en brique de lait ouverte aux deux extrémités, avec le papier blanc à l'intérieur et les éponges encrées à l'entrée, posé le long d'une haie dans un jardin</p>
-</div>
+![Tunnel à empreintes DIY pour hérisson](/media/tunnel-empreintes-diy-herisson.webp)
 
 **Conseils pour réussir :**
 *   Utilisez **uniquement de la peinture non toxique** (le hérisson va se lécher les pattes)

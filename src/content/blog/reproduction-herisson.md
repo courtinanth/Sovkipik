@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "La reproduction du hérisson commence en avril. Découvrez la parade nuptiale, la durée de gestation, le nombre de petits par portée et les étapes clés de la naissance."
-image: "/media/generated/reproduction-herisson.png"
+image: "/media/cover-reproduction-herisson.webp"
 tldr:
   - "La période de reproduction du hérisson s'étend d'avril à septembre"
   - "La femelle du hérisson s'appelle la hérissonne"
@@ -77,10 +77,7 @@ La **période de reproduction du hérisson** est étroitement liée aux saisons.
 
 La parade nuptiale du hérisson est l'un des comportements les plus remarquables du monde animal. Le mâle repère une femelle grâce à son odorat et commence à **tourner en cercles autour d'elle** pendant de longues minutes, parfois **plusieurs heures**. Pendant cette danse, il émet des **soufflements puissants** et des [grognements caractéristiques](/blog/cri-du-herisson). La femelle, de son côté, souffle et repousse le mâle en se hérissant.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Illustration naturaliste de deux hérissons pendant la parade nuptiale, le mâle tournant autour de la femelle dans un jardin au crépuscule, ambiance printanière douce</p>
-</div>
+![Illustration de deux hérissons pendant la parade nuptiale au crépuscule](/media/parade-nuptiale-herissons-crepuscule.webp)
 
 **Les étapes de la parade nuptiale :**
 
@@ -123,10 +120,7 @@ La **maman hérisson et ses bébés** forment un duo fragile : on estime que **3
 | **Semaine 4** | 130-180 g | Sortent du nid, explorent les alentours |
 | **Semaine 5-6** | 180-350 g | Sevrage complet, quittent le nid définitivement |
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie verticale montrant le développement d'un bébé hérisson semaine par semaine, de la naissance (10g, rose, sans piquants) jusqu'à la semaine 6 (350g, piquants adultes), style naturaliste</p>
-</div>
+![Développement d'un bébé hérisson semaine par semaine](/media/developpement-bebe-herisson-semaines.webp)
 
 Pour en savoir plus sur les soins aux choupissons, consultez notre guide détaillé sur les [bébés hérissons](/blog/bebe-herisson-presentation-et-comment-sen-occuper).
 

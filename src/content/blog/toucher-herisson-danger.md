@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Toucher un hérisson peut transmettre des maladies comme la teigne ou la salmonellose. Découvrez les vrais risques, les précautions et la réglementation."
-image: "/media/generated/toucher-herisson-danger.png"
+image: "/media/cover-toucher-herisson.webp"
 tldr:
   - "Le hérisson peut transmettre des maladies à l'homme : teigne, salmonellose, leptospirose"
   - "Les parasites du hérisson (tiques, puces) peuvent exceptionnellement piquer l'homme"
@@ -60,10 +60,7 @@ Le hérisson est un animal sauvage protégé par la loi, et le manipuler n'est n
 
 **Important** : ces maladies sont toutes traitables si diagnostiquées à temps. Si vous développez des symptômes après avoir touché un hérisson, consultez votre médecin.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie médicale illustrée montrant les 3 principales maladies transmises par le hérisson (teigne, salmonellose, leptospirose) avec des icônes simples et les modes de transmission</p>
-</div>
+![Infographie des 3 principales maladies transmises par le hérisson : teigne, salmonellose, leptospirose](/media/maladies-transmises-herisson.webp)
 
 ## Les parasites du hérisson
 

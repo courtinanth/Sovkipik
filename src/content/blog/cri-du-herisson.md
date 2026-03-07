@@ -87,10 +87,7 @@ Le **cri de détresse du hérisson** est un son **aigu, perçant et répétitif*
 
 **Que faire ?** Localisez le hérisson en suivant le son, évaluez la situation, libérez-le si possible avec des gants épais, et contactez un centre de soins si le hérisson est blessé. Consultez notre guide : [Hérisson trouvé : que faire ?](/blog/herisson-trouve-que-faire)
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Deux hérissons européens face à face dans l'herbe d'un jardin la nuit, l'un tournant autour de l'autre dans un rituel de parade nuptiale, éclairage doux de clair de lune</p>
-</div>
+![Deux hérissons européens face à face lors d'un rituel de parade nuptiale de nuit](/media/herissons-parade-nuptiale-nuit.webp)
 
 ## Le sifflement du bébé hérisson
 

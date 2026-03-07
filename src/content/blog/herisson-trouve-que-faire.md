@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Vous avez trouvé un hérisson en plein jour ou blessé ? Voici les gestes à adopter, les erreurs à éviter et quand contacter un centre de soins. Arbre décisionnel inclus."
-image: "/media/generated/herisson-trouve-que-faire.png"
+image: "/media/cover-herisson-trouve.webp"
 tldr:
   - "Un hérisson en plein jour = URGENCE dans 90 % des cas"
   - "Ne le touchez JAMAIS à mains nues (gants obligatoires)"
@@ -108,10 +108,7 @@ Un hérisson actif la nuit est dans son cycle normal. Généralement pas d'inqui
 **Cas des mouches/asticots :** Retirez les asticots visibles avec une pince à épiler (surface seulement). Ne mettez pas d'insecticide. Contactez un centre EN URGENCE : chaque minute compte.
 </details>
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie arbre décisionnel "J'ai trouvé un hérisson : que faire ?" avec branches jour/nuit, blessé/sain, bébé/adulte, dans un style clair et pédagogique avec des icônes</p>
-</div>
+![Arbre décisionnel : j'ai trouvé un hérisson, que faire ?](/media/arbre-decisionnel-herisson-trouve.webp)
 
 ## Hérisson trouvé en plein jour : pourquoi c'est une urgence
 
@@ -135,10 +132,7 @@ Si vous avez déterminé qu'un hérisson a besoin d'aide, voici les **gestes ess
 
 **6. Contactez un centre de soins :** Trouvez le centre le plus proche via notre [liste des centres de soins pour hérissons](/blog/centres-soins-herissons).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo ou illustration montrant le matériel de premiers secours pour un hérisson : carton tapissé d'un tissu, bouillotte enveloppée, gamelle d'eau plate, croquettes pour chat, gants de jardinage</p>
-</div>
+![Matériel de premiers secours pour un hérisson trouvé](/media/materiel-secours-herisson-trouve.webp)
 
 ## Les erreurs fatales à ne JAMAIS commettre
 

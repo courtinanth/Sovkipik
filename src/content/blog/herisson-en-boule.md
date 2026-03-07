@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Le hérisson se roule en boule grâce à ses 5000 piquants. Découvrez le mécanisme musculaire fascinant derrière ce réflexe et quand il ne fonctionne pas."
-image: "/media/generated/herisson-en-boule.png"
+image: "/media/cover-herisson-en-boule.webp"
 tldr:
   - "Le hérisson se met en boule grâce au muscle orbiculaire (ou panniculus), un muscle unique qui entoure tout son corps"
   - "Un hérisson adulte possède environ 5000 à 7000 piquants mesurant 2 à 3 cm"
@@ -63,10 +63,7 @@ Mais comment le hérisson parvient-il à se replier aussi parfaitement sur lui-m
 3. **Contraction du muscle orbiculaire** : ce muscle se contracte comme un cordon de bourse que l'on resserre
 4. **Fermeture complète** : la peau du dos enveloppe entièrement le ventre, la tete et les pattes
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Schéma anatomique simplifié du hérisson montrant le muscle orbiculaire (panniculus) en rouge, vu de profil, avec une flèche montrant la contraction du muscle qui referme le hérisson en boule</p>
-</div>
+![Schéma anatomique du muscle orbiculaire du hérisson montrant la contraction qui le referme en boule](/media/schema-muscle-orbiculaire-herisson.webp)
 
 **Le hérisson peut maintenir cette position pendant des heures sans effort excessif.** Le muscle orbiculaire est conçu pour rester contracté longtemps. En moins d'une seconde, le hérisson passe d'une posture normale à une boule parfaitement fermée. C'est un réflexe inné.
 
@@ -86,10 +83,7 @@ Mais comment le hérisson parvient-il à se replier aussi parfaitement sur lui-m
 
 **Contrairement à une idée reçue, le hérisson ne perd pas ses piquants quand il se met en boule.** Ils sont solidement ancrés dans la peau et ne se détachent que lors du renouvellement naturel, comparable à la chute de nos cheveux.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Gros plan macro sur les piquants d'un hérisson en boule, montrant la structure individuelle de chaque piquant avec les bandes de couleur brun et crème caractéristiques</p>
-</div>
+![Gros plan macro sur les piquants d'un hérisson en boule montrant les bandes de couleur brun et crème](/media/gros-plan-piquants-herisson.webp)
 
 ## Pourquoi les bébés hérissons ne se mettent pas en boule
 

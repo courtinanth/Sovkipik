@@ -5,7 +5,7 @@ excerpt: ""
 category: "Jardin & Cohabitation"
 author: "Anthony COURTIN"
 description: "Le hérisson construit plusieurs types de nids selon la saison. Découvrez à quoi ressemble un nid, où le chercher et comment ne pas le détruire par accident."
-image: "/media/generated/nid-de-herisson.png"
+image: "/media/cover-nid-herisson.webp"
 tldr:
   - "Le hérisson construit 3 types de nids : estival (repos), hibernaculum (hiver) et de mise bas (nurserie)"
   - "Un nid mesure entre 30 et 60 cm de diamètre selon son type"
