@@ -5,7 +5,7 @@ excerpt: ""
 category: "Jardin & Cohabitation"
 author: "Anthony COURTIN"
 description: "Le hérisson s'adapte à la vie urbaine mais y fait face à de nouveaux dangers. Découvrez ses habitudes en ville et comment lui faciliter la vie."
-image: "/media/generated/herisson-en-ville.png"
+image: "/media/cover-herisson-en-ville.webp"
 tldr:
   - "Le hérisson en ville s'est adapté en modifiant son alimentation et ses habitudes"
   - "Les jardins privés sont devenus son principal habitat de substitution"
@@ -52,10 +52,7 @@ quiz:
 
 **Un comportement moins craintif** : les hérissons urbains tolèrent mieux la proximité humaine, les bruits de circulation et l'éclairage nocturne. Certains deviennent de véritables habitués des terrasses et jardins.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo réaliste d'un hérisson traversant un trottoir en ville la nuit, avec en arrière-plan des maisons avec jardins éclairés, ambiance urbaine nocturne douce</p>
-</div>
+![Hérisson traversant un trottoir en ville la nuit, avec en arrière-plan des maisons avec jardins éclairés](/media/herisson-ville-nuit-trottoir.webp)
 
 ---
 
@@ -99,10 +96,7 @@ C'est aussi un **antiparasitaire naturel** : il peut consommer jusqu'à 200 gram
 
 **Le geste le plus important** : un trou de 13x13 cm dans votre clôture peut sauver des dizaines de hérissons en leur permettant de circuler. Pour aller plus loin : [9 gestes pour sauver les hérissons](/blog/sauver-les-herissons) et [construire un abri pour hérisson](/blog/abri-pour-herisson-avec-et-sans-bricolage).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Vue aérienne isométrique d'un jardin refuge urbain pour hérissons avec les éléments annotés : passage dans la clôture, abri en bois, point d'eau, zone sauvage, style infographie éducative</p>
-</div>
+![Vue aérienne isométrique d'un jardin refuge urbain pour hérissons avec passage dans la clôture, abri en bois, point d'eau et zone sauvage](/media/jardin-refuge-herisson-infographie.webp)
 
 ---
 

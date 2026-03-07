@@ -5,7 +5,7 @@ excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "En hiver le hérisson hiberne et ne mange pas. Mais que faire s'il se réveille ? Découvrez quand et comment le nourrir en hiver sans lui nuire."
-image: "/media/generated/herisson-nourriture-hiver.png"
+image: "/media/cover-herisson-nourriture-hiver.webp"
 tldr:
   - "En hiver, le hérisson hiberne et ne mange pas : il vit sur ses réserves de graisse"
   - "Un hérisson qui se réveille la nuit en hiver est souvent normal : il refait ses réserves"
@@ -42,10 +42,7 @@ quiz:
 
 **En hiver, le hérisson hiberne et ne mange normalement pas.** Ses réserves de graisse accumulées en automne suffisent à le maintenir en vie pendant 4 à 6 mois. Mais que faire si un hérisson se réveille en plein hiver ? Faut-il le nourrir ? Et comment savoir si ce réveil est normal ou préoccupant ?
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Hérisson européen se déplaçant dans un jardin enneigé la nuit, avec une gamelle de croquettes et un bol d'eau posés près d'un abri en bois, ambiance hivernale douce</p>
-</div>
+![Hérisson se nourrissant de croquettes lors d'une période difficile en hiver](/media/donner-a-manger-aux-herissons-lors-des-periodes-difficiles.webp)
 
 ## Le hérisson mange-t-il en hiver ?
 
@@ -92,10 +89,7 @@ Pour tout savoir sur ce processus, consultez notre guide sur [l'hibernation du h
 
 Si vous trouvez un hérisson en mauvais état, notre guide [hérisson trouvé : que faire ?](/blog/herisson-trouve-que-faire) vous explique les étapes à suivre.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Hérisson européen à côté d'une gamelle de croquettes et d'un bol d'eau dans un jardin sombre d'hiver, avec de la gelée blanche sur l'herbe, vu de nuit avec un éclairage discret</p>
-</div>
+![Hérisson européen à côté d'une gamelle de croquettes et d'un bol d'eau dans un jardin d'hiver avec de la gelée blanche sur l'herbe](/media/herisson-gamelle-croquettes-hiver.webp)
 
 ## Que donner à manger à un hérisson en hiver ?
 

@@ -5,7 +5,7 @@ excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "Que mange un hérisson ? Guide complet : insectes, croquettes (poulet), fruits. Attention aux aliments interdits (lait, pain) qui sont mortels !"
-image: "/media/generated/que-mange-un-herisson.png"
+image: "/media/herisson-qui-mange.webp"
 tldr:
   - "Les hérissons mangent principalement des insectes, vers, limaces (60-90g/nuit)"
   - "Croquettes pour hérisson ou chat au poulet : acceptables en appoint"

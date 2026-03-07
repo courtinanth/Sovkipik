@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "9 gestes simples pour sauver les hérissons : bannir les pesticides, sécuriser le jardin, conduire prudemment. Agissez pour protéger cette espèce menacée."
-image: "/media/generated/sauver-les-herissons.png"
+image: "/media/photo-dun-herisson-webp.webp"
 tldr:
   - "Les pesticides empoisonnent les hérissons et leurs proies"
   - "Les hérissons parcourent 1 a 2 km par nuit : ils ont besoin de passages entre les jardins"

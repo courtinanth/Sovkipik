@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Annuaire des centres de soins pour hérissons en France (par région), Belgique et Suisse. Qui contacter en urgence pour un hérisson blessé ou malade ?"
-image: "/media/generated/centres-soins-herissons.png"
+image: "/media/appelez-des-specialistes-si-vous-voyez-un-herisson-blesse.webp"
 tldr:
   - "Les centres de soins sont répartis sur toute la France, en Belgique et en Suisse"
   - "Appelez toujours avant de vous déplacer pour confirmer la disponibilité du centre"
@@ -19,6 +19,8 @@ Vous avez [trouvé un hérisson mal en point](/blog/herisson-trouve-que-faire) e
 Nous avons listé pour vous, **le plus de centres de soins qui prennent en charge les hérissons.** Nous avons fait une liste pour les centres situés en France, Suisse et Belgique. Avant de contacter un centre, pensez à [vérifier les signes d'un hérisson malade](/blog/detecter-un-herisson-malade) pour mieux décrire la situation au soignant.
 
 La liste a été créée en réunissant toutes les informations de plusieurs sites différents afin de vous faciliter la tâche, vous nos sauveurs de hérissons !
+
+![Matériel de premiers secours pour prendre en charge un hérisson blessé](/media/materiel-premiers-secours-herisson.webp)
 
 Si vous connaissez d'autres centres non-présents dans cette liste, veuillez nous l'indiquer en commentaire s'il vous plaît dans le but de les rajouter à la liste, merci et bonne lecture !
 
@@ -167,6 +169,8 @@ Si vous souhaitez connaître toutes les différentes espèces de hérisson, alor
   </div>
 
 </div>
+
+![Matériel de secours pour un hérisson trouvé en détresse](/media/materiel-secours-herisson-trouve.webp)
 
 ## Comment aider les hérissons au-delà des soins ?
 

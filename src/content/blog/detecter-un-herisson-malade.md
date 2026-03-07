@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Comment savoir si un hérisson est malade ? Les 10 signes qui ne trompent pas (toux, maigreur, sortie diurne, perte de piquants). Guide pour réagir vite et sauver un hérisson."
-image: "/media/generated/detecter-un-herisson-malade.png"
+image: "/media/photo-herisson-banque-image-1.webp"
 tldr:
   - "Un hérisson actif en journée est presque toujours un hérisson en détresse"
   - "Observez les signes de perte d'appétit, de léthargie et de changements dans les excréments"

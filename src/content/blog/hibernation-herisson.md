@@ -5,7 +5,7 @@ excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "Tout sur l'hibernation du hérisson : dates (octobre-avril), physiologie, perte de poids. Faut-il les nourrir en hiver ? Ne les réveillez jamais !"
-image: "/media/generated/hibernation-herisson.png"
+image: "/media/hibernation-du-herisson.webp"
 tldr:
   - "L'hibernation du hérisson dure d'octobre/novembre à mars/avril selon les températures"
   - "Température corporelle : passe de 35°C à 4-5°C pendant l'hibernation"

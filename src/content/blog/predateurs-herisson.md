@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Qui sont les prédateurs du hérisson ? Blaireau, grand-duc, renard... et l'homme. Découvrez les menaces naturelles et comment protéger les hérissons."
-image: "/media/generated/predateurs-herisson.png"
+image: "/media/les-predateurs-des-herissons.webp"
 tldr:
   - "Seuls le blaireau et le grand-duc peuvent ouvrir un hérisson mis en boule"
   - "Les chats ne menacent que les bébés hérissons, pas les adultes"

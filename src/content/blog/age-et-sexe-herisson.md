@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Comment reconnaître l’âge et le sexe d’un hérisson ? Guide illustré avec photos pour identifier mâles, femelles et bébés (choupissons) facilement."
-image: "/media/generated/age-et-sexe-herisson.png"
+image: "/media/identifier-le-sexe-et-lage-dun-herisson.webp"
 tldr:
   - "Les organes génitaux du mâle se situent au milieu du ventre, ceux de la femelle près de l’anus"
   - "Un hérisson adulte pèse au minimum 400 g et possède des piquants légèrement jaunâtres"

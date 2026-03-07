@@ -5,7 +5,7 @@ excerpt: ""
 category: "Guides Pratiques"
 author: "Anthony COURTIN"
 description: "Le hérisson d'Europe est intégralement protégé en France depuis 2007. Découvrez ce que dit la loi, les actes interdits et les sanctions encourues."
-image: "/media/generated/herisson-protection-loi.png"
+image: "/media/photo-herisson-banque-image-3.webp"
 tldr:
   - "Le hérisson d'Europe est intégralement protégé en France depuis l'arrêté du 23 avril 2007"
   - "Tout acte de capture, détention, transport, mutilation ou commercialisation est interdit"
@@ -59,10 +59,7 @@ Le texte fondateur est l'**arrêté du 23 avril 2007** fixant la liste des mammi
 
 L'arrêté protège l'animal lui-même mais aussi **ses sites de reproduction et ses aires de repos**. Détruire un nid de hérisson, même involontairement, peut constituer une infraction. Pour connaître les menaces concrètes, consultez notre guide sur les [dangers du jardin pour le hérisson](/blog/dangers-jardin-herisson).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Illustration symbolique d'un hérisson protégé par un bouclier juridique ou un symbole de balance de la justice, style pédagogique et bienveillant</p>
-</div>
+![Hérisson européen dans la nature, espèce protégée par la loi](/media/photo-herisson-banque-image-2.webp)
 
 ## Les actes interdits et sanctions
 
@@ -79,10 +76,7 @@ Ces interdictions s'appliquent que le hérisson soit **vivant ou mort**, et quel
 
 Les infractions sont des **délits pénaux**. En pratique, les amendes prononcées vont de quelques centaines à quelques milliers d'euros, mais elles peuvent être bien plus lourdes en cas de trafic organisé. Depuis 2021, les atteintes en bande organisée sont punies de **7 ans de prison et 750 000 euros d'amende**.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie présentant les sanctions encourues pour atteinte au hérisson : icônes amende, prison, confiscation, sur fond clair avec un hérisson au centre</p>
-</div>
+![Hérisson d'Europe, espèce intégralement protégée par la loi française](/media/photo-herisson-banque-image-6.webp)
 
 ## Convention de Berne et protection européenne
 

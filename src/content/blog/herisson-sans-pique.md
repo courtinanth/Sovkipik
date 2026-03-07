@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Un hérisson sans piques ? Découvrez les causes (maladie, stress, parasites, âge) et quand s'inquiéter. Photos de hérissons nus et bébés hérissons sans piquant."
-image: "/media/generated/herisson-sans-pique.png"
+image: "/media/herisson-sans-pique.webp"
 tldr:
   - "La perte de piquants (alopécie) peut être causée par les acariens, la teigne, le stress, des carences alimentaires ou un problème génétique"
   - "Le bébé hérisson naît naturellement sans piquants, ils apparaissent quelques heures après la naissance"

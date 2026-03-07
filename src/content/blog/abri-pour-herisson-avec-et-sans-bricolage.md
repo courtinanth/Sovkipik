@@ -5,7 +5,7 @@ excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "Découvrez comment construire un abri pour hérisson ou en installer un sans bricolage. Plans PDF, astuces et conseils pour accueillir les hérissons dans votre jardin."
-image: "/media/generated/abri-pour-herisson-avec-et-sans-bricolage.png"
+image: "/media/differents-abri-pour-herissons.webp"
 tldr:
   - "Quand installer un abri : idéalement en automne (septembre-novembre), avant l'hibernation"
   - "Dimensions clés : entrée 12-13 cm, intérieur ~40x30x25 cm minimum"

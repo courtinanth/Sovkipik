@@ -66,10 +66,7 @@ La **symbolique du hérisson** est riche et ancienne, remontant à l'Antiquité.
 
 La symbolique converge autour de la **protection** (piquants), la **connexion à la terre** (animal fouisseur) et la **dualité** entre vulnérabilité (ventre mou) et défense (piquants). Cette richesse symbolique s'explique aussi par la présence du hérisson sur tous les continents : il existe de [nombreuses espèces de hérissons à travers le monde](/blog/les-differentes-herissons-a-travers-le-monde), chacune ayant inspiré ses propres mythes locaux.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Illustration onirique et spirituelle d'un hérisson entouré de symboles culturels (spirale celtique, croissant, étoiles, feuilles), palette de couleurs douces bleu nuit et or, ambiance mystique</p>
-</div>
+![Illustration onirique et spirituelle d'un hérisson entouré de symboles culturels celtes, croissant de lune et étoiles](/media/herisson-symboles-onirique.webp)
 
 ---
 
@@ -107,10 +104,7 @@ La symbolique converge autour de la **protection** (piquants), la **connexion à
 
 **D'un point de vue spirituel**, c'est presque universellement positif : **protection du foyer**, **signe de fertilité**, **rappel à se reconnecter avec la nature** et **présage de bonne fortune**. Pour accueillir ces visiteurs, découvrez notre guide sur [les abris pour hérissons](/blog/abri-pour-herisson-avec-et-sans-bricolage).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo atmosphérique d'un hérisson dans un jardin au crépuscule, entouré de fleurs sauvages et de lumière dorée, ambiance paisible et spirituelle</p>
-</div>
+![Hérisson dans un jardin au crépuscule, entouré de fleurs sauvages et de lumière dorée, ambiance paisible et spirituelle](/media/herisson-jardin-crepuscule.webp)
 
 ---
 

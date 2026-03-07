@@ -5,7 +5,7 @@ excerpt: ""
 category: "Jardin & Cohabitation"
 author: "Anthony COURTIN"
 description: "Piscine, robot tondeuse, anti-limaces, filet... Votre jardin cache des dangers mortels. Découvrez les 12 pièges les plus fréquents et les solutions simples."
-image: "/media/generated/dangers-jardin-herisson.png"
+image: "/media/cover-dangers-jardin-herisson.webp"
 tldr:
   - "La piscine sans rampe est l'un des pièges les plus fréquents : le hérisson sait nager mais ne peut pas sortir des parois lisses"
   - "Le robot tondeuse nocturne est un fléau : le hérisson se met en boule au lieu de fuir"
@@ -44,10 +44,7 @@ quiz:
 
 Les dangers sont nombreux, souvent insoupçonnés, et pourtant faciles à éliminer. Rappelons que le hérisson est une [espèce protégée par la loi](/blog/herisson-protection-loi) : nous avons une responsabilité légale et morale de le préserver.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Vue d'ensemble d'un jardin résidentiel avec des zones de danger surlignées en rouge (piscine, robot tondeuse, filets, tas de feuilles, clôture), un hérisson se promenant dans l'herbe, ambiance nocturne</p>
-</div>
+![Vue d'ensemble d'un jardin résidentiel montrant les zones de danger pour les hérissons : piscine, robot tondeuse, filets et clôtures](/media/dangers-jardin-vue-ensemble.webp)
 
 ## Les 12 pièges mortels : récapitulatif
 
@@ -78,10 +75,7 @@ Les dangers sont nombreux, souvent insoupçonnés, et pourtant faciles à élimi
 
 **Solution unique :** programmez le robot **uniquement le jour** (entre 9 h et 18 h). Les hérissons sont nocturnes et dorment le jour. Aucun capteur n'est fiable à 100 % pour détecter un hérisson en boule.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Robot tondeuse automatique dans un jardin de nuit avec un hérisson en boule à quelques centimètres devant la machine, image de sensibilisation montrant le danger imminent, éclairage nocturne</p>
-</div>
+![Robot tondeuse automatique dans un jardin de nuit avec un hérisson en boule devant la machine, montrant le danger imminent](/media/robot-tondeuse-danger-herisson.webp)
 
 ## 3. Les anti-limaces au métaldéhyde
 
@@ -143,10 +137,7 @@ Les herbicides, insecticides et fongicides contaminent la chaîne alimentaire pa
 
 **Solutions :** aménagez un **passage de 13 x 13 cm** dans le bas de chaque clôture, parlez-en à vos voisins pour créer un réseau, et préférez les haies aux clôtures. Consultez nos articles sur [les abris pour hérisson](/blog/abri-pour-herisson-avec-et-sans-bricolage) et [la signification d'un hérisson dans votre jardin](/blog/signification-herisson-jardin).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo d'une clôture de jardin en bois avec un petit passage carré de 13 cm découpé dans le bas, un hérisson passant à travers, vue de côté au niveau du sol, jardin de banlieue</p>
-</div>
+![Passage pour hérisson de 13 cm découpé dans le bas d'une clôture de jardin en bois, un hérisson passant à travers](/media/passage-herisson-cloture.webp)
 
 ## FAQ sur les dangers du jardin pour le hérisson
 

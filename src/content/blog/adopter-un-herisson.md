@@ -5,7 +5,7 @@ excerpt: ""
 category: "Guides Pratiques"
 author: "Anthony COURTIN"
 description: "Puis-je adopter un hérisson en 2026 ? Découvrez pourquoi la détention est illégale, les risques pour l'animal et comment les aider sans les domestiquer."
-image: "/media/generated/adopter-un-herisson.png"
+image: "/media/herisson-curieux.webp"
 tldr:
   - "Le hérisson d'Europe est protégé par la loi : sa détention est interdite et passible d'amendes"
   - "Les hérissons sont des animaux nocturnes et solitaires, inadaptés à la vie domestique"

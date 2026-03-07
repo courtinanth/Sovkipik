@@ -5,7 +5,7 @@ excerpt: ""
 category: "Guides Pratiques"
 author: "Anthony COURTIN"
 description: "Quel est le nom du bébé hérisson ? Le choupisson ! Guide complet : naissance, développement semaine par semaine, poids, alimentation et que faire si vous en trouvez un."
-image: "/media/generated/bebe-herisson-presentation-et-comment-sen-occuper.png"
+image: "/media/bebe-herisson-guide-ultime.webp"
 tldr:
   - "Le bébé hérisson s'appelle le choupisson, terme popularisé en 2018"
   - "Un choupisson pèse 10 à 25g à la naissance et devient autonome vers 5-6 semaines (200-250g)"

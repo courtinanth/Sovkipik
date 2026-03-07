@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Reconnaître une crotte de hérisson : photos, taille et aspect. Ce que les excréments révèlent sur la santé de l'animal et sa présence dans votre jardin."
-image: "/media/generated/crottes-herissons.png"
+image: "/media/les-crottes-de-herisson-le-guide.webp"
 tldr:
   - "Taille : 2 à 5 cm de long, 0,5 à 0,7 cm de diamètre (jusqu'à 7 cm pour les mâles adultes)"
   - "Forme : Cylindrique avec une extrémité pointue et l'autre arrondie"

@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Liste complète des associations et centres de soins pour hérissons en France, Suisse et Belgique. Contacts d'urgence pour sauver un hérisson blessé."
-image: "/media/generated/associations-herissons.png"
+image: "/media/communiquez-les-bons-gestes-au-maximum-de-personne.webp"
 tldr:
   - "Plusieurs associations en France, Suisse et Belgique accueillent les hérissons blessés ou malades"
   - "Les groupes Facebook permettent d'obtenir des conseils rapides en cas d'urgence"
@@ -15,6 +15,8 @@ tldr:
 ---
 
 Des bons contacts, pour des soins rapides ! Si vous avez [trouvé un hérisson en difficulté](/blog/herisson-trouve-que-faire), il est essentiel de contacter rapidement une structure adaptée. Voici notre annuaire complet des associations et groupes d'entraide.
+
+![Hérisson blessé pris en charge par des bénévoles d'une association de protection](/media/appelez-des-specialistes-si-vous-voyez-un-herisson-blesse.webp)
 
 | Pays | Nombre d'associations listées | Spécificité |
 |------|-------------------------------|-------------|
@@ -161,6 +163,8 @@ Des bons contacts, pour des soins rapides ! Si vous avez [trouvé un hérisson e
   </div>
 
 </div>
+
+![Communiquer les bons gestes pour sauver les hérissons auprès du plus grand nombre de personnes](/media/famille-de-herisson.webp)
 
 ## Quand et comment contacter une association ?
 

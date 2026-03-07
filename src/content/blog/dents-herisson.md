@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Tout savoir sur les dents du hérisson : nombre, anatomie et morsures. Le hérisson peut-il mordre ? Est-ce dangereux ? Réponses d'experts."
-image: "/media/generated/dents-herisson.png"
+image: "/media/herisson-qui-montre-son-museau.webp"
 tldr:
   - "Un hérisson adulte possède 36 dents permanentes"
   - "Les bébés hérissons naissent sans dents et développent 24 dents de lait"

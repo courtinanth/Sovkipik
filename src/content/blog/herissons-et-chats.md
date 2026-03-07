@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Chats et hérissons peuvent-ils cohabiter ? Risques, puces, nourriture... Tout savoir sur l'entente entre votre félin et le hérisson au jardin."
-image: "/media/generated/herissons-et-chats.png"
+image: "/media/chat-et-herisson-photo.webp"
 tldr:
   - "Les chats et les hérissons cohabitent généralement bien et s'ignorent mutuellement"
   - "Les puces de hérissons ne se transmettent pas aux chats (elles sont spécifiques à leur hôte)"

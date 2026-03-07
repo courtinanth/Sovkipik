@@ -5,7 +5,7 @@ excerpt: ""
 category: "Guides Pratiques"
 author: "Anthony COURTIN"
 description: "GUIDE : S'occuper d'un hérisson sauvage au jardin. Habitat, nourriture, eau. Apprenez à les protéger sans les domestiquer (c'est interdit !)."
-image: "/media/generated/sauver-les-herissons.png"
+image: "/media/soccuper-dun-herisson-sauvage.webp"
 tldr:
   - "Les hérissons sont une espèce protégée : il est interdit de les domestiquer"
   - "Laissez une partie de votre jardin \"sauvage\" pour les accueillir naturellement"

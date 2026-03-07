@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Votre hérisson a des puces ? Pas de panique ! Elles ne vont sur les chiens/chats. Tout savoir sur les parasites du hérisson et comment réagir."
-image: "/media/generated/puce-herisson.png"
+image: "/media/les-herissons-et-les-puces.webp"
 tldr:
   - "La puce du hérisson (Archaeopsylla erinacei) est spécifique à son espèce"
   - "Les puces de hérisson ne survivent pas sur les chiens, chats ou humains"

@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Découvrez les différentes espèces de hérissons dans le monde : Europe, Afrique, Asie. Photos et description des familles Erinaceidae et Tenrecinae."
-image: "/media/generated/les-differentes-herissons-a-travers-le-monde.png"
+image: "/media/photo-herisson-banque-image-5.webp"
 tldr:
   - "Il existe 2 grandes familles de hérissons : les Erinaceidae et les Tenrecinae"
   - "L'espèce la plus répandue en Europe est l'Erinaceus europaeus (hérisson commun)"

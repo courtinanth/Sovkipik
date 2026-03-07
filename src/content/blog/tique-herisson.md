@@ -5,7 +5,7 @@ excerpt: ""
 category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Comment enlever une tique sur un hérisson ? Tuto vidéo et étapes pour retirer les tiques sans danger. Protégez-les des maladies transmises."
-image: "/media/generated/puce-herisson.png"
+image: "/media/les-tiques-et-les-herissons.webp"
 tldr:
   - "Les tiques s'attaquent principalement aux hérissons déjà affaiblis"
   - "Elles empoisonnent le sang du hérisson et peuvent transmettre des maladies"
