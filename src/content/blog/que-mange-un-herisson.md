@@ -62,10 +62,7 @@ Sommaire :
 
 Un aliment que vous souhaitez leur donner ne se trouve pas sur la liste et vous ne savez pas s'il est mauvais pour leur santé ? Envoyez un message à [Alliance Hérisson](https://www.facebook.com/profile.php?id=100064320027110) (groupe Facebook), ils vous apporteront un accompagnement adapté à chaque hérisson.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie visuelle montrant les aliments autorisés (vert) et interdits (rouge) pour les hérissons avec icônes pour chaque aliment</p>
-</div>
+![Infographie des aliments autorisés et interdits pour les hérissons](/media/Le-tableau-alimentaire-des-herissons-1.webp)
 
 ## Quels fruits peut manger un hérisson ?
 

@@ -120,10 +120,7 @@ Les bébés hérissons sont également vulnérables **aux parasites**, **aux mal
 
 Il est donc crucial de veiller à leur sécurité et à leur bien-être. Si vous suspectez qu'un hérisson est en mauvaise santé, consultez notre guide pour [détecter un hérisson malade](/blog/detecter-un-herisson-malade).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie des principaux dangers pour les bébés hérissons : prédateurs (renard, rapaces), températures, parasites, routes, pesticides</p>
-</div>
+![Infographie des principaux dangers pour les bébés hérissons](/media/dangers-bebes-herissons-infographie.webp)
 
 ## J'ai trouvé un bébé hérisson, que faire ?
 

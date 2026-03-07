@@ -5,7 +5,7 @@ excerpt: ""
 category: "Jardin & Cohabitation"
 author: "Anthony COURTIN"
 description: "Votre chien a trouvé un hérisson ? Découvrez les risques pour les deux animaux, comment réagir et les réflexes pour une cohabitation sans danger."
-image: "/media/generated/herisson-et-chien.png"
+image: "/media/cover-herisson-et-chien.webp"
 tldr:
   - "Les piquants du hérisson peuvent blesser la gueule et les pattes du chien"
   - "Les hérissons peuvent transmettre des tiques et des parasites aux chiens"
@@ -69,10 +69,7 @@ Contrairement a la [cohabitation herisson-chat](/blog/herissons-et-chats) qui se
 
 **Le risque le plus sous-estime** est la leptospirose, une maladie bacterienne que le herisson peut transmettre via son urine. Si votre chien n'est pas vaccine contre la leptospirose, parlez-en a votre veterinaire.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Un chien curieux qui renifle un herisson en boule dans un jardin, de nuit, atmosphere douce et realiste</p>
-</div>
+![Chien reniflant un hérisson en boule dans un jardin de nuit](/media/chien-renifle-herisson-boule-nuit.webp)
 
 ## Les risques pour le herisson
 
@@ -96,10 +93,7 @@ Si votre chien represente un danger pour lui-meme en approchant un herisson, **l
 
 **Etape 5 : Examiner votre chien.** Verifiez la gueule, le museau et les pattes de votre chien pour detecter des piquants plantes, des saignements ou des gonflements.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie etape par etape montrant les bons reflexes quand un chien attaque un herisson : eloigner le chien, examiner le herisson, appeler un centre de soins</p>
-</div>
+![Infographie des bons réflexes quand un chien attaque un hérisson](/media/reflexes-chien-attaque-herisson.webp)
 
 ## Mon chien a ete pique par un herisson : que faire ?
 
@@ -130,10 +124,7 @@ Un jardin bien amenage permet au chien et au herisson de coexister sans jamais s
 *   **[Abris pour herisson](/blog/abri-pour-herisson-avec-et-sans-bricolage)** : avec une entree trop petite pour le chien
 *   **Gamelles protegees** : si vous [nourrissez les herissons](/blog/que-mange-un-herisson), placez la nourriture sous une caisse retournee avec une entree de 13 cm
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Un jardin amenage avec un passage a herisson dans une cloture, un abri pour herisson en bois, et une gamelle protegee sous une caisse, ambiance naturelle</p>
-</div>
+![Jardin aménagé avec passage à hérisson et abri en bois](/media/jardin-amenage-passage-herisson.webp)
 
 ## FAQ - Questions frequentes sur le herisson et le chien
 

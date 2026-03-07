@@ -60,10 +60,7 @@ Pour en savoir plus sur son alimentation complète, consultez notre guide "[que 
 
 Un hérisson adulte peut parcourir **jusqu'à 2 km par nuit** et consommer entre 70 et 100 grammes d'insectes, soit un tiers de son poids corporel. Le fouissage est un **comportement alimentaire naturel et bénéfique** : le hérisson est un véritable antiparasitaire naturel, bien plus efficace que n'importe quel produit chimique.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Hérisson en train de fouiller la terre d'un jardin avec son museau, vue rapprochée de nuit, photo naturaliste</p>
-</div>
+![Hérisson fouillant la terre d'un jardin avec son museau de nuit](/media/herisson-fouille-terre-jardin-nuit.webp)
 
 ## À quoi ressemble un trou de hérisson ?
 

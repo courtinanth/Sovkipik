@@ -5,7 +5,7 @@ excerpt: ""
 category: "Guides Pratiques"
 author: "Anthony COURTIN"
 description: "Avoir un hérisson chez soi en France est interdit par la loi. Découvrez la réglementation, pourquoi c'est mauvais pour l'animal et comment l'accueillir légalement dans votre jardin."
-image: "/media/generated/herisson-domestique.png"
+image: "/media/cover-herisson-domestique.webp"
 tldr:
   - "Le herisson d'Europe est une espece protegee : le detenir est illegal depuis 1981 (renforce en 2007)"
   - "Les sanctions vont de 150 euros a 300 000 euros d'amende et jusqu'a 3 ans d'emprisonnement"
@@ -65,10 +65,7 @@ La seule exception concerne les **centres de soins agrees** pour la faune sauvag
 
 Pour en savoir plus sur le cadre legal, consultez notre article sur [la protection des herissons et la loi](/blog/adopter-un-herisson) ainsi que notre guide detaille sur [la reglementation qui protege le herisson](/blog/herisson-protection-loi).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Un herisson d'Europe dans son habitat naturel, avec un pictogramme de bouclier de protection juridique en surimpression, style informatif et serieux</p>
-</div>
+![Hérisson d'Europe protégé par la loi, espèce sentinelle](/media/herisson-espece-sentinelle.webp)
 
 ## Herisson domestique : les sanctions encourues
 
@@ -93,10 +90,7 @@ Pour en savoir plus sur le cadre legal, consultez notre article sur [la protecti
 
 **Le herisson pygmee n'est pas non plus un animal de compagnie classique.** Sa detention en France necessite un **certificat de capacite** delivre par la prefecture. Sans ce document, la detention est egalement illegale. De plus, venant d'un climat tropical, **il ne peut pas survivre en exterieur en France** et necessite un chauffage constant (24-27 C), source de stress chronique. Le [herisson d'Europe](/blog/herisson-europe) et le herisson pygmee ne sont que deux parmi les [nombreuses especes de herissons dans le monde](/blog/les-differentes-herissons-a-travers-le-monde).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Comparaison cote a cote d'un herisson d'Europe (plus gros, piquants bruns) et d'un herisson pygmee d'Afrique (plus petit, ventre blanc), style naturaliste et pedagogique</p>
-</div>
+![Comparaison hérisson d'Europe et hérisson pygmée d'Afrique](/media/comparaison-herisson-europe-pygmee.webp)
 
 ## Pourquoi le herisson ne peut PAS etre un animal de compagnie
 
@@ -130,10 +124,7 @@ Les videos de herissons "mignons" sur les reseaux sociaux creent une image compl
 
 **Securiser les dangers.** Rampe de sortie pour la piscine, pas de robot tondeuse la nuit, verifier les filets le soir, et toujours inspecter un tas de bois avant de le bruler.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Un jardin refuge ideal pour herisson avec un abri en bois, un passage dans la cloture, une gamelle protegee, un tas de feuilles et un point d'eau, ambiance chaleureuse et accueillante</p>
-</div>
+![Jardin refuge idéal pour hérisson avec abri et point d'eau](/media/jardin-refuge-ideal-herisson.webp)
 
 ## FAQ - Questions frequentes sur le herisson domestique
 

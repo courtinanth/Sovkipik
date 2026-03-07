@@ -5,7 +5,7 @@ excerpt: ""
 category: "Culture & Nature"
 author: "Anthony COURTIN"
 description: "Rêver d'un hérisson symbolise la protection et l'intuition. Découvrez les interprétations selon le contexte et la symbolique dans différentes cultures."
-image: "/media/generated/rever-herisson-signification.png"
+image: "/media/cover-rever-herisson.webp"
 tldr:
   - "Rêver de hérisson symbolise généralement la protection, la prudence et l'intuition"
   - "Un hérisson en boule dans un rêve évoque un besoin de se protéger émotionnellement"

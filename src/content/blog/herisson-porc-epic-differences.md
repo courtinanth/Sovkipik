@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Hérisson et porc-épic sont souvent confondus. Découvrez les 8 différences majeures : taille, piquants, alimentation, habitat et comportement."
-image: "/media/generated/herisson-porc-epic-differences.png"
+image: "/media/cover-herisson-porc-epic.webp"
 tldr:
   - "Le hérisson pèse 450 à 700 g, le porc-épic peut atteindre 30 kg : ils n'ont rien à voir en taille"
   - "Leurs piquants sont différents : courts et non détachables chez le hérisson, longs et détachables chez le porc-épic"
@@ -68,10 +68,7 @@ quiz:
 | **[Longévité](/blog/duree-de-vie-herisson)** | 2 à 3 ans (moy.), 10 ans (max) | 12 à 15 ans (moy.), 20 ans (max) |
 | **Statut en France** | Espèce protégée (arrêté 2007) | Absent du territoire (sauf zoos) |
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Comparaison visuelle côte à côte : un hérisson d'Europe (petit, compact, piquants courts) et un porc-épic (grand, piquants longs et noirs et blancs), fond neutre, échelle de taille visible</p>
-</div>
+![Comparaison de taille entre hérisson d'Europe et porc-épic](/media/comparaison-herisson-porc-epic-taille.webp)
 
 ## Taille et poids : un fossé impressionnant
 
@@ -85,10 +82,7 @@ Les piquants du porc-épic (jusqu'à 30 000) mesurent 5 à 40 cm, sont rigides e
 
 **Point clé** : contrairement à une croyance populaire, **ni le hérisson ni le porc-épic ne lancent leurs piquants comme des fléchettes**. Il arrive meme que certains herissons naissent [sans piquants](/blog/herisson-sans-pique), une anomalie genetique rare. D'autres presentent un pelage entierement blanc : ce sont les [herissons albinos](/blog/herisson-albinos).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Comparaison macro de piquants : à gauche, piquants courts du hérisson (2-3 cm, bandes brunes et crème) ; à droite, piquants longs du porc-épic (20-30 cm, noirs et blancs), fond neutre</p>
-</div>
+![Comparaison macro des piquants : hérisson vs porc-épic](/media/comparaison-piquants-herisson-porc-epic.webp)
 
 ## Alimentation : insectivore vs herbivore
 

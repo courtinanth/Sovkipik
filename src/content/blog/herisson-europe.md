@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Tout savoir sur le hérisson d'Europe : anatomie, mode de vie, habitat, statut de conservation. Espèce désormais quasi menacée selon l'UICN."
-image: "/media/generated/herisson-europe.png"
+image: "/media/cover-herisson-europe.webp"
 tldr:
   - "Le hérisson d'Europe possède environ 5 000 piquants de kératine, renouvelés tous les 12 à 18 mois"
   - "Animal nocturne et solitaire, il parcourt 1 à 2 km par nuit pour se nourrir"
@@ -65,10 +65,7 @@ Le **hérisson d'Europe** (*Erinaceus europaeus*) est l'un des mammifères sauva
 | **Statut UICN** | Quasi menacé (NT) depuis 2024 |
 | **Protection légale** | Intégralement protégé en France (arrêté du 23 avril 2007) |
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Portrait photographique d'un hérisson d'Europe (Erinaceus europaeus) vu de face dans un jardin, éclairage naturel doux, fond végétal flou, mise au point sur le visage et les piquants</p>
-</div>
+![Portrait de hérisson d'Europe vu de face dans un jardin](/media/portrait-herisson-europe-face.webp)
 
 ## Anatomie et piquants
 
@@ -88,10 +85,7 @@ Le **hérisson commun** est présent dans toute l'**Europe occidentale et centra
 
 **Fait remarquable** : le hérisson parcourt en moyenne **1 à 2 kilomètres par nuit** à la recherche de nourriture. C'est pourquoi il est essentiel de laisser des passages entre les jardins. Découvrez comment [sauver les hérissons](/blog/sauver-les-herissons) en adoptant les bons gestes.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Hérisson d'Europe en déplacement nocturne dans un jardin, éclairage faible ambiance crépusculaire, hérisson marchant sur de l'herbe près d'une haie</p>
-</div>
+![Hérisson d'Europe en déplacement nocturne dans un jardin](/media/herisson-europe-deplacement-nocturne.webp)
 
 ## Mode de vie et comportement
 
@@ -118,10 +112,7 @@ En **2024**, l'UICN a reclassé le hérisson d'Europe du statut **"Préoccupatio
 
 Le hérisson est **intégralement protégé en France** depuis l'arrêté du 23 avril 2007. Pour connaître le cadre légal, consultez notre article sur [la protection du hérisson par la loi](/blog/herisson-protection-loi). Découvrez aussi nos guides sur les [tiques du hérisson](/blog/tique-herisson), les [puces du hérisson](/blog/puce-herisson) et comment [détecter un hérisson malade](/blog/detecter-un-herisson-malade).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE A AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie ou illustration montrant un hérisson d'Europe dans un environnement menacé : route, jardin clôturé, pesticides, avec des icônes de danger, style pédagogique</p>
-</div>
+![Hérisson dans un environnement menacé avec icônes de danger](/media/herisson-environnement-menace.webp)
 
 ## Pour aller plus loin
 

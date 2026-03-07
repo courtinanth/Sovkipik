@@ -5,7 +5,7 @@ excerpt: ""
 category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Le hérisson albinos ou blanc est rare mais réel. Découvrez les différentes colorations, les causes génétiques et l'impact sur leur survie en milieu sauvage."
-image: "/media/generated/herisson-albinos.png"
+image: "/media/cover-herisson-albinos.webp"
 tldr:
   - "Le hérisson albinos existe bel et bien, mais il est extrêmement rare (1 naissance sur 10 000 à 100 000)"
   - "L'albinisme est une anomalie génétique qui empêche la production de mélanine"
@@ -59,10 +59,7 @@ Un **hérisson albinos** est né avec une mutation génétique empêchant la pro
 
 L'albinisme est un trait **autosomique récessif** : les deux parents doivent porter le gène mutant pour qu'un choupisson naisse albinos. La fréquence est estimée à environ **1 individu sur 10 000 à 100 000** naissances.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo réaliste d'un hérisson albinos aux piquants blancs et yeux rouges, posé sur de la mousse verte dans un jardin, lumière douce naturelle, vue rapprochée de face</p>
-</div>
+![Hérisson albinos aux piquants blancs et yeux rouges](/media/herisson-albinos-yeux-rouges.webp)
 
 ---
 
@@ -94,10 +91,7 @@ L'**albinisme** est une absence totale de mélanine dans toutes les cellules. Le
 | **Albinos** | <0,001-0,01% | Piquants blancs, yeux rouges, peau rose | Absence totale de mélanine |
 | **Mélanistique** | ~1-2% | Piquants très sombres, presque noirs | Excès de mélanine |
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Planche comparative illustrant 5 colorations de hérissons côte à côte : brun-gris normal, blond doré, chocolat, leucistique blanc aux yeux noirs, et albinos blanc aux yeux rouges. Style naturaliste scientifique</p>
-</div>
+![Planche comparative des 5 colorations de hérissons](/media/5-colorations-herissons-comparaison.webp)
 
 **Bon à savoir :** Chaque piquant normal est **bicolore**, avec une base crème et une bande brune, terminé par une pointe crème. Chez les variantes de couleur, cette structure peut être modifiée ou absente. Ces variations de coloration touchent principalement le hérisson d'Europe, mais il existe [différentes espèces de hérissons à travers le monde](/blog/les-differentes-herissons-a-travers-le-monde), chacune avec ses propres particularités de pigmentation. Attention également à ne pas confondre le hérisson avec le porc-épic : malgré leurs piquants communs, ce sont des animaux très [différents](/blog/herisson-porc-epic-differences).
 

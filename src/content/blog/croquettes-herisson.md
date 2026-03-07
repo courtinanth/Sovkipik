@@ -5,7 +5,7 @@ excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "Donner des croquettes pour chat aux hérissons divise les experts. Découvrez lesquelles conviennent, lesquelles éviter et les alternatives plus adaptées."
-image: "/media/generated/croquettes-herisson.png"
+image: "/media/cover-croquettes-herisson.webp"
 tldr:
   - "Les croquettes pour chat au poulet sont acceptables en appoint uniquement, pas comme nourriture principale"
   - "Privilégiez des croquettes avec minimum 30 % de protéines et maximum 15 % de matières grasses"
@@ -57,10 +57,7 @@ Les croquettes sont utiles **avant l'hibernation** (septembre-octobre), **apres 
 
 **Un herisson nourri exclusivement aux croquettes finira par avoir des problemes de sante.** Les risques d'un nourrissage excessif incluent l'obesite, les problemes renaux et la dependance alimentaire. Si vous remarquez un comportement anormal, apprenez a [detecter un herisson malade](/blog/detecter-un-herisson-malade).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Un herisson qui mange des croquettes dans une petite coupelle dans un jardin, ambiance nocturne douce et naturelle</p>
-</div>
+![Hérisson mangeant des croquettes dans un jardin de nuit](/media/herisson-mange-croquettes-jardin-nuit.webp)
 
 ## Quelles croquettes choisir ? Le tableau comparatif
 
@@ -105,10 +102,7 @@ Les croquettes ne sont qu'une partie de l'alimentation possible. Voici **les opt
 
 Pour plus de details, consultez notre guide complet sur [que mange un herisson](/blog/que-mange-un-herisson).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Comparaison visuelle entre une gamelle de croquettes et un jardin naturel avec des insectes, style infographique, tons chauds et verts</p>
-</div>
+![Comparaison gamelle de croquettes vs jardin naturel avec insectes](/media/comparaison-croquettes-vs-jardin-naturel.webp)
 
 ## Comment nourrir un herisson : le guide pratique
 
@@ -141,10 +135,7 @@ Placez la nourriture **a l'abri des autres animaux** en utilisant une caisse ret
 
 **Regle simple : en cas de doute, ne donnez pas.** Rappelons aussi qu'il est interdit de garder un [herisson comme animal domestique](/blog/herisson-domestique) en France. Et si vous ne savez pas si un aliment est adapte, demandez conseil sur le groupe Facebook [Alliance Herisson](https://www.facebook.com/profile.php?id=100064320027110).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie avec les aliments interdits pour les herissons : pain, lait, chocolat, oignon, avec des croix rouges, style pedagogique</p>
-</div>
+![Infographie des aliments interdits pour les hérissons](/media/aliments-interdits-herisson.webp)
 
 ## FAQ - Questions frequentes sur les croquettes et l'alimentation du herisson
 
