@@ -21,14 +21,20 @@ quiz:
       - text: "Environ 500"
         correct: false
         explanation: "Un hérisson adulte possède bien plus que 500 piquants : environ 5 000, parfois jusqu'à 7 000."
+      - text: "Environ 15 000"
+        correct: false
+        explanation: "15 000 piquants, c'est bien trop. Un hérisson adulte en possède environ 5 000, parfois jusqu'à 7 000 chez les plus grands spécimens. C'est le porc-épic qui peut en avoir davantage, avec jusqu'à 30 000 piquants."
   - question: "Quelle est la fréquence cardiaque d'un hérisson en hibernation ?"
     answers:
       - text: "50 battements par minute"
         correct: false
-        explanation: "Pendant l'hibernation, le coeur du hérisson ne bat plus qu'à 5 battements par minute, contre 150 à 280 bpm en activité."
+        explanation: "Pendant l'hibernation, le coeur du hérisson ne bat plus qu'à 5 battements par minute, contre 150 à 280 bpm en activité. 50 bpm serait encore bien trop élevé pour un état d'hibernation."
       - text: "5 battements par minute"
         correct: true
         explanation: "Pendant l'hibernation, le coeur du hérisson ne bat plus qu'à 5 battements par minute, contre 150 à 280 bpm en activité. Sa température corporelle chute de 35°C à 4-5°C."
+      - text: "150 battements par minute"
+        correct: false
+        explanation: "150 battements par minute correspond à la fréquence cardiaque du hérisson en activité normale, pas en hibernation. Pendant l'hibernation, son rythme cardiaque descend drastiquement à seulement 5 battements par minute."
   - question: "Les piquants du hérisson peuvent-ils se lancer comme des fléchettes ?"
     answers:
       - text: "Oui"
@@ -37,6 +43,9 @@ quiz:
       - text: "Non"
         correct: true
         explanation: "Les piquants du hérisson sont fermement ancrés dans la peau et ne se lancent pas. Ils tombent naturellement et se renouvellent, comme des cheveux."
+      - text: "Oui, mais seulement quand il est en danger"
+        correct: false
+        explanation: "C'est une idée reçue tenace, mais les piquants du hérisson ne peuvent jamais être projetés, même en cas de danger. Ils sont solidement implantés dans la peau. C'est le porc-épic qui peut perdre facilement ses piquants au contact, mais même lui ne les lance pas."
 ---
 
 Le **hérisson d'Europe** (*Erinaceus europaeus*) est l'un des mammifères sauvages les plus attachants de notre faune. Reconnaissable grâce à ses **5 000 piquants**, ce petit animal nocturne peuple nos jardins et nos sous-bois depuis des millions d'années. En 2024, l'UICN a reclassé l'espèce au statut **"quasi menacé"** (NT), un signal d'alarme majeur.

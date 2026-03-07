@@ -22,6 +22,9 @@ quiz:
       - text: "Porc-épic"
         correct: false
         explanation: "Le porc-épic n'existe pas à l'état sauvage en France métropolitaine. C'est forcément un hérisson."
+      - text: "Impossible à dire sans voir la taille de l'animal"
+        correct: false
+        explanation: "En France métropolitaine, la question ne se pose pas : le porc-épic est totalement absent à l'état sauvage. Tout animal à piquants dans un jardin français est un hérisson, quelle que soit sa taille."
   - question: "Un animal à piquants se met en boule parfaite quand vous l'approchez. Hérisson ou porc-épic ?"
     answers:
       - text: "Hérisson"
@@ -30,6 +33,9 @@ quiz:
       - text: "Porc-épic"
         correct: false
         explanation: "Le porc-épic ne se met pas en boule. Il hérisse ses piquants et charge en arrière. Seul le hérisson se met en boule."
+      - text: "Les deux peuvent se mettre en boule"
+        correct: false
+        explanation: "Seul le hérisson possède le muscle orbiculaire qui lui permet de se contracter en boule parfaite. Le porc-épic est beaucoup trop grand pour cela et se défend en hérissant ses piquants et en chargeant en arrière."
   - question: "Un animal à piquants de 15 kg ronge l'écorce d'un arbre. Hérisson ou porc-épic ?"
     answers:
       - text: "Hérisson"
@@ -38,6 +44,9 @@ quiz:
       - text: "Porc-épic"
         correct: true
         explanation: "C'est un porc-épic. Le hérisson ne pèse que 450 à 700 g et ne mange pas d'écorce."
+      - text: "Aucun des deux, les animaux à piquants ne mangent pas d'écorce"
+        correct: false
+        explanation: "Le porc-épic est un herbivore qui se nourrit effectivement d'écorce, de racines, de tubercules et de fruits. Avec un poids pouvant atteindre 30 kg, un animal à piquants de 15 kg est clairement un porc-épic."
 ---
 
 **Hérisson et porc-épic** : deux animaux à piquants, souvent confondus, et pourtant radicalement différents. L'un tient dans la paume de la main, l'autre peut peser autant qu'un gros chien. L'un est un insectivore nocturne de nos jardins, l'autre est un herbivore des forêts tropicales ou des déserts.

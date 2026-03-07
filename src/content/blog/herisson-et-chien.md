@@ -19,16 +19,34 @@ quiz:
       - text: "Non, c'est très peu probable"
         correct: true
         explanation: "Les puces du hérisson (Archaeopsylla erinacei) sont spécifiques à cette espèce. Elles ne survivent pas sur les chiens car la température corporelle est différente."
+      - text: "Oui, les puces du hérisson infestent facilement les chiens"
+        correct: false
+        explanation: "Les puces du hérisson (Archaeopsylla erinacei) sont spécifiques à cette espèce et ne survivent pas sur les chiens. La température corporelle du chien ne leur convient pas, elles meurent rapidement si elles changent d'hôte."
+      - text: "Oui, mais uniquement en été quand il fait chaud"
+        correct: false
+        explanation: "La saison n'y change rien. Les puces du hérisson sont biologiquement adaptées à leur hôte spécifique. Quelle que soit la température extérieure, elles ne peuvent pas survivre sur un chien dont la température corporelle est différente de celle du hérisson."
   - question: "Les piquants de hérisson sont-ils venimeux ?"
     answers:
       - text: "Non, les piquants de hérisson ne contiennent aucun venin"
         correct: true
         explanation: "Ce sont des poils modifiés, composés de kératine (comme nos ongles). Le danger vient uniquement de la piqûre mécanique et du risque d'infection bactérienne qui peut suivre."
+      - text: "Oui, ils contiennent une toxine légère qui provoque des gonflements"
+        correct: false
+        explanation: "Les piquants du hérisson ne contiennent aucune toxine ni venin. Ce sont simplement des poils modifiés en kératine, la même protéine que nos ongles. Si un gonflement apparaît après une piqûre, c'est dû à une infection bactérienne, pas à un venin."
+      - text: "Oui, comme les piquants du porc-épic"
+        correct: false
+        explanation: "Ni les piquants du hérisson ni ceux du porc-épic ne sont venimeux. Les piquants du hérisson sont des poils modifiés composés de kératine, totalement dépourvus de substance toxique. Le seul risque est la blessure mécanique et une éventuelle infection."
   - question: "Dois-je empêcher mon chien d'aller dans le jardin la nuit ?"
     answers:
       - text: "Pas nécessairement, mais accompagnez-le"
         correct: true
         explanation: "Les hérissons sont actifs entre 22h et 4h. Pendant cette période, sortez votre chien en laisse ou surveillez-le de près. Un chien bien éduqué au rappel peut cohabiter sans problème, même la nuit."
+      - text: "Oui, il faut absolument lui interdire le jardin entre 20h et 6h"
+        correct: false
+        explanation: "Il n'est pas nécessaire d'interdire complètement le jardin la nuit. Il suffit d'accompagner votre chien et de le surveiller, ou de le sortir en laisse pendant les heures d'activité des hérissons (22h-4h). Un chien éduqué au rappel peut cohabiter sans problème."
+      - text: "Non, aucune précaution n'est nécessaire car les hérissons fuient les chiens"
+        correct: false
+        explanation: "Les hérissons ne fuient pas les chiens : ils se mettent en boule, ce qui attise la curiosité du chien. Des précautions sont donc nécessaires la nuit, quand les hérissons sont actifs (22h-4h). Accompagnez votre chien ou sortez-le en laisse pendant cette période."
 ---
 
 

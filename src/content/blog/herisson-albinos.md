@@ -22,6 +22,9 @@ quiz:
       - text: "Faux"
         correct: true
         explanation: "Un hérisson blanc peut être leucistique (yeux foncés) ou albinos (yeux rouges). La couleur des yeux est le meilleur indicateur."
+      - text: "Vrai, les yeux rouges sont causés par la couleur blanche des piquants"
+        correct: false
+        explanation: "La couleur des piquants et celle des yeux sont deux choses distinctes. Les yeux rouges sont causés par l'absence de mélanine dans l'iris, pas par la couleur des piquants. Un hérisson blanc leucistique a des yeux foncés tout à fait normaux malgré ses piquants blancs."
   - question: "L'albinisme réduit l'espérance de vie du hérisson. Vrai ou faux ?"
     answers:
       - text: "Vrai"
@@ -30,6 +33,9 @@ quiz:
       - text: "Faux"
         correct: false
         explanation: "L'albinisme réduit l'espérance de vie de 30 à 50% en milieu sauvage, en raison de la visibilité accrue, des problèmes de vision et de la fragilité cutanée."
+      - text: "Seulement en captivité, pas dans la nature"
+        correct: false
+        explanation: "C'est exactement l'inverse. En captivité ou en centre de soins, un hérisson albinos peut vivre aussi longtemps qu'un hérisson normal. C'est dans la nature que l'albinisme est un handicap grave : visibilité accrue face aux prédateurs, problèmes de vision et fragilité cutanée réduisent l'espérance de vie de 30 à 50%."
   - question: "Les hérissons blonds sont plus rares que les hérissons albinos. Vrai ou faux ?"
     answers:
       - text: "Vrai"
@@ -38,6 +44,9 @@ quiz:
       - text: "Faux"
         correct: true
         explanation: "Les hérissons blonds sont estimés à environ 1 sur 100 à 200, tandis que les albinos sont estimés à 1 sur 10 000 à 100 000."
+      - text: "Ils sont aussi rares l'un que l'autre"
+        correct: false
+        explanation: "Les hérissons blonds et albinos n'ont pas du tout la même rareté. Les blonds sont relativement fréquents (environ 1 sur 100 à 200), tandis que les albinos sont extrêmement rares (1 sur 10 000 à 100 000). Les blonds sont donc 50 à 1 000 fois plus courants que les albinos."
 ---
 
 **Le hérisson albinos fascine autant qu'il intrigue.** Avec ses piquants blancs immaculés et ses yeux rouges, ce spécimen rare du hérisson d'Europe (*Erinaceus europaeus*) est un véritable phénomène génétique. Mais le **hérisson blanc** que l'on aperçoit parfois dans les jardins est-il vraiment albinos ? Et quelles conséquences cette particularité a-t-elle sur sa survie ?

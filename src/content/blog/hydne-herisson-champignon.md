@@ -19,16 +19,34 @@ quiz:
       - text: "Hericium erinaceus"
         correct: true
         explanation: "Les deux mots signifient \"hérisson\" en latin, ce qui donne littéralement \"hérisson hérisson\"."
+      - text: "Agaricus erinaceus"
+        correct: false
+        explanation: "Agaricus est le genre des champignons de Paris et des agarics, pas celui de l'hydne hérisson. Le bon genre est Hericium, qui signifie justement \"hérisson\" en latin."
+      - text: "Hericium coralloides"
+        correct: false
+        explanation: "Hericium coralloides est une autre espèce du même genre, appelée hydne corail. L'hydne hérisson porte le nom Hericium erinaceus, où les deux mots signifient \"hérisson\"."
   - question: "Sur quels arbres pousse l'hydne hérisson en France ?"
     answers:
       - text: "Principalement sur les feuillus morts ou affaiblis : chêne, hêtre, noyer, orme et érable"
         correct: true
         explanation: "Le chêne et le hêtre sont les hôtes les plus fréquents."
+      - text: "Principalement sur les conifères : pin, sapin et épicéa"
+        correct: false
+        explanation: "L'hydne hérisson ne pousse pas sur les conifères. C'est un champignon strictement lié aux feuillus, en particulier le chêne et le hêtre, dont il décompose le bois mort."
+      - text: "Sur tous les types d'arbres sans distinction, y compris les arbres fruitiers"
+        correct: false
+        explanation: "L'hydne hérisson est sélectif dans le choix de ses hôtes. Il pousse uniquement sur certains feuillus morts ou affaiblis (chêne, hêtre, noyer, orme, érable) et ne se développe pas sur n'importe quel arbre."
   - question: "Peut-on confondre l'hydne hérisson avec un champignon toxique ?"
     answers:
       - text: "Le risque est très faible"
         correct: true
         explanation: "Toutes les espèces du genre Hericium sont comestibles. Le seul champignon à aiguillons pouvant prêter à confusion est le Climacodon septentrionalis, visuellement très différent et simplement amer, pas toxique."
+      - text: "Oui, il ressemble beaucoup à plusieurs amanites mortelles"
+        correct: false
+        explanation: "L'hydne hérisson ne ressemble en rien aux amanites. Il n'a ni chapeau ni pied classique, mais une masse d'aiguillons pendants unique. Les amanites ont une forme traditionnelle de champignon avec chapeau et lamelles."
+      - text: "Oui, il est souvent confondu avec des espèces très toxiques du même genre"
+        correct: false
+        explanation: "Toutes les espèces du genre Hericium sont comestibles. Il n'existe aucune espèce toxique dans ce genre. Sa forme très particulière avec des aiguillons pendants le rend difficile à confondre avec des champignons dangereux."
 ---
 
 **L'hydne hérisson est un champignon fascinant qui tire son nom de sa ressemblance frappante avec notre petit mammifère à piquants.** Aussi connu sous le nom scientifique *Hericium erinaceus*, ce champignon comestible est aujourd'hui au coeur d'un engouement mondial pour ses propriétés nutritionnelles et médicinales. Au-delà de la mycologie, l'hydne hérisson évolue dans les memes forets et écosystèmes que le hérisson d'Europe.

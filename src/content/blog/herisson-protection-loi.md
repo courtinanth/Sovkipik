@@ -22,6 +22,9 @@ quiz:
       - text: "Depuis 1981"
         correct: false
         explanation: "Une première protection partielle existait depuis 1981, mais la protection intégrale date de l'arrêté du 23 avril 2007."
+      - text: "Depuis 1979"
+        correct: false
+        explanation: "1979 est l'année de la Convention de Berne, un traité européen de protection de la faune. Mais la protection intégrale du hérisson en France date de l'arrêté du 23 avril 2007."
   - question: "Quelle est l'amende maximale en cas de capture illégale ?"
     answers:
       - text: "15 000 euros"
@@ -30,6 +33,9 @@ quiz:
       - text: "150 000 euros"
         correct: true
         explanation: "150 000 euros, assortie de 3 ans de prison. En bande organisée : 750 000 euros et 7 ans de prison."
+      - text: "750 000 euros"
+        correct: false
+        explanation: "750 000 euros est l'amende maximale en cas de trafic en bande organisée, pas pour une capture individuelle. L'amende maximale standard est de 150 000 euros."
   - question: "Peut-on déplacer un hérisson qui traverse une route ?"
     answers:
       - text: "Oui, c'est un geste de sauvetage"
@@ -38,6 +44,9 @@ quiz:
       - text: "Non, c'est interdit par la loi"
         correct: false
         explanation: "Dans ce cas précis, c'est un geste de sauvetage, pas une perturbation intentionnelle. Posez-le dans le sens où il se dirigeait, côté végétation."
+      - text: "Oui, mais uniquement si vous avez une autorisation préfectorale"
+        correct: false
+        explanation: "Aucune autorisation n'est nécessaire pour un geste de sauvetage immédiat. Mettre un hérisson en sécurité sur une route est considéré comme un acte d'urgence, pas comme une capture ou une perturbation intentionnelle."
 ---
 
 **Oui, le hérisson d'Europe est intégralement protégé par la loi en France.** Depuis l'arrêté du 23 avril 2007, il est strictement interdit de capturer, détenir, transporter, mutiler ou commercialiser un hérisson (*Erinaceus europaeus*). Les sanctions peuvent aller jusqu'à **150 000 euros d'amende** et **3 ans d'emprisonnement**.

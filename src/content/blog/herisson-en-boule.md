@@ -21,6 +21,9 @@ quiz:
       - text: "Faux"
         correct: true
         explanation: "Les piquants sont solidement ancrés dans la peau et ne se détachent pas lors de la mise en boule. Ils ne tombent que lors de leur renouvellement naturel (tous les 12 à 18 mois)."
+      - text: "Vrai, mais seulement les piquants les plus vieux"
+        correct: false
+        explanation: "Aucun piquant ne tombe lors de la mise en boule, qu'il soit vieux ou récent. Les piquants sont solidement implantés dans des follicules musculaires individuels. Leur chute naturelle est progressive et indépendante de la mise en boule."
   - question: "Tous les prédateurs sont impuissants face à un hérisson en boule. Vrai ou faux ?"
     answers:
       - text: "Vrai"
@@ -29,6 +32,9 @@ quiz:
       - text: "Faux"
         correct: true
         explanation: "Le blaireau peut ouvrir un hérisson en boule grâce à ses griffes puissantes, et le grand-duc d'Europe peut transpercer les piquants avec ses serres. Les voitures et tondeuses robots sont également des menaces."
+      - text: "Vrai, seules les voitures sont un danger"
+        correct: false
+        explanation: "Les voitures ne sont pas la seule menace. Le blaireau peut forcer l'ouverture d'un hérisson en boule avec ses griffes, le grand-duc d'Europe transperce les piquants avec ses serres, et les tondeuses robots nocturnes peuvent mutiler un hérisson immobile."
   - question: "Un bébé hérisson peut se mettre en boule dès la naissance. Vrai ou faux ?"
     answers:
       - text: "Vrai"
@@ -37,6 +43,9 @@ quiz:
       - text: "Faux"
         correct: true
         explanation: "Les bébés naissent avec des piquants mous et blancs. Le muscle orbiculaire n'est pas encore développé. La mise en boule ne devient possible qu'à 3-4 semaines et n'est maîtrisée qu'à 6-8 semaines."
+      - text: "Vrai, mais la boule est incomplète"
+        correct: false
+        explanation: "Un bébé hérisson ne peut pas du tout se mettre en boule à la naissance, même partiellement. Ses piquants sont mous et blancs, et le muscle orbiculaire responsable de la mise en boule n'est pas encore développé. Ce n'est qu'à 3-4 semaines qu'une mise en boule partielle devient possible."
 ---
 
 **Se mettre en boule est le réflexe de défense le plus emblématique du hérisson.** En une fraction de seconde, cette petite boule de piquants se transforme en une forteresse impénétrable pour la plupart de ses prédateurs.

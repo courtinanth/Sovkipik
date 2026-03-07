@@ -20,16 +20,34 @@ quiz:
       - text: "Environ 35 jours"
         correct: true
         explanation: "La gestation du hérisson est l'une des plus courtes parmi les mammifères terrestres de sa taille, variant de 32 à 39 jours."
+      - text: "Environ 3 mois (90 jours)"
+        correct: false
+        explanation: "90 jours correspond davantage à la gestation d'un chat. Celle du hérisson est bien plus courte : environ 35 jours seulement, soit à peine 5 semaines."
+      - text: "Environ 60 jours"
+        correct: false
+        explanation: "60 jours serait presque le double de la durée réelle. La gestation du hérisson ne dure qu'environ 35 jours (32 à 39 jours), ce qui en fait l'une des plus courtes pour un mammifère de cette taille."
   - question: "Le mâle participe-t-il à l'élevage des petits ?"
     answers:
       - text: "Non, jamais"
         correct: true
         explanation: "Après l'accouplement, le mâle repart et ne s'occupe pas des choupissons. C'est la femelle qui assume seule la gestation, la mise bas et l'élevage."
+      - text: "Oui, il protège le nid pendant que la femelle cherche de la nourriture"
+        correct: false
+        explanation: "Le mâle hérisson ne participe jamais à l'élevage des petits. Après l'accouplement, il repart immédiatement. Le hérisson est un animal solitaire, et la femelle assume seule toutes les étapes de l'élevage."
+      - text: "Oui, pendant les deux premières semaines après la naissance"
+        correct: false
+        explanation: "Le mâle ne reste pas du tout après l'accouplement. Il ne connaît même pas l'emplacement du nid. C'est la hérissonne qui gère seule la construction du nid, la mise bas, l'allaitement et le sevrage des choupissons."
   - question: "Pourquoi les portées de septembre sont-elles risquées ?"
     answers:
       - text: "Parce que les choupissons n'ont pas assez de temps pour grossir avant l'hibernation"
         correct: true
         explanation: "Ils doivent atteindre au minimum 450 g pour survivre à l'hiver, ce qui laisse très peu de marge pour une naissance en septembre."
+      - text: "Parce que la nourriture est plus abondante et les choupissons mangent trop"
+        correct: false
+        explanation: "C'est le contraire qui pose problème. En septembre, la nourriture commence à se raréfier et les choupissons n'ont pas assez de temps pour accumuler les réserves de graisse nécessaires (minimum 450 g) avant l'hibernation."
+      - text: "Parce que les températures élevées de fin d'été provoquent des maladies"
+        correct: false
+        explanation: "Ce ne sont pas les températures qui posent problème, mais le manque de temps. Les choupissons nés en septembre n'ont que quelques semaines pour atteindre le poids minimal de 450 g nécessaire à la survie pendant l'hibernation hivernale."
 ---
 
 

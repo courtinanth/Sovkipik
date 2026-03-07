@@ -22,6 +22,9 @@ quiz:
       - text: "FAUX"
         correct: true
         explanation: "Vous pouvez le mettre en securite temporairement (carton avec eau), mais vous devez contacter un centre de soins agree dans les plus brefs delais. Vous n'avez pas le droit de le garder chez vous, meme pour le soigner."
+      - text: "VRAI, si on previent la mairie"
+        correct: false
+        explanation: "Prevenir la mairie ne change rien a la legalite. Seuls les centres de soins agrees et les veterinaires sont habilites a soigner un herisson. Vous devez le confier a un professionnel dans les plus brefs delais."
   - question: "VRAI ou FAUX : Le herisson pygmee d'Afrique est legal en France sans autorisation."
     answers:
       - text: "VRAI"
@@ -30,6 +33,9 @@ quiz:
       - text: "FAUX"
         correct: true
         explanation: "Le herisson pygmee d'Afrique necessite un certificat de capacite delivre par la prefecture pour etre detenu legalement. Sans ce document officiel, la detention est illegale. Ce certificat est tres difficile a obtenir pour un particulier."
+      - text: "VRAI, car ce n'est pas une espece europeenne"
+        correct: false
+        explanation: "Le fait que le herisson pygmee soit originaire d'Afrique ne le dispense pas de reglementation en France. Sa detention necessite un certificat de capacite delivre par la prefecture, quel que soit le pays d'origine de l'animal."
   - question: "VRAI ou FAUX : Nourrir les herissons dans son jardin est interdit."
     answers:
       - text: "VRAI"
@@ -38,6 +44,9 @@ quiz:
       - text: "FAUX"
         correct: true
         explanation: "Nourrir les herissons dans votre jardin est tout a fait legal et meme encourage par les associations de protection. Vous pouvez leur mettre des croquettes pour chat au poulet et de l'eau."
+      - text: "VRAI, car cela les habitue a l'homme"
+        correct: false
+        explanation: "Mettre de la nourriture a disposition dans son jardin n'habitue pas les herissons a l'homme. Ils restent des animaux sauvages nocturnes. L'aide alimentaire ponctuelle est legale et recommandee, surtout en automne et au printemps."
 ---
 
 
