@@ -1,23 +1,46 @@
 ---
-title: "Le hérisson albinos existe-t-il ? Couleurs rares et particularités génétiques"
+title: "Le hérisson albinos : couleurs rares et génétique"
 date: 2026-03-06T12:40:00+01:00
 excerpt: ""
-category: "Biologie & Comportement"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Le hérisson albinos ou blanc est rare mais réel. Découvrez les différentes colorations, les causes génétiques et l'impact sur leur survie en milieu sauvage."
 image: "/media/generated/herisson-albinos.png"
+tldr:
+  - "Le hérisson albinos existe bel et bien, mais il est extrêmement rare (1 naissance sur 10 000 à 100 000)"
+  - "L'albinisme est une anomalie génétique qui empêche la production de mélanine"
+  - "Un hérisson blanc n'est pas forcément albinos : il peut être leucistique"
+  - "Les hérissons albinos ont des yeux rouges ou roses, les leucistiques ont des yeux foncés"
+  - "L'albinisme réduit considérablement l'espérance de vie en milieu sauvage"
+  - "Il existe aussi des hérissons blonds, chocolat et gris clair, tout aussi rares"
+quiz:
+  - question: "Un hérisson blanc a toujours les yeux rouges. Vrai ou faux ?"
+    answers:
+      - text: "Vrai"
+        correct: false
+        explanation: "Un hérisson blanc peut être leucistique (yeux foncés) ou albinos (yeux rouges). La couleur des yeux est le meilleur indicateur."
+      - text: "Faux"
+        correct: true
+        explanation: "Un hérisson blanc peut être leucistique (yeux foncés) ou albinos (yeux rouges). La couleur des yeux est le meilleur indicateur."
+  - question: "L'albinisme réduit l'espérance de vie du hérisson. Vrai ou faux ?"
+    answers:
+      - text: "Vrai"
+        correct: true
+        explanation: "L'albinisme réduit l'espérance de vie de 30 à 50% en milieu sauvage, en raison de la visibilité accrue, des problèmes de vision et de la fragilité cutanée."
+      - text: "Faux"
+        correct: false
+        explanation: "L'albinisme réduit l'espérance de vie de 30 à 50% en milieu sauvage, en raison de la visibilité accrue, des problèmes de vision et de la fragilité cutanée."
+  - question: "Les hérissons blonds sont plus rares que les hérissons albinos. Vrai ou faux ?"
+    answers:
+      - text: "Vrai"
+        correct: false
+        explanation: "Les hérissons blonds sont estimés à environ 1 sur 100 à 200, tandis que les albinos sont estimés à 1 sur 10 000 à 100 000."
+      - text: "Faux"
+        correct: true
+        explanation: "Les hérissons blonds sont estimés à environ 1 sur 100 à 200, tandis que les albinos sont estimés à 1 sur 10 000 à 100 000."
 ---
 
 **Le hérisson albinos fascine autant qu'il intrigue.** Avec ses piquants blancs immaculés et ses yeux rouges, ce spécimen rare du hérisson d'Europe (*Erinaceus europaeus*) est un véritable phénomène génétique. Mais le **hérisson blanc** que l'on aperçoit parfois dans les jardins est-il vraiment albinos ? Et quelles conséquences cette particularité a-t-elle sur sa survie ?
-
-**CE QU'IL FAUT RETENIR**
-
-- Le **hérisson albinos** existe bel et bien, mais il est **extrêmement rare** (1 naissance sur 10 000 à 100 000)
-- L'albinisme est une **anomalie génétique** qui empêche la production de mélanine
-- Un **hérisson blanc** n'est pas forcément albinos : il peut être **leucistique**
-- Les hérissons albinos ont des **yeux rouges ou roses**, les leucistiques ont des yeux foncés
-- L'albinisme **réduit considérablement l'espérance de vie** en milieu sauvage
-- Il existe aussi des hérissons **blonds**, **chocolat** et **gris clair**, tout aussi rares
 
 ---
 
@@ -90,28 +113,6 @@ L'albinisme a des **conséquences directes et souvent graves** sur la survie en 
 Les observations sont rares mais documentées à travers l'Europe. En France, des hérissons blancs ont été signalés dans diverses régions, souvent recueillis par des centres de soins en raison de leur vulnérabilité. Au Royaume-Uni, on estime **quelques centaines** de hérissons blancs (albinos et leucistiques confondus) sur environ 1 million d'individus.
 
 Si vous croisez un hérisson blanc, signalez-le à votre [association locale de protection des hérissons](/blog/associations-herissons). Prenez une photo sans flash et notez la date, l'heure et le lieu.
-
----
-
-## Quiz : Vrai ou faux sur les hérissons de couleur rare
-
-<details>
-<summary><strong>1. Un hérisson blanc a toujours les yeux rouges. Vrai ou faux ?</strong></summary>
-
-**Faux.** Un hérisson blanc peut être leucistique (yeux foncés) ou albinos (yeux rouges). La couleur des yeux est le meilleur indicateur.
-</details>
-
-<details>
-<summary><strong>2. L'albinisme réduit l'espérance de vie du hérisson. Vrai ou faux ?</strong></summary>
-
-**Vrai.** L'albinisme réduit l'espérance de vie de 30 à 50% en milieu sauvage, en raison de la visibilité accrue, des problèmes de vision et de la fragilité cutanée.
-</details>
-
-<details>
-<summary><strong>3. Les hérissons blonds sont plus rares que les hérissons albinos. Vrai ou faux ?</strong></summary>
-
-**Faux.** Les hérissons blonds sont estimés à environ 1 sur 100 à 200, tandis que les albinos sont estimés à 1 sur 10 000 à 100 000.
-</details>
 
 ---
 

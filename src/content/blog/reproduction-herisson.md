@@ -1,26 +1,40 @@
 ---
-title: "Reproduction du hérisson : période, accouplement et gestation en détail"
+title: "Reproduction du hérisson : accouplement et gestation"
 date: 2026-03-06T10:40:00+01:00
 excerpt: ""
-category: "Biologie & Comportement"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "La reproduction du hérisson commence en avril. Découvrez la parade nuptiale, la durée de gestation, le nombre de petits par portée et les étapes clés de la naissance."
 image: "/media/generated/reproduction-herisson.png"
+tldr:
+  - "La période de reproduction du hérisson s'étend d'avril à septembre"
+  - "La femelle du hérisson s'appelle la hérissonne"
+  - "La gestation du hérisson dure environ 35 jours"
+  - "Une portée compte 3 à 7 bébés en moyenne"
+  - "Les choupissons naissent aveugles, sourds et sans piquants visibles"
+  - "Le sevrage est complet à 5-6 semaines"
+  - "La femelle hérisson peut avoir 1 à 2 portées par an"
+quiz:
+  - question: "Combien de temps dure la gestation du hérisson ?"
+    answers:
+      - text: "Environ 35 jours"
+        correct: true
+        explanation: "La gestation du hérisson est l'une des plus courtes parmi les mammifères terrestres de sa taille, variant de 32 à 39 jours."
+  - question: "Le mâle participe-t-il à l'élevage des petits ?"
+    answers:
+      - text: "Non, jamais"
+        correct: true
+        explanation: "Après l'accouplement, le mâle repart et ne s'occupe pas des choupissons. C'est la femelle qui assume seule la gestation, la mise bas et l'élevage."
+  - question: "Pourquoi les portées de septembre sont-elles risquées ?"
+    answers:
+      - text: "Parce que les choupissons n'ont pas assez de temps pour grossir avant l'hibernation"
+        correct: true
+        explanation: "Ils doivent atteindre au minimum 450 g pour survivre à l'hiver, ce qui laisse très peu de marge pour une naissance en septembre."
 ---
 
 
 
 La **reproduction du hérisson** est un processus fascinant qui mêle rituels étonnants et développement rapide des petits. Chaque printemps, lorsque les températures remontent, les hérissons sortent de leur hibernation avec un objectif clair : **assurer la survie de l'espèce**.
-
-**CE QU'IL FAUT RETENIR :**
-
-*   La **période de reproduction du hérisson** s'étend d'**avril à septembre**
-*   La **femelle du hérisson** s'appelle la **hérissonne**
-*   La **gestation du hérisson** dure environ **35 jours**
-*   Une portée compte **3 à 7 bébés** en moyenne
-*   Les choupissons naissent aveugles, sourds et sans piquants visibles
-*   Le sevrage est complet à **5-6 semaines**
-*   La **femelle hérisson** peut avoir **1 à 2 portées par an**
 
 ## Comment s'appelle la femelle du hérisson ?
 
@@ -97,26 +111,6 @@ La **maman hérisson et ses bébés** forment un duo fragile : on estime que **3
 </div>
 
 Pour en savoir plus sur les soins aux choupissons, consultez notre guide détaillé sur les [bébés hérissons](/blog/bebe-herisson-presentation-et-comment-sen-occuper).
-
-## Quiz : Testez vos connaissances sur la reproduction du hérisson
-
-<details>
-<summary><strong>1. Combien de temps dure la gestation du hérisson ?</strong></summary>
-
-**Réponse : Environ 35 jours.** La gestation du hérisson est l'une des plus courtes parmi les mammifères terrestres de sa taille, variant de 32 à 39 jours.
-</details>
-
-<details>
-<summary><strong>2. Le mâle participe-t-il à l'élevage des petits ?</strong></summary>
-
-**Réponse : Non, jamais.** Après l'accouplement, le mâle repart et ne s'occupe pas des choupissons. C'est la femelle qui assume seule la gestation, la mise bas et l'élevage.
-</details>
-
-<details>
-<summary><strong>3. Pourquoi les portées de septembre sont-elles risquées ?</strong></summary>
-
-**Réponse : Parce que les choupissons n'ont pas assez de temps pour grossir avant l'hibernation.** Ils doivent atteindre au minimum 450 g pour survivre à l'hiver, ce qui laisse très peu de marge pour une naissance en septembre.
-</details>
 
 ## FAQ sur la reproduction du hérisson
 

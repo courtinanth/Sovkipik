@@ -8,6 +8,7 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://sovkipik.com',
   output: 'server',
+  trailingSlash: 'always',
   adapter: netlify(),
   vite: {
     plugins: [tailwindcss()]

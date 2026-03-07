@@ -1,11 +1,44 @@
 ---
-title: "Croquettes pour chat et hérisson : bonne ou mauvaise idée en 2026 ?"
+title: "Croquettes pour chat et hérisson : bonne idée ?"
 date: 2026-03-06T11:50:00+01:00
 excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "Donner des croquettes pour chat aux hérissons divise les experts. Découvrez lesquelles conviennent, lesquelles éviter et les alternatives plus adaptées."
 image: "/media/generated/croquettes-herisson.png"
+tldr:
+  - "Les croquettes pour chat au poulet sont acceptables en appoint uniquement, pas comme nourriture principale"
+  - "Privilégiez des croquettes avec minimum 30 % de protéines et maximum 15 % de matières grasses"
+  - "JAMAIS de croquettes au poisson : inadapté au système digestif du hérisson"
+  - "Les céréales en grande quantité sont néfastes : choisissez des croquettes sans céréales ou à faible teneur"
+  - "La meilleure nourriture pour hérisson reste les insectes et un jardin riche en biodiversité"
+  - "Nourrissez surtout avant l'hibernation (septembre-octobre) et au réveil (mars-avril)"
+  - "Quantité : 60 à 90 g par nuit pour un hérisson adulte, jusqu'à 150 g avant l'hibernation"
+quiz:
+  - question: "Les croquettes pour chat au poisson conviennent-elles aux hérissons ?"
+    answers:
+      - text: "Oui, le poisson est bon pour eux"
+        correct: false
+        explanation: "Le poisson n'est pas un aliment naturel du hérisson et peut provoquer des troubles digestifs et des problèmes rénaux à long terme."
+      - text: "Non, les croquettes au poisson sont à éviter"
+        correct: true
+        explanation: "Le poisson n'est pas un aliment naturel du hérisson et peut provoquer des troubles digestifs et des problèmes rénaux à long terme. Choisissez toujours des croquettes au poulet ou à la dinde."
+  - question: "Les croquettes spécialisées pour hérisson sont-elles meilleures que celles pour chat ?"
+    answers:
+      - text: "Oui, toujours"
+        correct: false
+        explanation: "Certaines marques de croquettes spécialisées pour hérisson affichent des taux de protéines inférieurs (25-28 %) à de bonnes croquettes pour chaton (38-42 %). Regardez toujours la composition plutôt que le marketing."
+      - text: "Pas forcément"
+        correct: true
+        explanation: "Certaines marques de croquettes spécialisées pour hérisson affichent des taux de protéines inférieurs (25-28 %) à de bonnes croquettes pour chaton (38-42 %). Regardez toujours la composition plutôt que le marketing."
+  - question: "Peut-on donner des vers de farine aux hérissons ?"
+    answers:
+      - text: "Oui, c'est naturel"
+        correct: false
+        explanation: "Les vers de farine provoquent un déséquilibre du rapport calcium/phosphore qui entraîne la MBD (Metabolic Bone Disease), une maladie osseuse mortelle."
+      - text: "Non, JAMAIS"
+        correct: true
+        explanation: "Les vers de farine provoquent un déséquilibre du rapport calcium/phosphore qui entraîne la MBD (Metabolic Bone Disease), une maladie osseuse mortelle. Malgré les informations erronées que l'on trouve parfois, les vers de farine sont extrêmement dangereux pour les hérissons."
 ---
 
 
@@ -13,16 +46,6 @@ image: "/media/generated/croquettes-herisson.png"
 Donner des croquettes pour chat aux herissons est un reflexe courant chez les particuliers qui veulent aider nos amis kipiks. **Mais toutes les croquettes ne se valent pas**, et certaines peuvent meme nuire a leur sante.
 
 Cet article complete notre guide principal sur [l'alimentation des herissons](/blog/que-mange-un-herisson) en se concentrant specifiquement sur les croquettes et les alternatives pour nourrir un herisson correctement.
-
-**CE QU'IL FAUT RETENIR :**
-
-*   Les croquettes pour chat au poulet sont acceptables **en appoint uniquement**, pas comme nourriture principale
-*   Privilegiez des croquettes avec **minimum 30 % de proteines** et **maximum 15 % de matieres grasses**
-*   **JAMAIS de croquettes au poisson** : inadapte au systeme digestif du herisson
-*   Les cereales en grande quantite sont nefastes : choisissez des croquettes sans cereales ou a faible teneur
-*   La meilleure nourriture pour herisson reste les insectes et un jardin riche en biodiversite
-*   Nourrissez surtout **avant l'hibernation** (septembre-octobre) et **au reveil** (mars-avril)
-*   Quantite : **60 a 90 g par nuit** pour un herisson adulte, jusqu'a 150 g avant l'hibernation
 
 ## Peut-on donner des croquettes pour chat a un herisson ?
 
@@ -122,29 +145,6 @@ Placez la nourriture **a l'abri des autres animaux** en utilisant une caisse ret
   <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
   <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie avec les aliments interdits pour les herissons : pain, lait, chocolat, oignon, avec des croix rouges, style pedagogique</p>
 </div>
-
-## Quiz : Testez vos connaissances sur l'alimentation du herisson
-
-<details>
-<summary><strong>1. Les croquettes pour chat au poisson conviennent-elles aux herissons ?</strong></summary>
-
-**Non, les croquettes au poisson sont a eviter.** Le poisson n'est pas un aliment naturel du herisson et peut provoquer des troubles digestifs et des problemes renaux a long terme. Choisissez toujours des croquettes au poulet ou a la dinde.
-
-</details>
-
-<details>
-<summary><strong>2. Les croquettes specialisees pour herisson sont-elles meilleures que celles pour chat ?</strong></summary>
-
-**Pas forcement.** Certaines marques de croquettes specialisees pour herisson affichent des taux de proteines inferieurs (25-28 %) a de bonnes croquettes pour chaton (38-42 %). Regardez toujours la composition plutot que le marketing.
-
-</details>
-
-<details>
-<summary><strong>3. Peut-on donner des vers de farine aux herissons ?</strong></summary>
-
-**Non, JAMAIS.** Les vers de farine provoquent un desequilibre du rapport calcium/phosphore qui entraine la MBD (Metabolic Bone Disease), une maladie osseuse mortelle. Malgre les informations erronees que l'on trouve parfois, les vers de farine sont extremement dangereux pour les herissons.
-
-</details>
 
 ## FAQ - Questions frequentes sur les croquettes et l'alimentation du herisson
 

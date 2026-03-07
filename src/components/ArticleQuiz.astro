@@ -1,0 +1,140 @@
+---
+interface QuizAnswer {
+    text: string;
+    correct: boolean;
+    explanation: string;
+}
+
+interface QuizQuestion {
+    question: string;
+    answers: QuizAnswer[];
+}
+
+interface Props {
+    questions: QuizQuestion[];
+}
+
+const { questions } = Astro.props;
+---
+
+{questions && questions.length > 0 && (
+    <div class="bg-gradient-to-br from-earth-light/10 to-earth/10 border border-earth/15 rounded-2xl p-5 md:p-6 mb-6">
+        <div class="flex items-center gap-2 mb-4">
+            <span class="text-lg">🎯</span>
+            <h3 class="text-earth-dark font-bold text-base md:text-lg m-0">Testez vos connaissances</h3>
+        </div>
+
+        <div class="space-y-6" id="quiz-container">
+            {questions.map((q, qIndex) => (
+                <div class="quiz-question" data-question={qIndex}>
+                    <p class="text-earth-dark font-semibold text-sm md:text-base mb-3 leading-relaxed">{q.question}</p>
+                    <div class="space-y-2">
+                        {q.answers.map((answer, aIndex) => (
+                            <button
+                                type="button"
+                                class="quiz-answer w-full text-left px-4 py-3 rounded-xl border-2 border-earth/10 bg-white hover:border-earth/30 hover:bg-earth/5 transition-all duration-200 text-sm md:text-base text-earth-dark cursor-pointer flex items-start gap-3"
+                                data-correct={answer.correct ? "true" : "false"}
+                                data-explanation={answer.explanation}
+                                data-question-index={qIndex}
+                            >
+                                <span class="quiz-letter flex-shrink-0 w-7 h-7 rounded-full bg-earth/10 flex items-center justify-center text-xs font-bold text-earth-dark mt-0">{String.fromCharCode(65 + aIndex)}</span>
+                                <span class="flex-1">{answer.text}</span>
+                            </button>
+                        ))}
+                    </div>
+                    <div class="quiz-feedback hidden mt-3 px-4 py-3 rounded-xl text-sm md:text-base" data-feedback={qIndex}></div>
+                </div>
+            ))}
+        </div>
+
+        <div class="quiz-score hidden mt-5 pt-4 border-t border-earth/15 text-center" id="quiz-score">
+            <p class="text-earth-dark font-bold text-base md:text-lg m-0" id="quiz-score-text"></p>
+        </div>
+    </div>
+)}
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const quizContainer = document.getElementById('quiz-container');
+        if (!quizContainer) return;
+
+        let answeredCount = 0;
+        let correctCount = 0;
+        const totalQuestions = quizContainer.querySelectorAll('.quiz-question').length;
+
+        quizContainer.querySelectorAll('.quiz-answer').forEach((btn) => {
+            btn.addEventListener('click', () => {
+                const button = btn as HTMLButtonElement;
+                const qIndex = button.dataset.questionIndex;
+                const question = quizContainer.querySelector(`[data-question="${qIndex}"]`);
+                if (!question) return;
+
+                // Check if already answered
+                if (question.classList.contains('answered')) return;
+                question.classList.add('answered');
+
+                const isCorrect = button.dataset.correct === 'true';
+                const explanation = button.dataset.explanation || '';
+                const feedback = quizContainer.querySelector(`[data-feedback="${qIndex}"]`) as HTMLElement;
+
+                // Disable all buttons in this question
+                question.querySelectorAll('.quiz-answer').forEach((b) => {
+                    const ansBtn = b as HTMLButtonElement;
+                    ansBtn.classList.remove('hover:border-earth/30', 'hover:bg-earth/5', 'cursor-pointer');
+                    ansBtn.classList.add('cursor-default', 'opacity-60');
+
+                    if (ansBtn.dataset.correct === 'true') {
+                        ansBtn.classList.remove('opacity-60');
+                        ansBtn.classList.add('border-green-400', 'bg-green-50');
+                        const letter = ansBtn.querySelector('.quiz-letter');
+                        if (letter) {
+                            letter.classList.remove('bg-earth/10', 'text-earth-dark');
+                            letter.classList.add('bg-green-500', 'text-white');
+                        }
+                    }
+                });
+
+                // Style the clicked button
+                if (!isCorrect) {
+                    button.classList.remove('opacity-60');
+                    button.classList.add('border-red-400', 'bg-red-50');
+                    const letter = button.querySelector('.quiz-letter');
+                    if (letter) {
+                        letter.classList.remove('bg-earth/10', 'text-earth-dark');
+                        letter.classList.add('bg-red-500', 'text-white');
+                    }
+                }
+
+                // Show feedback
+                if (feedback) {
+                    feedback.classList.remove('hidden');
+                    if (isCorrect) {
+                        feedback.classList.add('bg-green-50', 'text-green-800', 'border', 'border-green-200');
+                        feedback.innerHTML = `<span class="font-bold">✅ Correct !</span> ${explanation}`;
+                        correctCount++;
+                    } else {
+                        feedback.classList.add('bg-red-50', 'text-red-800', 'border', 'border-red-200');
+                        feedback.innerHTML = `<span class="font-bold">❌ Incorrect.</span> ${explanation}`;
+                    }
+                }
+
+                answeredCount++;
+
+                // Show final score
+                if (answeredCount === totalQuestions) {
+                    const scoreEl = document.getElementById('quiz-score');
+                    const scoreText = document.getElementById('quiz-score-text');
+                    if (scoreEl && scoreText) {
+                        scoreEl.classList.remove('hidden');
+                        const percentage = Math.round((correctCount / totalQuestions) * 100);
+                        let emoji = '🎉';
+                        if (percentage < 50) emoji = '💪';
+                        else if (percentage < 80) emoji = '👍';
+
+                        scoreText.textContent = `${emoji} Score : ${correctCount}/${totalQuestions} (${percentage}%)`;
+                    }
+                }
+            });
+        });
+    });
+</script>

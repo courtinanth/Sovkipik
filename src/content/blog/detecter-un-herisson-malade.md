@@ -1,11 +1,19 @@
 ---
-title: "Hérisson malade : 10 signes qui ne trompent pas et comment réagir"
+title: "Hérisson malade : 10 signes et comment réagir"
 date: 2025-12-31T22:30:20+01:00
 excerpt: ""
-category: "Santé & Danger"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Comment savoir si un hérisson est malade ? Les 10 signes qui ne trompent pas (toux, maigreur, sortie diurne, perte de piquants). Guide pour réagir vite et sauver un hérisson."
 image: "/media/generated/detecter-un-herisson-malade.png"
+tldr:
+  - "Un hérisson actif en journée est presque toujours un hérisson en détresse"
+  - "Observez les signes de perte d'appétit, de léthargie et de changements dans les excréments"
+  - "Surveillez les écoulements anormaux et les difficultés respiratoires"
+  - "Notez tout changement dans le pelage, les piquants ou un grattage excessif"
+  - "Isolez et surveillez le hérisson malade, en veillant à son hydratation et à sa chaleur"
+  - "Consultez un vétérinaire spécialisé en cas de symptômes graves ou persistants"
+  - "Ne tentez jamais de soigner un hérisson vous-même"
 ---
 
 
@@ -27,10 +35,7 @@ Pour savoir si un hérisson est malade dans votre jardin, il est crucial d'obser
 9.   **Désorientation** : Un hérisson qui titube, tourne en rond ou semble perdu est en danger.
 10.   **Incapacité à se mettre en boule** : Un hérisson qui ne peut plus se rouler en boule est gravement affaibli.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie montrant les 10 signes d'un hérisson malade avec des icônes pour chaque symptôme : soleil (activité diurne), poumon (respiration), balance (perte de poids), etc.</p>
-</div>
+![Infographie montrant les 10 signes d'un hérisson malade avec des icônes pour chaque symptôme](/media/10-signes-herisson-malade.webp)
 
 ## Tableau des signes visuels : symptôme, maladie possible et urgence
 
@@ -71,10 +76,7 @@ Voici un tableau des maladies les plus fréquentes chez le hérisson d'Europe, l
 | **Clostridium** | Bactérie | Crottes vertes et collantes, léthargie | Grave | Antibiotique d'urgence |
 | **Tumeurs** | Cellules anormales | Masses palpables, perte de poids | Variable selon type | Chirurgie si possible |
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photos comparatives d'un hérisson en bonne santé (piquants lisses, yeux vifs, bonne posture) vs un hérisson malade (piquants ternes, yeux mi-clos, posture affaissée)</p>
-</div>
+![Photos comparatives d'un hérisson en bonne santé vs un hérisson malade](/media/herisson-sain-vs-malade.webp)
 
 ## Arbre de décision : mon hérisson est-il malade ?
 
@@ -120,10 +122,7 @@ Contactez un spécialiste, centre de soin ou une association pour qu'ils puissen
 
 Pour les gestes d'urgence détaillés, consultez notre guide [hérisson trouvé : que faire ?](/blog/herisson-trouve-que-faire).
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo montrant le matériel de premiers secours pour un hérisson : carton avec serviette, bouillotte, gamelle d'eau, gants de jardinage, balance de cuisine</p>
-</div>
+![Photo montrant le matériel de premiers secours pour un hérisson](/media/materiel-premiers-secours-herisson.webp)
 
 ## Puis-je soigner un hérisson malade ?
 
@@ -174,16 +173,6 @@ Vous pouvez contribuer à la santé des hérissons en prenant quelques précauti
 *   **Couvrez les trous et piscines** : les noyades sont une cause de mortalité sous-estimée
 
 Pour en savoir plus sur [que mange un hérisson](/blog/que-mange-un-herisson) et comment bien le nourrir pour renforcer sa santé, consultez notre guide alimentaire.
-
-## Récap des trucs importants à savoir pour savoir si un hérisson est malade
-
-*   Un hérisson actif en journée est presque toujours un hérisson en détresse
-*   Observez les signes de perte d'appétit, de léthargie et de changements dans les excréments
-*   Surveillez les écoulements anormaux et les difficultés respiratoires
-*   Notez tout changement dans le pelage, les piquants ou un grattage excessif
-*   Isolez et surveillez le hérisson malade, en veillant à son hydratation et à sa chaleur
-*   Consultez un vétérinaire spécialisé en cas de symptômes graves ou persistants
-*   Ne tentez jamais de soigner un hérisson vous-même
 
 Un hérisson malade non pris en charge voit sa [durée de vie](/blog/duree-de-vie-herisson) considérablement réduite. Si vous entendez un [cri inhabituel de hérisson](/blog/cri-du-herisson) la nuit, cela peut aussi être un signe de détresse qu'il ne faut pas ignorer.
 

@@ -1,25 +1,48 @@
 ---
-title: "Les 12 pièges mortels pour le hérisson dans votre jardin (et comment les éviter)"
+title: "12 pièges mortels pour le hérisson dans votre jardin"
 date: 2026-03-06T13:30:00+01:00
 excerpt: ""
-category: "Habitat & Jardin"
+category: "Jardin & Cohabitation"
 author: "Anthony COURTIN"
 description: "Piscine, robot tondeuse, anti-limaces, filet... Votre jardin cache des dangers mortels. Découvrez les 12 pièges les plus fréquents et les solutions simples."
 image: "/media/generated/dangers-jardin-herisson.png"
+tldr:
+  - "La piscine sans rampe est l'un des pièges les plus fréquents : le hérisson sait nager mais ne peut pas sortir des parois lisses"
+  - "Le robot tondeuse nocturne est un fléau : le hérisson se met en boule au lieu de fuir"
+  - "Les anti-limaces au métaldéhyde tuent les hérissons par empoisonnement secondaire"
+  - "Les filets de jardin piègent et étranglent les hérissons"
+  - "Les clôtures sans passage isolent les hérissons et réduisent leur territoire vital"
+  - "Chaque danger a une solution simple et peu coûteuse à mettre en place"
+quiz:
+  - question: "Quel est le réflexe du hérisson face à un robot tondeuse ?"
+    answers:
+      - text: "Il se met en boule"
+        correct: true
+        explanation: "Ce réflexe défensif, efficace contre les prédateurs, est fatal face à une machine : les lames tranchent le museau, les pattes et le ventre. C'est pourquoi le robot ne doit fonctionner que le jour."
+      - text: "Il fuit rapidement"
+        correct: false
+        explanation: "Le hérisson ne fuit pas, il se met en boule par réflexe défensif, ce qui le rend vulnérable face aux lames."
+  - question: "Les anti-limaces au phosphate de fer sont-ils dangereux pour les hérissons ?"
+    answers:
+      - text: "Oui, ils sont toxiques"
+        correct: false
+        explanation: "Le phosphate de fer (Ferramol) est inoffensif pour les hérissons et la faune sauvage. C'est le métaldéhyde qui est mortel."
+      - text: "Non, ils sont inoffensifs"
+        correct: true
+        explanation: "Le phosphate de fer (Ferramol) est inoffensif pour les hérissons et la faune sauvage. C'est le métaldéhyde qui est mortel. Vérifiez toujours la composition de vos granulés."
+  - question: "Quelle taille doit avoir un passage à hérisson dans une clôture ?"
+    answers:
+      - text: "13 x 13 cm"
+        correct: true
+        explanation: "C'est suffisant pour un hérisson adulte mais trop petit pour un chat ou un petit chien. Parlez-en à vos voisins pour créer un réseau de passages entre jardins."
+      - text: "30 x 30 cm"
+        correct: false
+        explanation: "Un passage de 13 x 13 cm suffit pour un hérisson adulte tout en étant trop petit pour un chat ou un petit chien."
 ---
 
 **Votre jardin, que vous pensez etre un havre de paix, peut se transformer en piège mortel pour les hérissons.** Chaque année en France, des milliers de hérissons meurent ou sont gravement blessés dans des jardins ordinaires, victimes d'aménagements et de pratiques de jardinage qui leur sont fatals. Alors que les [prédateurs naturels du hérisson](/blog/predateurs-herisson) comme le blaireau et le grand-duc sont de moins en moins présents, ce sont les dangers d'origine humaine qui prennent le relais.
 
 Les dangers sont nombreux, souvent insoupçonnés, et pourtant faciles à éliminer. Rappelons que le hérisson est une [espèce protégée par la loi](/blog/herisson-protection-loi) : nous avons une responsabilité légale et morale de le préserver.
-
-**CE QU'IL FAUT RETENIR :**
-
-* La **piscine sans rampe** est l'un des pièges les plus fréquents : le hérisson sait nager mais ne peut pas sortir des parois lisses
-* Le **robot tondeuse nocturne** est un fléau : le hérisson se met en boule au lieu de fuir
-* Les **anti-limaces au métaldéhyde** tuent les hérissons par empoisonnement secondaire
-* Les **filets de jardin** piègent et étranglent les hérissons
-* Les **clôtures sans passage** isolent les hérissons et réduisent leur territoire vital
-* Chaque danger a une **solution simple et peu coûteuse** à mettre en place
 
 <div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
   <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
@@ -124,26 +147,6 @@ Les herbicides, insecticides et fongicides contaminent la chaîne alimentaire pa
   <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
   <p class="text-earth-dark/60 text-sm italic">Prompt : Photo d'une clôture de jardin en bois avec un petit passage carré de 13 cm découpé dans le bas, un hérisson passant à travers, vue de côté au niveau du sol, jardin de banlieue</p>
 </div>
-
-## Quiz : Votre jardin est-il sûr ?
-
-<details>
-<summary><strong>1. Quel est le réflexe du hérisson face à un robot tondeuse ?</strong></summary>
-
-**Il se met en boule** au lieu de fuir. Ce réflexe défensif, efficace contre les prédateurs, est fatal face à une machine : les lames tranchent le museau, les pattes et le ventre. C'est pourquoi le robot ne doit fonctionner que le jour.
-</details>
-
-<details>
-<summary><strong>2. Les anti-limaces au phosphate de fer sont-ils dangereux pour les hérissons ?</strong></summary>
-
-**Non.** Le phosphate de fer (Ferramol) est inoffensif pour les hérissons et la faune sauvage. C'est le **métaldéhyde** qui est mortel. Vérifiez toujours la composition de vos granulés.
-</details>
-
-<details>
-<summary><strong>3. Quelle taille doit avoir un passage à hérisson dans une clôture ?</strong></summary>
-
-**13 x 13 cm.** C'est suffisant pour un hérisson adulte mais trop petit pour un chat ou un petit chien. Parlez-en à vos voisins pour créer un réseau de passages entre jardins.
-</details>
 
 ## FAQ sur les dangers du jardin pour le hérisson
 

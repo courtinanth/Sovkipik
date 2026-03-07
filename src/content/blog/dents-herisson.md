@@ -1,11 +1,17 @@
 ---
-title: "Les dents du hérisson 🦷 : Tout savoir"
+title: "Les dents du hérisson : Tout savoir"
 date: 2026-01-01T07:50:20+01:00
 excerpt: ""
-category: "Biologie & Espèce"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Tout savoir sur les dents du hérisson : nombre, anatomie et morsures. Le hérisson peut-il mordre ? Est-ce dangereux ? Réponses d'experts."
 image: "/media/generated/dents-herisson.png"
+tldr:
+  - "Un hérisson adulte possède 36 dents permanentes"
+  - "Les bébés hérissons naissent sans dents et développent 24 dents de lait"
+  - "Les dents de lait sont remplacées entre 3 et 8 semaines"
+  - "La morsure d'un hérisson n'est généralement pas dangereuse pour l'homme"
+  - "Un hérisson peut perdre ses dents en vieillissant ou à cause de problèmes de santé"
 ---
 
 
@@ -13,14 +19,6 @@ image: "/media/generated/dents-herisson.png"
 Les hérissons sont de petits mammifères nocturnes bien connus pour leurs piquants protecteurs. Cependant, peu de gens connaissent bien **les dents des hérissons**.
 
 Comprendre la dentition du hérisson est essentiel pour ceux qui souhaitent en savoir plus sur nos amis qui piquent !
-
-**CE QU'IL FAUT RETENIR :**
-
-* Un hérisson adulte possède 36 dents permanentes
-* Les bébés hérissons naissent sans dents et développent 24 dents de lait
-* Les dents de lait sont remplacées entre 3 et 8 semaines
-* La morsure d'un hérisson n'est généralement pas dangereuse pour l'homme
-* Un hérisson peut perdre ses dents en vieillissant ou à cause de problèmes de santé
 
 Sommaire :
 

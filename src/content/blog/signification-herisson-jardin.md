@@ -1,11 +1,17 @@
 ---
-title: "La signification d'un hérisson dans le jardin : Bien ou mal"
+title: "Signification d'un hérisson dans le jardin"
 date: 2026-01-03T15:50:20+01:00
 excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "Un hérisson dans votre jardin ? C'est une excellente nouvelle ! Signification écologique, spirituelle et conseils pour l'accueillir durablement."
 image: "/media/photo-herisson-banque-image-4.webp"
+tldr:
+  - "Un hérisson dans votre jardin est un excellent signe de biodiversité et de bonne santé écologique"
+  - "Le hérisson est un antiparasitaire naturel qui mange insectes et limaces"
+  - "C'est une espèce sentinelle et parapluie : sa présence protège tout l'écosystème"
+  - "Dans de nombreuses cultures, le hérisson symbolise protection, fertilité et sagesse"
+  - "Pour l'accueillir durablement : abri, croquettes, eau, passages dans les clôtures et zéro pesticide"
 ---
 
 
@@ -40,10 +46,7 @@ Enfin, **en plaçant une gamelle de croquettes pour chat ou chien** (au poulet d
 
 Si la gamelle est vide le matin, vous saurez pertinemment qu'il y a un ou des amis kipiks chez vous !
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Indices de présence du hérisson dans un jardin : traces de pattes dans la terre humide, crottes caractéristiques, gamelle vide le matin</p>
-</div>
+![Indices de présence du hérisson dans un jardin](/media/indices-presence-herisson-jardin.webp)
 
 ## Que faire lorsqu'on trouve un hérisson dans son jardin ?
 
@@ -104,10 +107,7 @@ Le hérisson, avec ses piquants protecteurs et son comportement de mise en boule
 *   **Sagesse** : son comportement prudent et nocturne évoque la sagesse et la discrétion
 *   **Curiosité** : son exploration nocturne du jardin symbolise la quête de connaissance
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Illustration artistique d'un hérisson entouré de symboles spirituels de différentes cultures : étoile celtique, croissant de lune, symbole yin-yang, feuilles de chêne</p>
-</div>
+![Illustration artistique d'un hérisson entouré de symboles spirituels de différentes cultures](/media/herisson-symboles-spirituels.webp)
 
 ### Rêver d'un hérisson : que signifie-t-il ?
 

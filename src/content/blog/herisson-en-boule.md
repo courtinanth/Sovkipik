@@ -1,24 +1,47 @@
 ---
-title: "Pourquoi le hérisson se met en boule ? Mécanisme et signification"
+title: "Pourquoi le hérisson se met en boule ? Mécanisme"
 date: 2026-03-06T11:20:00+01:00
 excerpt: ""
-category: "Biologie & Comportement"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Le hérisson se roule en boule grâce à ses 5000 piquants. Découvrez le mécanisme musculaire fascinant derrière ce réflexe et quand il ne fonctionne pas."
 image: "/media/generated/herisson-en-boule.png"
+tldr:
+  - "Le hérisson se met en boule grâce au muscle orbiculaire (ou panniculus), un muscle unique qui entoure tout son corps"
+  - "Un hérisson adulte possède environ 5000 à 7000 piquants mesurant 2 à 3 cm"
+  - "Les bébés hérissons ne peuvent pas se mettre complètement en boule avant l'âge de 3-4 semaines"
+  - "La mise en boule ne protège pas contre les voitures, les blaireaux et les grands-ducs"
+  - "Un hérisson en boule peut être vivant ou mort : il faut savoir faire la différence"
+quiz:
+  - question: "Le hérisson perd ses piquants quand il se met en boule. Vrai ou faux ?"
+    answers:
+      - text: "Vrai"
+        correct: false
+        explanation: "Les piquants sont solidement ancrés dans la peau et ne se détachent pas lors de la mise en boule. Ils ne tombent que lors de leur renouvellement naturel (tous les 12 à 18 mois)."
+      - text: "Faux"
+        correct: true
+        explanation: "Les piquants sont solidement ancrés dans la peau et ne se détachent pas lors de la mise en boule. Ils ne tombent que lors de leur renouvellement naturel (tous les 12 à 18 mois)."
+  - question: "Tous les prédateurs sont impuissants face à un hérisson en boule. Vrai ou faux ?"
+    answers:
+      - text: "Vrai"
+        correct: false
+        explanation: "Le blaireau peut ouvrir un hérisson en boule grâce à ses griffes puissantes, et le grand-duc d'Europe peut transpercer les piquants avec ses serres. Les voitures et tondeuses robots sont également des menaces."
+      - text: "Faux"
+        correct: true
+        explanation: "Le blaireau peut ouvrir un hérisson en boule grâce à ses griffes puissantes, et le grand-duc d'Europe peut transpercer les piquants avec ses serres. Les voitures et tondeuses robots sont également des menaces."
+  - question: "Un bébé hérisson peut se mettre en boule dès la naissance. Vrai ou faux ?"
+    answers:
+      - text: "Vrai"
+        correct: false
+        explanation: "Les bébés naissent avec des piquants mous et blancs. Le muscle orbiculaire n'est pas encore développé. La mise en boule ne devient possible qu'à 3-4 semaines et n'est maîtrisée qu'à 6-8 semaines."
+      - text: "Faux"
+        correct: true
+        explanation: "Les bébés naissent avec des piquants mous et blancs. Le muscle orbiculaire n'est pas encore développé. La mise en boule ne devient possible qu'à 3-4 semaines et n'est maîtrisée qu'à 6-8 semaines."
 ---
 
 **Se mettre en boule est le réflexe de défense le plus emblématique du hérisson.** En une fraction de seconde, cette petite boule de piquants se transforme en une forteresse impénétrable pour la plupart de ses prédateurs.
 
 Mais comment le hérisson parvient-il à se replier aussi parfaitement sur lui-meme ? Et dans quelles situations cette défense devient-elle inutile ?
-
-**CE QU'IL FAUT RETENIR :**
-
-* Le hérisson se met en boule grâce au **muscle orbiculaire** (ou panniculus), un muscle unique qui entoure tout son corps
-* Un hérisson adulte possède environ **5000 à 7000 piquants** mesurant 2 à 3 cm
-* Les bébés hérissons **ne peuvent pas se mettre complètement en boule** avant l'âge de 3-4 semaines
-* La mise en boule **ne protège pas** contre les voitures, les blaireaux et les grands-ducs
-* Un hérisson en boule peut etre **vivant ou mort** : il faut savoir faire la différence
 
 ## Le mécanisme fascinant : comment le hérisson se met en boule
 
@@ -122,26 +145,6 @@ Mais comment le hérisson parvient-il à se replier aussi parfaitement sur lui-m
   <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
   <p class="text-earth-dark/60 text-sm italic">Prompt : Comparaison visuelle côte à côte : hérisson vivant en boule (piquants dressés, fermes, position ronde et compacte) vs hérisson mort (piquants relâchés, corps partiellement déplié)</p>
 </div>
-
-## Quiz : Vrai ou faux sur le hérisson en boule
-
-<details>
-<summary><strong>1. Le hérisson perd ses piquants quand il se met en boule. Vrai ou faux ?</strong></summary>
-
-**FAUX.** Les piquants sont solidement ancrés dans la peau et ne se détachent pas lors de la mise en boule. Ils ne tombent que lors de leur renouvellement naturel (tous les 12 à 18 mois).
-</details>
-
-<details>
-<summary><strong>2. Tous les prédateurs sont impuissants face à un hérisson en boule. Vrai ou faux ?</strong></summary>
-
-**FAUX.** Le blaireau peut ouvrir un hérisson en boule grâce à ses griffes puissantes, et le grand-duc d'Europe peut transpercer les piquants avec ses serres. Les voitures et tondeuses robots sont également des menaces face auxquelles la mise en boule est inefficace.
-</details>
-
-<details>
-<summary><strong>3. Un bébé hérisson peut se mettre en boule dès la naissance. Vrai ou faux ?</strong></summary>
-
-**FAUX.** Les bébés naissent avec des piquants mous et blancs. Le muscle orbiculaire n'est pas encore développé. La mise en boule ne devient possible qu'à 3-4 semaines et n'est maîtrisée qu'à 6-8 semaines.
-</details>
 
 ## FAQ sur le hérisson en boule
 

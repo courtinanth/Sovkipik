@@ -1,24 +1,23 @@
 ---
-title: "Comment sauver les hérissons ? 9 astuces simples - Sovkipik"
+title: "Comment sauver les hérissons ? 9 astuces simples"
 date: 2026-01-25T02:16:48+02:00
 excerpt: ""
-category: "Santé & Danger"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "9 gestes simples pour sauver les hérissons : bannir les pesticides, sécuriser le jardin, conduire prudemment. Agissez pour protéger cette espèce menacée."
 image: "/media/generated/sauver-les-herissons.png"
+tldr:
+  - "Les pesticides empoisonnent les hérissons et leurs proies"
+  - "Les hérissons parcourent 1 a 2 km par nuit : ils ont besoin de passages entre les jardins"
+  - "En cas de hérisson blessé, contactez un centre de soins ou une association"
+  - "Un jardin \"un peu sauvage\" est le meilleur refuge pour les hérissons"
+  - "Ne tentez jamais de soigner un hérisson vous-même sans avis professionnel"
 ---
 
 ## 9 gestes simples pour protéger les Erinaceus europaeus (hérissons d'Europe)
 
 Le hérisson d'Europe est une [espèce protégée par la loi](/blog/herisson-protection-loi) depuis 1981 en France. Pourtant, sa population continue de diminuer. Voici comment agir concrètement pour inverser la tendance.
 
-**CE QU'IL FAUT RETENIR :**
-
-* Les pesticides empoisonnent les hérissons et leurs proies
-* Les hérissons parcourent 1 a 2 km par nuit : ils ont besoin de passages entre les jardins
-* En cas de hérisson blessé, contactez un centre de soins ou une association
-* Un jardin "un peu sauvage" est le meilleur refuge pour les hérissons
-* Ne tentez jamais de soigner un hérisson vous-même sans avis professionnel
 
 | Geste | Difficulte | Impact pour les hérissons |
 |-------|-----------|--------------------------|

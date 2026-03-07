@@ -1,11 +1,17 @@
 ---
-title: "Les tiques sur les hérissons : Infos + Comment les retirer ?"
+title: "Les tiques sur les hérissons : Comment les retirer ?"
 date: 2026-01-04T10:30:20+01:00
 excerpt: ""
-category: "Santé & Danger"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Comment enlever une tique sur un hérisson ? Tuto vidéo et étapes pour retirer les tiques sans danger. Protégez-les des maladies transmises."
 image: "/media/generated/puce-herisson.png"
+tldr:
+  - "Les tiques s'attaquent principalement aux hérissons déjà affaiblis"
+  - "Elles empoisonnent le sang du hérisson et peuvent transmettre des maladies"
+  - "Utiliser un tire-tique ou une pince à épiler fine pour les retirer"
+  - "Ne jamais utiliser d'alcool, de vaseline ou d'essence pour retirer une tique"
+  - "Contacter un vétérinaire après le retrait pour une vermifugation adaptée"
 ---
 
 
@@ -13,14 +19,6 @@ image: "/media/generated/puce-herisson.png"
 **Les tiques s’installent sur les hérissons qui sont déjà affaiblis**, une fois sur leur hôte, elles vont sucer leur sang et les empoisonner par la même occasion. ☠️
 
 Mais heureusement des astuces rapides existent pour enlever les tiques qui se trouvent sur les hérissons afin de leur sauver la vie. 🦔
-
-**CE QU'IL FAUT RETENIR :**
-
-* Les tiques s'attaquent principalement aux hérissons déjà affaiblis
-* Elles empoisonnent le sang du hérisson et peuvent transmettre des maladies
-* Utiliser un tire-tique ou une pince à épiler fine pour les retirer
-* Ne jamais utiliser d'alcool, de vaseline ou d'essence pour retirer une tique
-* Contacter un vétérinaire après le retrait pour une vermifugation adaptée
 
 ## Les tiques sont-elles dangereuses pour les hérissons ?
 

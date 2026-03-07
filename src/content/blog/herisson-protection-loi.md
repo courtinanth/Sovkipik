@@ -1,23 +1,46 @@
 ---
-title: "Le hérisson est-il protégé par la loi ? Réglementation et sanctions en France"
+title: "Le hérisson est-il protégé par la loi en France ?"
 date: 2026-03-06T12:20:00+01:00
 excerpt: ""
-category: "Guide & Conseil"
+category: "Guides Pratiques"
 author: "Anthony COURTIN"
 description: "Le hérisson d'Europe est intégralement protégé en France depuis 2007. Découvrez ce que dit la loi, les actes interdits et les sanctions encourues."
 image: "/media/generated/herisson-protection-loi.png"
+tldr:
+  - "Le hérisson d'Europe est intégralement protégé en France depuis l'arrêté du 23 avril 2007"
+  - "Tout acte de capture, détention, transport, mutilation ou commercialisation est interdit"
+  - "Les sanctions vont jusqu'à 150 000 euros d'amende et 3 ans de prison"
+  - "Seuls les centres de soins agréés et les vétérinaires peuvent légalement manipuler un hérisson"
+  - "En cas de hérisson en détresse, vous pouvez le mettre temporairement en sécurité le temps de contacter un centre de soins"
+  - "La protection est également européenne via la Convention de Berne (Annexe III)"
+quiz:
+  - question: "Depuis quelle année le hérisson est-il intégralement protégé en France ?"
+    answers:
+      - text: "Depuis 2007"
+        correct: true
+        explanation: "Depuis l'arrêté du 23 avril 2007. Une première protection partielle existait depuis 1981."
+      - text: "Depuis 1981"
+        correct: false
+        explanation: "Une première protection partielle existait depuis 1981, mais la protection intégrale date de l'arrêté du 23 avril 2007."
+  - question: "Quelle est l'amende maximale en cas de capture illégale ?"
+    answers:
+      - text: "15 000 euros"
+        correct: false
+        explanation: "L'amende maximale est de 150 000 euros, assortie de 3 ans de prison. En bande organisée : 750 000 euros et 7 ans de prison."
+      - text: "150 000 euros"
+        correct: true
+        explanation: "150 000 euros, assortie de 3 ans de prison. En bande organisée : 750 000 euros et 7 ans de prison."
+  - question: "Peut-on déplacer un hérisson qui traverse une route ?"
+    answers:
+      - text: "Oui, c'est un geste de sauvetage"
+        correct: true
+        explanation: "C'est un geste de sauvetage, pas une perturbation intentionnelle. Posez-le dans le sens où il se dirigeait, côté végétation."
+      - text: "Non, c'est interdit par la loi"
+        correct: false
+        explanation: "Dans ce cas précis, c'est un geste de sauvetage, pas une perturbation intentionnelle. Posez-le dans le sens où il se dirigeait, côté végétation."
 ---
 
 **Oui, le hérisson d'Europe est intégralement protégé par la loi en France.** Depuis l'arrêté du 23 avril 2007, il est strictement interdit de capturer, détenir, transporter, mutiler ou commercialiser un hérisson (*Erinaceus europaeus*). Les sanctions peuvent aller jusqu'à **150 000 euros d'amende** et **3 ans d'emprisonnement**.
-
-## Ce qu'il faut retenir
-
-- Le hérisson d'Europe est **intégralement protégé** en France depuis l'arrêté du 23 avril 2007
-- **Tout acte de capture, détention, transport, mutilation ou commercialisation est interdit**
-- Les sanctions vont jusqu'à **150 000 euros d'amende** et **3 ans de prison** (article L415-3 du Code de l'environnement)
-- Seuls les **centres de soins agréés** et les vétérinaires peuvent légalement manipuler un hérisson
-- En cas de hérisson en détresse, vous pouvez le mettre temporairement en sécurité le temps de contacter un centre de soins
-- La protection est également européenne via la **Convention de Berne** (Annexe III)
 
 ## Le cadre juridique : arrêté du 23 avril 2007
 
@@ -86,26 +109,6 @@ La dérogation est temporaire, nominative, et tout hérisson recueilli a vocatio
 **Étape 3 : Contactez un professionnel.** [Centre de soins pour la faune sauvage](/blog/centres-soins-herissons), vétérinaire de garde, ou [association de protection](/blog/associations-herissons).
 
 **Ne jamais** : le garder chez vous, lui donner du lait, le soigner vous-même sans avis professionnel. Consultez aussi [comment s'occuper d'un hérisson sauvage](/blog/soccuper-dun-herisson-sauvage) et [que faire si vous trouvez un hérisson](/blog/herisson-trouve-que-faire).
-
-## Quiz : Connaissez-vous la loi sur les hérissons ?
-
-<details>
-<summary><strong>1. Depuis quelle année le hérisson est-il intégralement protégé en France ?</strong></summary>
-
-Depuis l'**arrêté du 23 avril 2007**. Une première protection partielle existait depuis 1981.
-</details>
-
-<details>
-<summary><strong>2. Quelle est l'amende maximale en cas de capture illégale ?</strong></summary>
-
-**150 000 euros**, assortie de **3 ans de prison**. En bande organisée : 750 000 euros et 7 ans de prison.
-</details>
-
-<details>
-<summary><strong>3. Peut-on déplacer un hérisson qui traverse une route ?</strong></summary>
-
-**Oui**, dans ce cas précis. C'est un geste de sauvetage, pas une perturbation intentionnelle. Posez-le dans le sens où il se dirigeait, côté végétation.
-</details>
 
 ## FAQ : Questions fréquentes sur la protection juridique du hérisson
 

@@ -1,24 +1,56 @@
 ---
-title: "Trou de hérisson dans le jardin : pourquoi creuse-t-il et que faire ?"
+title: "Trou de hérisson au jardin : pourquoi et que faire ?"
 date: 2026-03-06T10:10:00+01:00
 excerpt: ""
-category: "Habitat & Jardin"
+category: "Jardin & Cohabitation"
 author: "Anthony COURTIN"
 description: "Votre pelouse est parsemée de petits trous ? Découvrez pourquoi le hérisson creuse dans votre jardin, comment reconnaître ses traces et les solutions pour cohabiter sereinement."
-image: "/media/generated/trou-herisson-jardin.png"
+image: "/media/cover-trou-herisson-jardin.webp"
+tldr:
+  - "Le hérisson fouille le sol pour trouver des vers, larves et insectes"
+  - "Les trous sont petits (3 à 5 cm), peu profonds (2 à 4 cm), en forme de cône"
+  - "Un hérisson qui creuse signifie un jardin en bonne santé avec un sol riche en invertébrés"
+  - "Ne pas confondre avec les galeries de taupes ou terriers de campagnols"
+  - "Laissez-le tranquille, il vous rend un immense service en éliminant les nuisibles"
+quiz:
+  - question: "Petit trou de 4 cm, peu profond, sans monticule, terre finement émiettée. Quel animal ?"
+    answers:
+      - text: "Un hérisson"
+        correct: true
+        explanation: "Trou superficiel, pas de monticule, terre émiettée par le museau. Cherchez des crottes de hérisson à proximité pour confirmer."
+      - text: "Une taupe"
+        correct: false
+        explanation: "Les taupes créent des monticules de terre (taupinières) et des galeries souterraines profondes."
+      - text: "Un campagnol"
+        correct: false
+        explanation: "Les trous de campagnol sont nets et ronds, avec des galeries peu profondes."
+  - question: "Plusieurs monticules de terre fine et meuble, de 15 à 30 cm de hauteur, alignés en file. Quel animal ?"
+    answers:
+      - text: "Une taupe"
+        correct: true
+        explanation: "Les taupinières sont le signe distinctif des taupes qui creusent des galeries souterraines profondes."
+      - text: "Un hérisson"
+        correct: false
+        explanation: "Le hérisson ne crée pas de monticules de terre, ses trous sont superficiels."
+      - text: "Un lapin"
+        correct: false
+        explanation: "Les lapins creusent de grands trous ovales avec de la terre en éventail."
+  - question: "Plusieurs petits trous superficiels dans le potager, un tas de feuilles dérangé, et une crotte cylindrique de 3 cm avec des fragments brillants. Quel animal ?"
+    answers:
+      - text: "Un hérisson"
+        correct: true
+        explanation: "La combinaison de trous superficiels, feuilles dérangées et crottes contenant des fragments brillants (élytres d'insectes) est la signature du hérisson."
+      - text: "Un campagnol"
+        correct: false
+        explanation: "Les campagnols laissent de minuscules crottes rondes et rongent les racines des plantes."
+      - text: "Un rat"
+        correct: false
+        explanation: "Les rats laissent des crottes plus allongées et créent des terriers différents."
 ---
 
 Vous avez remarqué de **petits trous mystérieux dans votre pelouse** au petit matin ? Pas de panique ! Il y a de fortes chances qu'un hérisson soit passé par là pendant la nuit pour y chercher son repas.
 
 Le **trou de hérisson dans le jardin** est en réalité un excellent signe : il indique que votre espace vert abrite une biodiversité riche et un sol en bonne santé. Mais comment distinguer ces trous de ceux d'une taupe ou d'un campagnol ?
-
-**CE QU'IL FAUT RETENIR :**
-
-*   **Pourquoi il creuse** : le hérisson fouille le sol pour trouver des vers, larves et insectes
-*   **Taille des trous** : petits (3 à 5 cm de diamètre), peu profonds (2 à 4 cm), en forme de cône
-*   **Bon signe** : un hérisson qui creuse = un jardin en bonne santé avec un sol riche en invertébrés
-*   **Ne pas confondre** : les trous de hérisson sont superficiels, contrairement aux galeries de taupes ou terriers de campagnols
-*   **Que faire** : rien ! Laissez-le tranquille, il vous rend un immense service en éliminant les nuisibles
 
 ## Pourquoi le hérisson creuse-t-il dans votre jardin ?
 
@@ -65,10 +97,7 @@ Les trous apparaissent principalement **de mars à octobre**, pendant la périod
 
 **L'astuce rapide :** Trous superficiels sans monticule = hérisson. Monticules de terre = taupe. Petits trous nets avec galeries = campagnol. Grands trous avec terre rejetée = lapin.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie comparative montrant côte à côte un trou de hérisson (superficiel), une taupinière, un trou de campagnol et un terrier de lapin, vue en coupe du sol avec dimensions annotées</p>
-</div>
+![Infographie comparative montrant côte à côte un trou de hérisson, une taupinière, un trou de campagnol et un terrier de lapin](/media/comparaison-trous-animaux-jardin.webp)
 
 ## Trou de hérisson dans la pelouse : faut-il s'inquiéter ?
 
@@ -105,26 +134,6 @@ Il ne faut pas confondre les **trous de fouissage** (pour la nourriture) avec le
 *   **Pas de robot tondeuse la nuit** : danger mortel pour les hérissons
 
 Pour une liste complète des menaces a eviter, consultez notre guide sur les [dangers du jardin pour le herisson](/blog/dangers-jardin-herisson).
-
-## Quiz : Quel animal a fait ce trou ?
-
-<details>
-<summary><strong>Question 1 :</strong> Petit trou de 4 cm, peu profond, sans monticule, terre finement émiettée. Quel animal ?</summary>
-
-**Réponse : un hérisson !** Trou superficiel, pas de monticule, terre émiettée par le museau. Cherchez des [crottes de hérisson](/blog/crotte-de-herisson) à proximité pour confirmer.
-</details>
-
-<details>
-<summary><strong>Question 2 :</strong> Plusieurs monticules de terre fine et meuble, de 15 à 30 cm de hauteur, alignés en file. Quel animal ?</summary>
-
-**Réponse : une taupe !** Les taupinières sont le signe distinctif des taupes qui creusent des galeries souterraines profondes.
-</details>
-
-<details>
-<summary><strong>Question 3 :</strong> Plusieurs petits trous superficiels dans le potager, un tas de feuilles dérangé, et une crotte cylindrique de 3 cm avec des fragments brillants. Quel animal ?</summary>
-
-**Réponse : un hérisson !** La combinaison de trous superficiels, feuilles dérangées et crottes contenant des fragments brillants (élytres d'insectes) est la signature du hérisson.
-</details>
 
 ## FAQ - Questions fréquemment posées
 

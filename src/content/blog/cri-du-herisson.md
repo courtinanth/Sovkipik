@@ -2,30 +2,57 @@
 title: "Le cri du hérisson : 7 sons décryptés et leur signification"
 date: 2026-03-06T10:20:00+01:00
 excerpt: ""
-category: "Biologie & Comportement"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Grognements, sifflements, ronflements... Découvrez les différents sons émis par le hérisson, ce qu'ils signifient et quand s'inquiéter d'un bruit de hérisson la nuit."
-image: "/media/generated/cri-du-herisson.png"
+image: "/media/cover-cri-herisson.webp"
+tldr:
+  - "Le grognement soufflant indique la parade nuptiale, le mâle tourne autour de la femelle"
+  - "Le cri aigu et perçant est un cri de détresse signalant douleur, peur ou danger"
+  - "Le sifflement du bébé hérisson est un appel à la mère pour signaler faim ou froid"
+  - "Le ronronnement traduit le bien-être, le ronflement accompagne le sommeil profond"
+  - "La toux ou l'éternuement répété peut indiquer une maladie respiratoire nécessitant un vétérinaire"
+quiz:
+  - question: "Soufflement rythmé et continu dans votre jardin en juin, vers 23h, depuis plus d'une heure. De quoi s'agit-il ?"
+    answers:
+      - text: "Le grognement de parade nuptiale"
+        correct: true
+        explanation: "Pleine saison de reproduction, son rythmé et continu. Un mâle courtise une femelle. Ne les dérangez pas !"
+      - text: "Un cri de détresse"
+        correct: false
+        explanation: "Le cri de détresse est aigu et perçant, pas rythmé et soufflant."
+      - text: "Un signe de maladie"
+        correct: false
+        explanation: "La maladie se manifeste plutôt par de la toux ou des éternuements, pas un soufflement rythmé."
+  - question: "Cri aigu et perçant à 2h du matin, répétitif, qui ressemble à un nourrisson. Que se passe-t-il ?"
+    answers:
+      - text: "Un cri de détresse"
+        correct: true
+        explanation: "Le hérisson est probablement en danger : coincé, blessé ou attaqué. Sortez avec une lampe torche pour localiser l'animal."
+      - text: "La parade nuptiale"
+        correct: false
+        explanation: "La parade nuptiale produit un soufflement rythmé, pas un cri aigu et perçant."
+      - text: "Un bébé hérisson qui appelle sa mère"
+        correct: false
+        explanation: "Le sifflement du bébé est plus léger, comme un pépiement d'oisillon, pas un cri perçant de nourrisson."
+  - question: "Un hérisson en plein jour émet des toux sèches à intervalles réguliers. Qu'est-ce que cela signifie ?"
+    answers:
+      - text: "Une possible maladie respiratoire"
+        correct: true
+        explanation: "Un hérisson actif en journée qui tousse est très probablement malade (vers pulmonaires, pneumonie). Contactez immédiatement un centre de soins."
+      - text: "Il se prépare à hiberner"
+        correct: false
+        explanation: "L'hibernation ne provoque pas de toux. Un hérisson en plein jour qui tousse est un signe de maladie."
+      - text: "Il communique avec d'autres hérissons"
+        correct: false
+        explanation: "La toux n'est pas un moyen de communication chez le hérisson, c'est un symptôme de maladie."
 ---
 
 Vous avez entendu un **bruit de hérisson la nuit** dans votre jardin et vous vous demandez ce que cela signifie ? Le **cri du hérisson** est souvent la première preuve de sa présence, bien avant de l'apercevoir.
 
 Le hérisson possède un répertoire vocal étonnamment riche : grognements, sifflements, cris aigus, ronflements... Chaque **son du hérisson** a une signification précise et peut vous renseigner sur son état de santé, son humeur ou son activité.
 
-**CE QU'IL FAUT RETENIR :**
-
-*   **Le grognement soufflant** : parade nuptiale, le mâle tourne autour de la femelle
-*   **Le cri aigu / cri de détresse** : douleur, peur ou hérisson coincé quelque part
-*   **Le sifflement du bébé hérisson** : appel à la mère, faim ou froid
-*   **Le ronronnement** : bien-être et contentement (rare à observer)
-*   **Le ronflement** : sommeil profond, souvent pendant l'hibernation
-*   **Le claquement de dents** : avertissement, agacement
-*   **La toux / l'éternuement** : possible signe de maladie respiratoire
-
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Illustration d'un hérisson européen dans un jardin la nuit, la bouche ouverte comme s'il émettait un son, avec des ondes sonores stylisées autour de lui, ambiance nocturne douce</p>
-</div>
+![Illustration d'un hérisson européen dans un jardin la nuit, la bouche ouverte comme s'il émettait un son](/media/herisson-cri-nuit-jardin.webp)
 
 ## Les 7 sons du hérisson expliqués
 
@@ -99,26 +126,6 @@ Attention à ne pas confondre avec d'autres animaux nocturnes : le rat gratte pl
 **Étape 3 : Agir.** Hérisson coincé : libérez-le avec des gants épais. Hérisson blessé : placez-le dans un carton avec un tissu et une bouillotte, contactez un centre de soins. Bébé seul : attendez le retour de la mère, intervenez seulement si le bébé est froid après 2 heures.
 
 Si un hérisson tousse régulièrement ou semble affaibli, il peut souffrir de vers pulmonaires. Consultez notre guide pour [détecter un hérisson malade](/blog/detecter-un-herisson-malade).
-
-## Quiz : Reconnaissez-vous ce son ?
-
-<details>
-<summary><strong>Question 1</strong> : Soufflement rythmé et continu dans votre jardin en juin, vers 23h, depuis plus d'une heure. De quoi s'agit-il ?</summary>
-
-**Réponse : Le grognement de parade nuptiale.** Pleine saison de reproduction, son rythmé et continu. Un mâle courtise une femelle. Ne les dérangez pas !
-</details>
-
-<details>
-<summary><strong>Question 2</strong> : Cri aigu et perçant à 2h du matin, répétitif, qui ressemble à un nourrisson. Que se passe-t-il ?</summary>
-
-**Réponse : Un cri de détresse.** Le hérisson est probablement en danger : coincé, blessé ou attaqué. Sortez avec une lampe torche pour localiser l'animal. Portez des gants si vous devez le manipuler.
-</details>
-
-<details>
-<summary><strong>Question 3</strong> : Un hérisson en plein jour émet des toux sèches à intervalles réguliers. Qu'est-ce que cela signifie ?</summary>
-
-**Réponse : Une possible maladie respiratoire.** Un hérisson actif en journée qui tousse est très probablement malade (vers pulmonaires, pneumonie). Contactez immédiatement un centre de soins. Découvrez les autres signes dans notre [guide dédié](/blog/detecter-un-herisson-malade).
-</details>
 
 ## FAQ
 

@@ -1,24 +1,53 @@
 ---
-title: "Le nid du hérisson : où le trouve-t-on et à quoi ressemble-t-il ?"
+title: "Le nid du hérisson : où le trouver, à quoi il ressemble"
 date: 2026-03-06T11:10:00+01:00
 excerpt: ""
-category: "Habitat & Jardin"
+category: "Jardin & Cohabitation"
 author: "Anthony COURTIN"
 description: "Le hérisson construit plusieurs types de nids selon la saison. Découvrez à quoi ressemble un nid, où le chercher et comment ne pas le détruire par accident."
 image: "/media/generated/nid-de-herisson.png"
+tldr:
+  - "Le hérisson construit 3 types de nids : estival (repos), hibernaculum (hiver) et de mise bas (nurserie)"
+  - "Un nid mesure entre 30 et 60 cm de diamètre selon son type"
+  - "Les matériaux principaux : feuilles mortes, herbes sèches, mousse et brindilles"
+  - "Les emplacements favoris : sous les haies, tas de bois, compost, abris de jardin"
+  - "Les destructions accidentelles (taille de haies, brûlage) sont une cause majeure de mortalité"
+quiz:
+  - question: "Quel est le type de nid le plus élaboré que construit le hérisson ?"
+    answers:
+      - text: "Le nid estival"
+        correct: false
+        explanation: "Le nid estival est sommaire, construit rapidement pour se reposer la journée."
+      - text: "L'hibernaculum (nid d'hiver)"
+        correct: true
+        explanation: "L'hibernaculum est le nid le plus grand et le mieux isolé, construit avec une épaisse couche de feuilles mortes compactées. Il peut mesurer jusqu'à 60 cm de diamètre et maintenir une température intérieure de 4-5°C."
+      - text: "Le nid de mise bas"
+        correct: false
+        explanation: "Le nid de mise bas est important mais moins élaboré que l'hibernaculum."
+  - question: "Le hérisson creuse-t-il un terrier comme le lapin ?"
+    answers:
+      - text: "Oui"
+        correct: false
+        explanation: "Le hérisson ne creuse pas de terrier. Il construit son nid au-dessus du sol ou utilise des cavités déjà existantes."
+      - text: "Non"
+        correct: true
+        explanation: "Le hérisson ne creuse pas de terrier. Il construit son nid au-dessus du sol ou utilise des cavités déjà existantes. Le terme \"terrier de hérisson\" est un abus de langage."
+  - question: "Quelle est l'activité de jardinage la plus dangereuse pour les nids ?"
+    answers:
+      - text: "La tonte de pelouse"
+        correct: false
+        explanation: "La tonte est dangereuse pour les hérissons eux-mêmes, mais moins pour les nids qui sont généralement sous les haies ou dans les tas de bois."
+      - text: "Le brûlage de tas de feuilles et de branches"
+        correct: true
+        explanation: "Un hérisson en hibernation ne se réveillera pas assez vite pour fuir les flammes. Il faut toujours vérifier un tas avant d'y mettre le feu."
+      - text: "L'arrosage du jardin"
+        correct: false
+        explanation: "L'arrosage ne représente pas un danger significatif pour les nids de hérisson."
 ---
 
 **Le nid du hérisson est une construction discrète mais essentielle à sa survie.** Selon la saison et ses besoins, le hérisson construit différents types de nids, chacun ayant une fonction bien précise : se protéger du froid, mettre bas ou simplement se reposer la journée.
 
 Malheureusement, de nombreux nids sont détruits chaque année par des activités de jardinage banales. Apprendre à les reconnaître est un geste crucial pour protéger cette espèce menacée. Si vous vous demandez [ce que signifie la présence d'un hérisson dans votre jardin](/blog/signification-herisson-jardin), sachez que c'est un excellent indicateur de biodiversité.
-
-**CE QU'IL FAUT RETENIR :**
-
-* Le hérisson construit **3 types de nids** : estival (repos), hibernaculum (hiver) et de mise bas (nurserie)
-* Un nid mesure entre **30 et 60 cm de diamètre** selon son type
-* Les matériaux principaux : **feuilles mortes, herbes sèches, mousse et brindilles**
-* Les emplacements favoris : **sous les haies, tas de bois, compost, abris de jardin**
-* Les destructions accidentelles (taille de haies, brûlage) sont une **cause majeure de mortalité**
 
 ## Les 3 types de nids du hérisson
 
@@ -107,26 +136,6 @@ Pour installer un abri permanent, consultez notre guide sur [les abris pour hér
   <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
   <p class="text-earth-dark/60 text-sm italic">Prompt : Photo réaliste d'un nid de hérisson au pied d'une haie dans un jardin, avec des feuilles mortes accumulées en dôme, un petit passage visible pour l'entrée du hérisson</p>
 </div>
-
-## Quiz : Saurez-vous reconnaître un nid de hérisson ?
-
-<details>
-<summary><strong>1. Quel est le type de nid le plus élaboré que construit le hérisson ?</strong></summary>
-
-**L'hibernaculum** (nid d'hiver). C'est le nid le plus grand et le mieux isolé, construit avec une épaisse couche de feuilles mortes compactées. Il peut mesurer jusqu'à 60 cm de diamètre et maintenir une température intérieure de 4-5°C.
-</details>
-
-<details>
-<summary><strong>2. Le hérisson creuse-t-il un terrier comme le lapin ?</strong></summary>
-
-**Non !** Le hérisson ne creuse pas de terrier. Il construit son nid au-dessus du sol ou utilise des cavités déjà existantes. Le terme "terrier de hérisson" est un abus de langage.
-</details>
-
-<details>
-<summary><strong>3. Quelle est l'activité de jardinage la plus dangereuse pour les nids ?</strong></summary>
-
-**Le brûlage de tas de feuilles et de branches.** Un hérisson en hibernation ne se réveillera pas assez vite pour fuir les flammes. Il faut toujours vérifier un tas avant d'y mettre le feu.
-</details>
 
 ## FAQ sur le nid du hérisson
 

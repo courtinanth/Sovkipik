@@ -1,24 +1,22 @@
 ---
-title: "Hibernation du hérisson : Guide 2026 + Tableau physiologique"
+title: "Hibernation du hérisson : Guide + Tableau physiologique"
 date: 2025-12-30T18:30:20+01:00
 excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "Tout sur l'hibernation du hérisson : dates (octobre-avril), physiologie, perte de poids. Faut-il les nourrir en hiver ? Ne les réveillez jamais !"
 image: "/media/generated/hibernation-herisson.png"
+tldr:
+  - "L'hibernation du hérisson dure d'octobre/novembre à mars/avril selon les températures"
+  - "Température corporelle : passe de 35°C à 4-5°C pendant l'hibernation"
+  - "Poids minimum requis : 600g en octobre, 700g en novembre pour survivre"
+  - "Perte de poids : jusqu'à 30-40% de leur masse corporelle durant l'hiver"
+  - "Ne jamais déranger un hérisson en hibernation : chaque réveil consomme ses réserves"
 ---
 
 **Les hérissons hibernent bel et bien !** Durant l'hibernation, ils ont tendance à considérablement réduire la vitesse de leur métabolisme dans le but de réduire leur consommation d'énergie, avec pour seul but, de survivre jusqu'au printemps.
 
 Maintenant place aux explications et examinons en détail, l'hibernation des hérissons !
-
-**TL;DR (À retenir)**
-
-- L'hibernation du hérisson dure d'octobre/novembre à mars/avril selon les températures
-- Température corporelle : passe de 35 degres C à 4-5 degres C pendant l'hibernation
-- Poids minimum requis : 600g en octobre, 700g en novembre pour survivre
-- Perte de poids : jusqu'à 30-40% de leur masse corporelle durant l'hiver
-- Ne jamais déranger un hérisson en hibernation : chaque réveil consomme ses réserves
 
 ## Quand hibernent les hérissons ?
 
@@ -61,10 +59,7 @@ Les dates d'entrée et de sortie d'hibernation varient considérablement selon l
 
 **Important :** Ces dates sont indicatives. Le changement climatique tend à décaler les périodes d'hibernation. Certains hérissons dans le sud de la France n'hibernent que partiellement, voire pas du tout certaines années douces.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Carte de France illustrée montrant les dates d'hibernation du hérisson par région, avec un dégradé de couleurs du nord (plus tôt, plus long) au sud (plus tard, plus court)</p>
-</div>
+![Carte de France illustrée montrant les dates d'hibernation du hérisson par région](/media/carte-france-hibernation-herisson.webp)
 
 ## Le processus d'hibernation
 
@@ -121,10 +116,7 @@ Le hérisson possède un thermostat interne remarquable. Si la température de s
 
 C'est pourquoi un [abri bien isolé](/blog/abri-pour-herisson-avec-et-sans-bricolage) est crucial : il maintient une température stable autour de 4-5 degres C, même lorsqu'il gèle dehors.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie comparant les constantes vitales du hérisson éveillé vs en hibernation (température, rythme cardiaque, respiration) avec des jauges visuelles</p>
-</div>
+![Infographie verticale comparant les constantes vitales du hérisson éveillé vs en hibernation](/media/constantes-vitales-herisson-hibernation.webp)
 
 ## Quel poids minimum pour hiberner ?
 
@@ -248,10 +240,7 @@ Pour un guide complet des premiers gestes, lisez notre article [hérisson trouv�
 
 **Numéros utiles :** LPO Faune sauvage en détresse : 07 72 22 51 40 | Alliance Hérisson | Votre centre de soins local
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Hérisson dans un nid de feuilles mortes en hibernation, roulé en boule, dans un abri naturel sous un tas de bois</p>
-</div>
+![Hérisson dans un nid de feuilles mortes en hibernation, roulé en boule, dans un abri naturel sous un tas de bois](/media/herisson-hibernation-nid-feuilles.webp)
 
 ## Quelques conseils sur l'hibernation des hérissons
 

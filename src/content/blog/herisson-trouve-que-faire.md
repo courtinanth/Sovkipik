@@ -1,27 +1,49 @@
 ---
-title: "J'ai trouvé un hérisson : que faire selon la situation (jour, nuit, blessé) ?"
+title: "Hérisson trouvé : que faire ? (jour, nuit, blessé)"
 date: 2026-03-06T11:00:00+01:00
 excerpt: ""
-category: "Urgence & Soin"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Vous avez trouvé un hérisson en plein jour ou blessé ? Voici les gestes à adopter, les erreurs à éviter et quand contacter un centre de soins. Arbre décisionnel inclus."
 image: "/media/generated/herisson-trouve-que-faire.png"
+tldr:
+  - "Un hérisson en plein jour = URGENCE dans 90 % des cas"
+  - "Ne le touchez JAMAIS à mains nues (gants obligatoires)"
+  - "Ne lui donnez JAMAIS de lait ni de pain (mortel)"
+  - "Réchauffez-le avec une bouillotte AVANT de le nourrir"
+  - "Contactez un centre de soins le plus rapidement possible"
+  - "Ne le gardez pas : c'est illégal et dangereux pour l'animal"
+  - "En attendant : eau tiède + croquettes pour chat (au poulet, sans sauce)"
+quiz:
+  - question: "Vous trouvez un hérisson immobile en plein jour. Que faites-vous en premier ?"
+    answers:
+      - text: "Vous enfilez des gants et vous le récupérez"
+        correct: true
+        explanation: "Un hérisson immobile en plein jour est en détresse. Mettez-le en sécurité dans un carton avec une bouillotte, puis contactez un centre de soins."
+      - text: "Vous le laissez tranquille"
+        correct: false
+        explanation: "Un hérisson immobile en plein jour est en détresse et a besoin d'aide immédiate."
+  - question: "Un ami vous dit de donner du lait tiède au hérisson. Bonne ou mauvaise idée ?"
+    answers:
+      - text: "Bonne idée"
+        correct: false
+        explanation: "Le lait de vache provoque une dysenterie potentiellement mortelle chez le hérisson."
+      - text: "Très mauvaise idée"
+        correct: true
+        explanation: "Le lait de vache provoque une dysenterie potentiellement mortelle chez le hérisson. Donnez-lui uniquement de l'eau tiède, éventuellement avec une pointe de miel."
+  - question: "Quelle est la première chose à faire AVANT de nourrir un hérisson en détresse ?"
+    answers:
+      - text: "Le nourrir immédiatement"
+        correct: false
+        explanation: "Un hérisson hypothermique ne peut pas digérer. La nourriture fermente dans son estomac et peut le tuer."
+      - text: "Le réchauffer"
+        correct: true
+        explanation: "Un hérisson hypothermique ne peut pas digérer. Placez toujours une bouillotte dans le carton d'abord."
 ---
 
 
 
 **J'ai trouvé un hérisson, que faire ?** C'est la question que des milliers de personnes se posent chaque année en France. Que l'animal soit trouvé en plein jour, la nuit ou blessé, **la réaction appropriée n'est pas la même**. Et une erreur, même faite avec les meilleures intentions, peut coûter la vie à l'animal.
-
-**CE QU'IL FAUT RETENIR - CHECKLIST D'URGENCE :**
-
-*   **Un hérisson en plein jour = URGENCE** dans 90 % des cas
-*   **Ne le touchez JAMAIS à mains nues** (gants obligatoires)
-*   **Ne lui donnez JAMAIS de lait ni de pain** (mortel)
-*   **Réchauffez-le** avec une bouillotte AVANT de le nourrir
-*   **Contactez un centre de soins** le plus rapidement possible
-*   **Ne le gardez pas** : c'est illégal et dangereux pour l'animal
-*   En attendant : **eau tiède + croquettes pour chat** (au poulet, sans sauce)
-*   Numéro utile : contactez le **centre de soins le plus proche** via notre [liste complète](/blog/centres-soins-herissons)
 
 ## Arbre décisionnel : que faire selon la situation
 
@@ -155,26 +177,6 @@ Pour identifier un problème de santé, consultez : [Savoir si un hérisson est 
 </div>
 
 Consultez notre article complet sur les [associations de protection des hérissons](/blog/associations-herissons) pour trouver des interlocuteurs dans votre région.
-
-## Quiz : Les bons réflexes face à un hérisson en détresse
-
-<details>
-<summary><strong>1. Vous trouvez un hérisson immobile en plein jour. Que faites-vous en premier ?</strong></summary>
-
-**Réponse : Vous enfilez des gants et vous le récupérez.** Un hérisson immobile en plein jour est en détresse. Mettez-le en sécurité dans un carton avec une bouillotte, puis contactez un centre de soins.
-</details>
-
-<details>
-<summary><strong>2. Un ami vous dit de donner du lait tiède au hérisson. Bonne ou mauvaise idée ?</strong></summary>
-
-**Réponse : TRES MAUVAISE idée !** Le lait de vache provoque une dysenterie potentiellement mortelle chez le hérisson. Donnez-lui uniquement de l'eau tiède, éventuellement avec une pointe de miel.
-</details>
-
-<details>
-<summary><strong>3. Quelle est la première chose à faire AVANT de nourrir un hérisson en détresse ?</strong></summary>
-
-**Réponse : Le réchauffer.** Un hérisson hypothermique ne peut pas digérer. Si vous le nourrissez alors qu'il est froid, la nourriture fermente dans son estomac et peut le tuer. Placez toujours une bouillotte dans le carton d'abord.
-</details>
 
 ## FAQ : j'ai trouvé un hérisson, que faire ?
 

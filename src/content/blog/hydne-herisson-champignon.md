@@ -1,23 +1,37 @@
 ---
-title: "L'hydne hérisson : le champignon qui porte le nom du hérisson"
+title: "L'hydne hérisson : le champignon nommé hérisson"
 date: 2026-03-06T13:10:00+01:00
 excerpt: ""
-category: "Nature & Biodiversité"
+category: "Culture & Nature"
 author: "Anthony COURTIN"
 description: "L'hydne hérisson (Hericium erinaceus) est un champignon comestible aux vertus étonnantes. Découvrez ce cousin botanique, ses bienfaits et où le trouver."
 image: "/media/generated/hydne-herisson-champignon.png"
+tldr:
+  - "L'hydne hérisson (Hericium erinaceus) est un champignon comestible et médicinal rare en France"
+  - "Il pousse principalement sur les feuillus morts ou affaiblis (chênes, hêtres) entre septembre et novembre"
+  - "Ses aiguillons blancs pendants lui donnent une ressemblance saisissante avec un hérisson en boule"
+  - "Il est reconnu pour ses bienfaits sur le système nerveux, la digestion et l'immunité"
+  - "C'est une espèce protégée dans plusieurs régions : ne le cueillez pas sans vérifier la réglementation locale"
+  - "Il partage les mêmes forêts et écosystèmes que le hérisson d'Europe"
+quiz:
+  - question: "Quel est le nom latin de l'hydne hérisson ?"
+    answers:
+      - text: "Hericium erinaceus"
+        correct: true
+        explanation: "Les deux mots signifient \"hérisson\" en latin, ce qui donne littéralement \"hérisson hérisson\"."
+  - question: "Sur quels arbres pousse l'hydne hérisson en France ?"
+    answers:
+      - text: "Principalement sur les feuillus morts ou affaiblis : chêne, hêtre, noyer, orme et érable"
+        correct: true
+        explanation: "Le chêne et le hêtre sont les hôtes les plus fréquents."
+  - question: "Peut-on confondre l'hydne hérisson avec un champignon toxique ?"
+    answers:
+      - text: "Le risque est très faible"
+        correct: true
+        explanation: "Toutes les espèces du genre Hericium sont comestibles. Le seul champignon à aiguillons pouvant prêter à confusion est le Climacodon septentrionalis, visuellement très différent et simplement amer, pas toxique."
 ---
 
 **L'hydne hérisson est un champignon fascinant qui tire son nom de sa ressemblance frappante avec notre petit mammifère à piquants.** Aussi connu sous le nom scientifique *Hericium erinaceus*, ce champignon comestible est aujourd'hui au coeur d'un engouement mondial pour ses propriétés nutritionnelles et médicinales. Au-delà de la mycologie, l'hydne hérisson évolue dans les memes forets et écosystèmes que le hérisson d'Europe.
-
-**CE QU'IL FAUT RETENIR :**
-
-* L'hydne hérisson (*Hericium erinaceus*) est un **champignon comestible et médicinal** rare en France
-* Il pousse principalement sur les **feuillus morts ou affaiblis** (chenes, hetres) entre septembre et novembre
-* Ses **aiguillons blancs pendants** lui donnent une ressemblance saisissante avec un hérisson en boule
-* Il est reconnu pour ses **bienfaits sur le système nerveux**, la digestion et l'immunité
-* C'est une **espèce protégée dans plusieurs régions** : ne le cueillez pas sans vérifier la réglementation locale
-* Il partage les memes **forets et écosystèmes** que le hérisson d'Europe
 
 <div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
   <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
@@ -119,26 +133,6 @@ Pour en savoir plus, consultez notre article sur [le hérisson en Europe](/blog/
   <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
   <p class="text-earth-dark/60 text-sm italic">Prompt : Illustration artistique montrant côte à côte un hérisson européen et un champignon hydne hérisson accroché à un tronc d'arbre, dans une foret automnale, pour illustrer la ressemblance entre les deux</p>
 </div>
-
-## Quiz : Connaissez-vous l'hydne hérisson ?
-
-<details>
-<summary><strong>1. Quel est le nom latin de l'hydne hérisson ?</strong></summary>
-
-**Hericium erinaceus.** Les deux mots signifient "hérisson" en latin, ce qui donne littéralement "hérisson hérisson".
-</details>
-
-<details>
-<summary><strong>2. Sur quels arbres pousse l'hydne hérisson en France ?</strong></summary>
-
-Principalement sur les **feuillus morts ou affaiblis** : chene, hetre, noyer, orme et érable. Le chene et le hetre sont les hôtes les plus fréquents.
-</details>
-
-<details>
-<summary><strong>3. Peut-on confondre l'hydne hérisson avec un champignon toxique ?</strong></summary>
-
-**Le risque est très faible.** Toutes les espèces du genre *Hericium* sont comestibles. Le seul champignon à aiguillons pouvant preter à confusion est le *Climacodon septentrionalis*, visuellement très différent et simplement amer, pas toxique.
-</details>
 
 ## FAQ sur l'hydne hérisson
 

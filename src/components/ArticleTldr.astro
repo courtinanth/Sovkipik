@@ -1,0 +1,24 @@
+---
+interface Props {
+    points: string[];
+}
+
+const { points } = Astro.props;
+---
+
+{points && points.length > 0 && (
+    <div class="bg-gradient-to-br from-forest/5 to-forest/10 border border-forest/15 rounded-2xl p-5 md:p-6 mb-6">
+        <div class="flex items-center gap-2 mb-4">
+            <span class="text-lg">📋</span>
+            <h3 class="text-forest font-bold text-base md:text-lg m-0">À retenir</h3>
+        </div>
+        <ul class="space-y-2.5 m-0 p-0 list-none">
+            {points.map((point) => (
+                <li class="flex items-start gap-2.5 text-earth-dark text-sm md:text-base leading-relaxed m-0 p-0">
+                    <span class="text-forest mt-0.5 flex-shrink-0 w-5 h-5 bg-forest/10 rounded-full flex items-center justify-center text-xs font-bold">✓</span>
+                    <span set:html={point} />
+                </li>
+            ))}
+        </ul>
+    </div>
+)}

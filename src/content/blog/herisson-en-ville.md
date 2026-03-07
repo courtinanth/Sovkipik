@@ -1,23 +1,46 @@
 ---
-title: "Le hérisson en ville : comment survit-il et comment l'aider en milieu urbain ?"
+title: "Le hérisson en ville : survie et gestes pour l'aider"
 date: 2026-03-06T13:00:00+01:00
 excerpt: ""
-category: "Habitat & Jardin"
+category: "Jardin & Cohabitation"
 author: "Anthony COURTIN"
 description: "Le hérisson s'adapte à la vie urbaine mais y fait face à de nouveaux dangers. Découvrez ses habitudes en ville et comment lui faciliter la vie."
 image: "/media/generated/herisson-en-ville.png"
+tldr:
+  - "Le hérisson en ville s'est adapté en modifiant son alimentation et ses habitudes"
+  - "Les jardins privés sont devenus son principal habitat de substitution"
+  - "Les dangers urbains causent plus de 60% de la mortalité"
+  - "Un hérisson dans mon jardin est un signe de biodiversité et une excellente nouvelle"
+  - "Des gestes simples comme les passages dans les clôtures (13x13 cm) peuvent sauver des vies"
+  - "La population a chuté de 70% en 20 ans dans certaines régions"
+quiz:
+  - question: "Avez-vous un passage de 13x13 cm dans votre clôture ?"
+    answers:
+      - text: "Oui"
+        correct: true
+        explanation: "C'est le geste le plus important. Un passage permet au hérisson de circuler entre les jardins pour se nourrir et se reproduire."
+      - text: "Non"
+        correct: false
+        explanation: "Un simple trou de 13x13 cm suffit et ne laisse pas passer les chiens. C'est le geste le plus important pour aider les hérissons."
+  - question: "Votre robot-tondeuse fonctionne-t-il la nuit ?"
+    answers:
+      - text: "Oui"
+        correct: false
+        explanation: "C'est un danger mortel. L'animal se met en boule et ses piquants ne le protègent pas des lames. Programmez votre robot-tondeuse uniquement en journée (entre 10h et 16h)."
+      - text: "Non"
+        correct: true
+        explanation: "Bonne pratique. Les robot-tondeuses nocturnes sont un piège mortel pour les hérissons."
+  - question: "Avez-vous une zone sauvage non tondue ?"
+    answers:
+      - text: "Oui"
+        correct: true
+        explanation: "Les zones sauvages abritent insectes, vers et abris naturels. Même un petit coin de 2-3 m2 fait une réelle différence."
+      - text: "Non"
+        correct: false
+        explanation: "Les zones sauvages abritent insectes, vers et abris naturels. Même un petit coin de 2-3 m2 fait une réelle différence pour les hérissons."
 ---
 
 **Le hérisson en ville est un survivant.** Alors que son habitat naturel se réduit sous la pression de l'urbanisation, le hérisson d'Europe (*Erinaceus europaeus*) a progressivement investi nos villes et quartiers résidentiels. Mais entre les routes, les clôtures, les piscines et les pesticides, la vie urbaine n'est pas sans danger.
-
-**CE QU'IL FAUT RETENIR**
-
-- Le **hérisson en ville** s'est adapté en modifiant son alimentation et ses habitudes
-- Les **jardins privés** sont devenus son principal habitat de substitution
-- Les dangers urbains causent **plus de 60% de la mortalité**
-- **Un hérisson dans mon jardin** est un signe de biodiversité et une excellente nouvelle
-- Des gestes simples comme les **passages dans les clôtures** (13x13 cm) peuvent sauver des vies
-- La population a chuté de **70% en 20 ans** dans certaines régions
 
 ---
 
@@ -105,26 +128,6 @@ Les **"Rues des hérissons"**, inspirées du concept britannique, encouragent le
 Rejoignez une [association de protection des hérissons](/blog/associations-herissons) près de chez vous.
 
 ---
-
-## Quiz : Êtes-vous un jardin ami des hérissons ?
-
-<details>
-<summary><strong>1. Avez-vous un passage de 13x13 cm dans votre clôture ?</strong></summary>
-
-C'est le geste le plus important. Un passage permet au hérisson de circuler entre les jardins pour se nourrir et se reproduire. Un simple trou de 13x13 cm suffit et ne laisse pas passer les chiens.
-</details>
-
-<details>
-<summary><strong>2. Votre robot-tondeuse fonctionne-t-il la nuit ?</strong></summary>
-
-**Si oui, c'est un danger mortel.** L'animal se met en boule et ses piquants ne le protègent pas des lames. Programmez votre robot-tondeuse **uniquement en journée** (entre 10h et 16h).
-</details>
-
-<details>
-<summary><strong>3. Avez-vous une zone sauvage non tondue ?</strong></summary>
-
-Les zones sauvages abritent insectes, vers et abris naturels. Même un petit coin de 2-3 m2 fait une réelle différence. Consultez notre guide sur les [dangers du jardin pour le hérisson](/blog/dangers-jardin-herisson).
-</details>
 
 ---
 

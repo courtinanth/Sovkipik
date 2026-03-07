@@ -1,11 +1,17 @@
 ---
-title: "Les hérissons et les puces 🦔 : Plus de secret (Guide 2026)"
+title: "Les hérissons et les puces : Plus de secret (Guide)"
 date: 2026-01-04T19:50:20+01:00
 excerpt: ""
-category: "Santé & Danger"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Votre hérisson a des puces ? Pas de panique ! Elles ne vont sur les chiens/chats. Tout savoir sur les parasites du hérisson et comment réagir."
 image: "/media/generated/puce-herisson.png"
+tldr:
+  - "La puce du hérisson (Archaeopsylla erinacei) est spécifique à son espèce"
+  - "Les puces de hérisson ne survivent pas sur les chiens, chats ou humains"
+  - "Un hérisson couvert de puces est souvent un hérisson en mauvaise santé"
+  - "Ne jamais utiliser de produit antipuces (Frontline, etc.) sans avis vétérinaire"
+  - "Consulter un vétérinaire ou une association spécialisée en cas d'infestation"
 ---
 
 
@@ -15,14 +21,6 @@ Derrière leurs piquants, les hérissons cachent un petit parasite : **les puces
 Bien qu'elles ne puissent aller sur les humains ou sur nos animaux domestiques, sont-elles dangereuses pour autant ?
 
 Que signifie un hérisson avec plein de puces ? Nous répondons à toutes vos questions en quelques lignes.
-
-**CE QU'IL FAUT RETENIR :**
-
-* La puce du hérisson (Archaeopsylla erinacei) est spécifique à son espèce
-* Les puces de hérisson ne survivent pas sur les chiens, chats ou humains
-* Un hérisson couvert de puces est souvent un hérisson en mauvaise santé
-* Ne jamais utiliser de produit antipuces (Frontline, etc.) sans avis vétérinaire
-* Consulter un vétérinaire ou une association spécialisée en cas d'infestation
 
 ## Les hérissons ont-ils des puces ?
 

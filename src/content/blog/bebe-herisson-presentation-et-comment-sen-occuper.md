@@ -1,11 +1,17 @@
 ---
-title: "Choupisson : tout savoir sur le bébé hérisson de la naissance à l'autonomie"
+title: "Choupisson : tout savoir sur le bébé hérisson"
 date: 2026-01-05T23:50:20+01:00
 excerpt: ""
-category: "Guide & Conseil"
+category: "Guides Pratiques"
 author: "Anthony COURTIN"
 description: "Quel est le nom du bébé hérisson ? Le choupisson ! Guide complet : naissance, développement semaine par semaine, poids, alimentation et que faire si vous en trouvez un."
 image: "/media/generated/bebe-herisson-presentation-et-comment-sen-occuper.png"
+tldr:
+  - "Le bébé hérisson s'appelle le choupisson, terme popularisé en 2018"
+  - "Un choupisson pèse 10 à 25g à la naissance et devient autonome vers 5-6 semaines (200-250g)"
+  - "Ne jamais toucher un bébé hérisson à mains nues ni donner de lait de vache (mortel)"
+  - "En cas de découverte, le réchauffer (35-37°C) et contacter un centre de soins en urgence"
+  - "Ne pas relâcher un hérisson à moins de 600g ni à moins de 8°C la nuit"
 ---
 
 
@@ -50,10 +56,7 @@ La mère hérisson (hérissonne) peut donner naissance à plusieurs portées par
 
 C'est au bout de la deuxième semaine que la fourrure brune du hérisson apparaît, en même temps que l'ouverture de ses yeux.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo comparative montrant un bébé hérisson nouveau-né (sans piquants, yeux fermés) à côté d'un bébé hérisson de 2 semaines (avec piquants blancs et gris, yeux ouverts)</p>
-</div>
+![Photo comparative montrant un bébé hérisson nouveau-né à côté d'un bébé hérisson de 2 semaines](/media/bebe-herisson-nouveau-ne-vs-2-semaines.webp)
 
 ## Le développement des bébés hérissons semaine par semaine
 
@@ -171,10 +174,7 @@ Il est important de ne pas donner de lait de vache aux choupissons, car cela peu
 
 Si vous devez nourrir un bébé hérisson, voici [le guide alimentaire des hérissons](/blog/que-mange-un-herisson), mais **nous vous conseillons tout de même de contacter une association spécialisée ou un vétérinaire** afin de proscrire l'alimentation la plus adaptée à votre hérisson. Vous pouvez aussi consulter notre guide sur les [croquettes pour hérisson](/blog/croquettes-herisson) pour connaître les meilleures options.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Schéma illustrant le régime alimentaire du bébé hérisson par stade : lait maternel (0-3 semaines), aliments mous (3-5 semaines), insectes et proies (5+ semaines)</p>
-</div>
+![Schéma illustrant le régime alimentaire du bébé hérisson par stade](/media/regime-alimentaire-bebe-herisson.webp)
 
 ## Quand dois-je relâcher un bébé hérisson ?
 

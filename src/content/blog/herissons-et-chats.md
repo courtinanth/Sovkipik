@@ -2,10 +2,16 @@
 title: "Les hérissons et les chats s'entendent-ils bien ?"
 date: 2026-01-01T17:10:20+01:00
 excerpt: ""
-category: "Santé & Danger"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Chats et hérissons peuvent-ils cohabiter ? Risques, puces, nourriture... Tout savoir sur l'entente entre votre félin et le hérisson au jardin."
 image: "/media/generated/herissons-et-chats.png"
+tldr:
+  - "Les chats et les hérissons cohabitent généralement bien et s'ignorent mutuellement"
+  - "Les puces de hérissons ne se transmettent pas aux chats (elles sont spécifiques à leur hôte)"
+  - "Les piquants du hérisson constituent une défense efficace contre les attaques de chat"
+  - "Les hérissons peuvent manger les croquettes de chat sans problème"
+  - "Les hérissons sont nocturnes et les chats plutôt diurnes, ce qui limite les interactions"
 ---
 
 
@@ -13,14 +19,6 @@ image: "/media/generated/herissons-et-chats.png"
 Dans la majorité des cas, **oui, les chats et les hérissons s’entendent bien et peuvent cohabiter**, ils auront plus tendance à s’ignorer l’un et l’autre, mais nous tenons quand même à répondre à vos questions qui sont légitimes sur le sujet.
 
 Les chats et les hérissons peuvent-ils cohabiter sans danger dans le même jardin ? Quels sont les risques et comment les minimiser ? Cet article explore les aspects de la cohabitation entre hérissons et chats.
-
-**CE QU'IL FAUT RETENIR :**
-
-* Les chats et les hérissons cohabitent généralement bien et s'ignorent mutuellement
-* Les puces de hérissons ne se transmettent pas aux chats (elles sont spécifiques à leur hôte)
-* Les piquants du hérisson constituent une défense efficace contre les attaques de chat
-* Les hérissons peuvent manger les croquettes de chat sans problème
-* Les hérissons sont nocturnes et les chats plutôt diurnes, ce qui limite les interactions
 
 ## Un hérisson peut-il donner des puces à mon chat ?
 

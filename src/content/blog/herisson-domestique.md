@@ -1,11 +1,43 @@
 ---
-title: "Avoir un hérisson domestique en France : légalité, réalité et alternatives"
+title: "Hérisson domestique en France : légalité et alternatives"
 date: 2026-03-06T12:00:00+01:00
 excerpt: ""
-category: "Guide & Conseil"
+category: "Guides Pratiques"
 author: "Anthony COURTIN"
 description: "Avoir un hérisson chez soi en France est interdit par la loi. Découvrez la réglementation, pourquoi c'est mauvais pour l'animal et comment l'accueillir légalement dans votre jardin."
 image: "/media/generated/herisson-domestique.png"
+tldr:
+  - "Le herisson d'Europe est une espece protegee : le detenir est illegal depuis 1981 (renforce en 2007)"
+  - "Les sanctions vont de 150 euros a 300 000 euros d'amende et jusqu'a 3 ans d'emprisonnement"
+  - "Meme le herisson pygmee d'Afrique est soumis a reglementation (certificat de capacite)"
+  - "Un herisson ne s'adapte PAS a la vie domestique : animal solitaire, nocturne, qui a besoin de parcourir des kilometres chaque nuit"
+  - "L'alternative legale et ethique : creer un jardin refuge ou le herisson vient de lui-meme"
+  - "Acheter un herisson sur internet ou en animalerie alimente un marche illegal et cruel"
+quiz:
+  - question: "VRAI ou FAUX : On peut garder un herisson blesse chez soi le temps qu'il guerisse."
+    answers:
+      - text: "VRAI"
+        correct: false
+        explanation: "Vous pouvez le mettre en securite temporairement (carton avec eau), mais vous devez contacter un centre de soins agree dans les plus brefs delais. Vous n'avez pas le droit de le garder chez vous, meme pour le soigner."
+      - text: "FAUX"
+        correct: true
+        explanation: "Vous pouvez le mettre en securite temporairement (carton avec eau), mais vous devez contacter un centre de soins agree dans les plus brefs delais. Vous n'avez pas le droit de le garder chez vous, meme pour le soigner."
+  - question: "VRAI ou FAUX : Le herisson pygmee d'Afrique est legal en France sans autorisation."
+    answers:
+      - text: "VRAI"
+        correct: false
+        explanation: "Le herisson pygmee d'Afrique necessite un certificat de capacite delivre par la prefecture pour etre detenu legalement. Sans ce document officiel, la detention est illegale."
+      - text: "FAUX"
+        correct: true
+        explanation: "Le herisson pygmee d'Afrique necessite un certificat de capacite delivre par la prefecture pour etre detenu legalement. Sans ce document officiel, la detention est illegale. Ce certificat est tres difficile a obtenir pour un particulier."
+  - question: "VRAI ou FAUX : Nourrir les herissons dans son jardin est interdit."
+    answers:
+      - text: "VRAI"
+        correct: false
+        explanation: "Nourrir les herissons dans votre jardin est tout a fait legal et meme encourage par les associations de protection. L'interdit porte sur la capture, la detention et le transport, pas sur l'aide alimentaire."
+      - text: "FAUX"
+        correct: true
+        explanation: "Nourrir les herissons dans votre jardin est tout a fait legal et meme encourage par les associations de protection. Vous pouvez leur mettre des croquettes pour chat au poulet et de l'eau."
 ---
 
 
@@ -13,15 +45,6 @@ image: "/media/generated/herisson-domestique.png"
 L'idee d'avoir un herisson domestique fait rever beaucoup de monde. Avec leurs petites bouilles et leurs piquants adorables, **les herissons sont devenus des stars des reseaux sociaux**, ce qui donne envie a de nombreuses personnes d'en adopter un.
 
 Mais la realite est bien differente des videos mignonnes sur Instagram ou TikTok. **En France, detenir un herisson d'Europe est strictement interdit par la loi**, et meme les herissons pygmees d'Afrique posent de serieux problemes ethiques et legaux.
-
-**CE QU'IL FAUT RETENIR :**
-
-*   **Le herisson d'Europe est une espece protegee** : le detenir est illegal depuis 1981 (renforce en 2007)
-*   Les sanctions vont de **150 euros a 300 000 euros d'amende** et jusqu'a **3 ans d'emprisonnement**
-*   Meme le herisson pygmee d'Afrique est soumis a reglementation (certificat de capacite)
-*   **Un herisson ne s'adapte PAS a la vie domestique** : animal solitaire, nocturne, qui a besoin de parcourir des kilometres chaque nuit
-*   L'alternative legale et ethique : **creer un jardin refuge** ou le herisson vient de lui-meme
-*   Acheter un herisson sur internet ou en animalerie alimente un marche illegal et cruel
 
 ## La loi est claire : le herisson est une espece protegee
 
@@ -102,29 +125,6 @@ Les videos de herissons "mignons" sur les reseaux sociaux creent une image compl
   <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
   <p class="text-earth-dark/60 text-sm italic">Prompt : Un jardin refuge ideal pour herisson avec un abri en bois, un passage dans la cloture, une gamelle protegee, un tas de feuilles et un point d'eau, ambiance chaleureuse et accueillante</p>
 </div>
-
-## Quiz : Vrai ou faux sur le herisson domestique
-
-<details>
-<summary><strong>1. VRAI ou FAUX : On peut garder un herisson blesse chez soi le temps qu'il guerisse.</strong></summary>
-
-**FAUX.** Vous pouvez le mettre en securite temporairement (carton avec eau), mais vous devez contacter un centre de soins agree dans les plus brefs delais. Vous n'avez pas le droit de le garder chez vous, meme pour le soigner.
-
-</details>
-
-<details>
-<summary><strong>2. VRAI ou FAUX : Le herisson pygmee d'Afrique est legal en France sans autorisation.</strong></summary>
-
-**FAUX.** Le herisson pygmee d'Afrique necessite un **certificat de capacite** delivre par la prefecture pour etre detenu legalement. Sans ce document officiel, la detention est illegale. Ce certificat est tres difficile a obtenir pour un particulier.
-
-</details>
-
-<details>
-<summary><strong>3. VRAI ou FAUX : Nourrir les herissons dans son jardin est interdit.</strong></summary>
-
-**FAUX.** Nourrir les herissons dans votre jardin est tout a fait legal et meme encourage par les associations de protection. Vous pouvez leur mettre des [croquettes pour chat au poulet](/blog/que-mange-un-herisson) et de l'eau. L'interdit porte sur la capture, la detention et le transport, pas sur l'aide alimentaire.
-
-</details>
 
 ## FAQ - Questions frequentes sur le herisson domestique
 

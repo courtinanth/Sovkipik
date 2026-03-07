@@ -1,24 +1,20 @@
 ---
-title: "Reconnaître l'âge et le sexe d'un hérisson (photos)"
+title: "Reconnaître l’âge et le sexe d’un hérisson (photos)"
 date: 2026-01-04T01:10:20+01:00
 excerpt: ""
-category: "Biologie & Espèce"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
-description: "Comment reconnaître l'âge et le sexe d'un hérisson ? Guide illustré avec photos pour identifier mâles, femelles et bébés (choupissons) facilement."
+description: "Comment reconnaître l’âge et le sexe d’un hérisson ? Guide illustré avec photos pour identifier mâles, femelles et bébés (choupissons) facilement."
 image: "/media/generated/age-et-sexe-herisson.png"
+tldr:
+  - "Les organes génitaux du mâle se situent au milieu du ventre, ceux de la femelle près de l’anus"
+  - "Un hérisson adulte pèse au minimum 400 g et possède des piquants légèrement jaunâtres"
+  - "Les bébés hérissons naissent avec des piquants blancs et pèsent environ 20-25 g"
+  - "La taille et l’agressivité ne permettent pas de déterminer le sexe d’un hérisson"
+  - "Un hérisson trop léger en automne aura besoin d’aide pour survivre à l’hiver"
 ---
 
-
-
 **Identifier le sexe est l’âge du hérisson** pour être important quand nous souhaitons savoir rapidement s’il a besoin d’une aide extérieure ou non. ⛑️
-
-**CE QU’IL FAUT RETENIR :**
-
-* Les organes génitaux du mâle se situent au milieu du ventre, ceux de la femelle près de l’anus
-* Un hérisson adulte pèse au minimum 400 g et possède des piquants légèrement jaunâtres
-* Les bébés hérissons naissent avec des piquants blancs et pèsent environ 20-25 g
-* La taille et l’agressivité ne permettent pas de déterminer le sexe d’un hérisson
-* Un hérisson trop léger en automne aura besoin d’aide pour survivre à l’hiver
 
 Par exemple, nous savons qu’un hérisson trop petit durant l’automne, ne passera sûrement pas l’hiver seul, il faudra donc l’aider en contactant un vétérinaire ou une association adéquate. Connaître l’âge de l’animal est aussi utile pour estimer son [espérance de vie](/blog/duree-de-vie-herisson).
 

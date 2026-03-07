@@ -1,24 +1,22 @@
 ---
-title: "Les prédateurs des hérissons : qui sont-ils ? 🦔"
+title: "Les prédateurs des hérissons : qui sont-ils ?"
 date: 2026-01-05T05:10:20+01:00
 excerpt: ""
-category: "Santé & Danger"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Qui sont les prédateurs du hérisson ? Blaireau, grand-duc, renard... et l'homme. Découvrez les menaces naturelles et comment protéger les hérissons."
 image: "/media/generated/predateurs-herisson.png"
+tldr:
+  - "Seuls le blaireau et le grand-duc peuvent ouvrir un hérisson mis en boule"
+  - "Les chats ne menacent que les bébés hérissons, pas les adultes"
+  - "Les chiens peuvent blesser les hérissons par curiosité ou excitation"
+  - "L'homme reste de loin le plus grand prédateur du hérisson (routes, pesticides, clôtures)"
+  - "Quelques gestes simples suffisent pour réduire les dangers dans votre jardin"
 ---
 
 
 
 **Les prédateurs des hérissons ne sont pas nombreux**, ceci est dû à son armure piquante qui lui sert de protection. En Europe, le [hérisson commun (Erinaceus europaeus)](/blog/herisson-europe) fait face à quelques adversaires redoutables, mais son principal ennemi reste l’homme.
-
-**CE QU’IL FAUT RETENIR :**
-
-* Seuls le blaireau et le grand-duc peuvent ouvrir un hérisson mis en boule
-* Les chats ne menacent que les bébés hérissons, pas les adultes
-* Les chiens peuvent blesser les hérissons par curiosité ou excitation
-* L’homme reste de loin le plus grand prédateur du hérisson (routes, pesticides, clôtures)
-* Quelques gestes simples suffisent pour réduire les dangers dans votre jardin
 
 Mais, cela n’effraie pas les animaux comme le grand-duc 🦉 ou le blaireau 🦡 qui arrivent à passer à travers cette défense.
 

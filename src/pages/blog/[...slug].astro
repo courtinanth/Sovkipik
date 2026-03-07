@@ -5,6 +5,8 @@ import Layout from "../../layouts/Layout.astro";
 
 import AuthorBox from "../../components/AuthorBox.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import ArticleTldr from "../../components/ArticleTldr.astro";
+import ArticleQuiz from "../../components/ArticleQuiz.astro";
 
 import { Calendar, Clock, User, Tag } from "lucide-react";
 
@@ -67,13 +69,13 @@ const structuredData = {
 ---
 
 <Layout
-    title={`${entry.data.title} - Sovkipik`}
+    title={entry.data.title}
     description={entry.data.description || entry.data.excerpt}
     structuredData={structuredData}
 >
     <!-- Header Section with soft background -->
     <header
-        class="bg-beige-softer border-b border-earth/10 relative overflow-hidden pb-20"
+        class="bg-beige-softer border-b border-earth/10 relative overflow-hidden pb-4 md:pb-14 lg:pb-20"
     >
         <div
             class="absolute top-0 left-0 w-full h-full opacity-10 pointer-events-none"
@@ -88,52 +90,63 @@ const structuredData = {
             </div>
         </div>
 
-        <div class="container mx-auto px-4 pt-8 relative z-10 max-w-4xl">
-            <Breadcrumbs
-                className="mb-8 justify-center"
-                items={[
-                    { label: "Blog", href: "/blog" },
-                    { label: entry.data.title, href: Astro.url.pathname },
-                ]}
-            />
+        <div class="container mx-auto px-4 pt-4 md:pt-8 relative z-10 max-w-4xl">
+            <!-- Mobile: simplified breadcrumb (no title repeat). Desktop: full breadcrumb -->
+            <div class="md:hidden">
+                <Breadcrumbs
+                    className="mb-3 justify-center"
+                    items={[
+                        { label: "Blog", href: "/blog/" },
+                    ]}
+                />
+            </div>
+            <div class="hidden md:block">
+                <Breadcrumbs
+                    className="mb-8 justify-center"
+                    items={[
+                        { label: "Blog", href: "/blog/" },
+                        { label: entry.data.title, href: Astro.url.pathname },
+                    ]}
+                />
+            </div>
         </div>
 
         <div class="container mx-auto px-4 relative z-10 text-center max-w-4xl">
             <div
-                class="inline-flex items-center gap-2 bg-white/60 backdrop-blur-sm px-3 py-1 rounded-full text-forest text-sm font-bold mb-6 border border-white/50 shadow-sm"
+                class="inline-flex items-center gap-1.5 bg-white/60 backdrop-blur-sm px-2.5 py-1 rounded-full text-forest text-xs md:text-sm font-bold mb-3 md:mb-6 border border-white/50 shadow-sm"
             >
-                <Tag className="w-4 h-4" />
+                <Tag className="w-3.5 h-3.5 md:w-4 md:h-4" />
                 {entry.data.category}
             </div>
 
             <h1
-                class="text-4xl md:text-5xl lg:text-6xl font-bold text-forest-dark mb-6 leading-tight"
+                class="text-2xl md:text-5xl lg:text-6xl font-bold text-forest-dark mb-3 md:mb-6 leading-tight"
             >
                 {entry.data.title}
             </h1>
 
             <div
-                class="flex flex-wrap justify-center gap-6 text-earth-dark text-sm md:text-base font-medium mb-12"
+                class="flex flex-wrap justify-center gap-2 md:gap-6 text-earth-dark text-[11px] md:text-base font-medium mb-2 md:mb-12"
             >
-                <div class="flex items-center gap-2">
-                    <User className="w-4 h-4" />
+                <div class="flex items-center gap-1 md:gap-2">
+                    <User className="w-3 h-3 md:w-4 md:h-4" />
                     {entry.data.author}
                 </div>
-                <div class="flex items-center gap-2">
-                    <Calendar className="w-4 h-4" />
+                <div class="flex items-center gap-1 md:gap-2">
+                    <Calendar className="w-3 h-3 md:w-4 md:h-4" />
                     {dateFormat.format(entry.data.date)}
                 </div>
-                <div class="flex items-center gap-2">
-                    <Clock className="w-4 h-4" />
+                <div class="flex items-center gap-1 md:gap-2">
+                    <Clock className="w-3 h-3 md:w-4 md:h-4" />
                     {readingTime} min de lecture
                 </div>
             </div>
         </div>
     </header>
 
-    <div class="container mx-auto px-4 py-12 grid lg:grid-cols-12 gap-8 mt-24">
+    <div class="container mx-auto px-3 md:px-4 py-4 md:py-12 grid lg:grid-cols-12 gap-4 md:gap-8 -mt-2 md:mt-0 lg:mt-6 overflow-hidden">
         <!-- Left Sidebar (TOC + Share) -->
-        <div class="hidden lg:block lg:col-span-2">
+        <div class="hidden lg:block lg:col-span-2 min-w-0">
             <div class="sticky top-32 flex flex-col gap-8">
                 {
                     headings.filter((h) => h.depth === 2).length > 0 && (
@@ -195,21 +208,25 @@ const structuredData = {
         </div>
 
         <!-- Main Content -->
-        <main class="lg:col-span-7">
+        <main class="lg:col-span-7 min-w-0">
             <div
-                class="bg-white p-8 md:p-12 rounded-3xl shadow-sm border border-beige-dark/10"
+                class="bg-white p-4 md:p-8 lg:p-12 rounded-xl md:rounded-3xl shadow-sm border border-beige-dark/10"
             >
+                {entry.data.tldr && <ArticleTldr points={entry.data.tldr} />}
+                {entry.data.quiz && <ArticleQuiz questions={entry.data.quiz} />}
+
                 <article
-                    class="prose prose-lg md:prose-xl prose-forest max-w-none
+                    class="prose prose-sm md:prose-lg lg:prose-xl prose-forest max-w-none
               prose-headings:font-bold prose-headings:text-forest-dark prose-headings:scroll-mt-24
-              prose-p:text-earth-dark prose-p:leading-relaxed prose-p:text-base md:prose-p:text-lg
+              prose-h2:text-xl prose-h2:md:text-2xl prose-h2:lg:text-3xl prose-h2:mt-8 prose-h2:md:mt-10 prose-h2:mb-3 prose-h2:md:mb-4
+              prose-h3:text-lg prose-h3:md:text-xl prose-h3:lg:text-2xl
+              prose-p:text-earth-dark prose-p:leading-relaxed prose-p:text-[15px] md:prose-p:text-base lg:prose-p:text-lg
               prose-a:text-highlight prose-a:no-underline hover:prose-a:underline
-              prose-img:rounded-3xl prose-img:shadow-lg prose-img:mx-auto prose-img:my-10
-              prose-blockquote:border-l-4 prose-blockquote:border-highlight prose-blockquote:bg-beige-softer prose-blockquote:mx-0 prose-blockquote:py-6 prose-blockquote:px-8 prose-blockquote:text-forest prose-blockquote:not-italic prose-blockquote:rounded-r-2xl prose-blockquote:shadow-sm prose-blockquote:font-medium
-              prose-li:marker:text-highlight
-              prose-table:w-full prose-table:border-collapse prose-table:my-8 prose-table:rounded-xl prose-table:overflow-hidden prose-table:shadow-sm
-              prose-th:bg-forest/5 prose-th:p-4 prose-th:text-forest-dark prose-th:font-bold prose-th:text-left
-              prose-td:p-4 prose-td:border-b prose-td:border-earth/10 prose-td:text-earth-dark"
+              prose-img:rounded-xl md:prose-img:rounded-3xl prose-img:shadow-lg prose-img:mx-auto prose-img:my-4 md:prose-img:my-10
+              prose-blockquote:border-l-4 prose-blockquote:border-highlight prose-blockquote:bg-beige-softer prose-blockquote:mx-0 prose-blockquote:py-3 prose-blockquote:px-3 md:prose-blockquote:py-6 md:prose-blockquote:px-8 prose-blockquote:text-forest prose-blockquote:not-italic prose-blockquote:rounded-r-xl md:prose-blockquote:rounded-r-2xl prose-blockquote:shadow-sm prose-blockquote:font-medium
+              prose-li:marker:text-highlight prose-li:text-[15px] md:prose-li:text-base lg:prose-li:text-lg
+              prose-th:bg-forest/5 prose-th:p-2 md:prose-th:p-4 prose-th:text-forest-dark prose-th:font-bold prose-th:text-left
+              prose-td:p-2 md:prose-td:p-4 prose-td:border-b prose-td:border-earth/10 prose-td:text-earth-dark"
                 >
                     <Content />
                 </article>
@@ -218,41 +235,43 @@ const structuredData = {
             </div>
 
             <!-- Related Articles Section -->
-            <div class="mt-16 pt-12 border-t border-earth/20">
+            <div class="mt-8 md:mt-16 pt-6 md:pt-12 border-t border-earth/20">
                 <h3
-                    class="text-2xl font-bold text-forest mb-8 flex items-center gap-2"
+                    class="text-xl md:text-2xl font-bold text-forest mb-4 md:mb-8 flex items-center gap-2"
                 >
-                    <span class="w-8 h-1 bg-highlight rounded-full"></span>
+                    <span class="w-6 md:w-8 h-1 bg-highlight rounded-full"></span>
                     À lire aussi
                 </h3>
 
-                <div class="grid md:grid-cols-3 gap-6">
+                <div class="flex gap-3 overflow-x-auto pb-2 snap-x snap-mandatory -mx-1 px-1 md:mx-0 md:px-0 md:grid md:grid-cols-3 md:gap-6 md:overflow-visible md:pb-0">
                     {
                         allPosts
-                            .filter((p) => p.slug !== entry.slug) // Exclude current
+                            .filter((p) => p.slug !== entry.slug)
                             .sort(
                                 (a, b) =>
                                     b.data.date.valueOf() -
                                     a.data.date.valueOf(),
-                            ) // Sort by date
-                            .slice(0, 3) // Take top 3
+                            )
+                            .slice(0, 3)
                             .map((post) => (
-                                <a href={`/blog/${post.slug}`} class="group">
-                                    <article class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-forest/5 h-full flex flex-col">
-                                        <div class="h-40 overflow-hidden relative">
+                                <a href={`/blog/${post.slug}/`} class="group snap-start shrink-0 w-[70vw] md:w-auto">
+                                    <article class="bg-white rounded-xl md:rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-forest/5 h-full flex flex-col">
+                                        <div class="h-32 md:h-40 overflow-hidden relative bg-gradient-to-br from-forest/10 to-forest/20">
+                                            <div class="absolute inset-0 flex items-center justify-center text-4xl z-0">🦔</div>
                                             <div class="absolute inset-0 bg-forest-dark/10 group-hover:bg-forest-dark/0 transition-colors z-10" />
                                             <img
                                                 src={post.data.image}
                                                 alt={post.data.title}
-                                                class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
+                                                class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500 relative z-[5]"
+                                                loading="lazy"
                                             />
                                         </div>
-                                        <div class="p-5 flex flex-col flex-grow">
-                                            <h4 class="font-bold text-forest-dark mb-2 group-hover:text-highlight transition-colors line-clamp-2 text-sm">
+                                        <div class="p-3 md:p-5 flex flex-col flex-grow">
+                                            <h4 class="font-bold text-forest-dark mb-1 md:mb-2 group-hover:text-highlight transition-colors line-clamp-2 text-sm">
                                                 {post.data.title}
                                             </h4>
-                                            <span class="text-xs text-earth font-bold mt-auto pt-4 flex items-center gap-1 opacity-80 group-hover:opacity-100">
-                                                Lire l'article →
+                                            <span class="text-xs text-earth font-bold mt-auto pt-2 md:pt-4 flex items-center gap-1 opacity-80 group-hover:opacity-100">
+                                                Lire →
                                             </span>
                                         </div>
                                     </article>
@@ -264,10 +283,11 @@ const structuredData = {
         </main>
 
         <!-- Right Sidebar (Recent Posts) -->
-        <aside class="lg:col-span-3">
-            <div class="sticky top-32 space-y-8">
+        <aside class="lg:col-span-3 min-w-0">
+            <div class="lg:sticky lg:top-32 space-y-6 md:space-y-8">
+                <!-- Recent posts: hidden on mobile, visible on lg -->
                 <div
-                    class="bg-white p-6 rounded-2xl shadow-sm border border-beige-dark/10"
+                    class="hidden lg:block bg-white p-6 rounded-2xl shadow-sm border border-beige-dark/10"
                 >
                     <h3
                         class="text-xl font-bold text-forest mb-6 pb-2 border-b border-earth/10"
@@ -279,7 +299,7 @@ const structuredData = {
                             recentPosts.map((post) => (
                                 <li>
                                     <a
-                                        href={`/blog/${post.slug}`}
+                                        href={`/blog/${post.slug}/`}
                                         class="group group-hover:text-forest transition-colors"
                                     >
                                         <span class="block text-xs text-earth/70 mb-1">
@@ -295,7 +315,7 @@ const structuredData = {
                     </ul>
                     <div class="mt-8 pt-6 border-t border-earth/10">
                         <a
-                            href="/blog"
+                            href="/blog/"
                             class="text-sm font-bold text-highlight hover:underline flex items-center gap-1"
                         >
                             Voir tous les articles <span>→</span>
@@ -305,22 +325,22 @@ const structuredData = {
 
                 <!-- Promo Box -->
                 <div
-                    class="bg-forest text-white p-6 rounded-2xl shadow-lg relative overflow-hidden group"
+                    class="bg-forest text-white p-5 md:p-6 rounded-xl md:rounded-2xl shadow-lg relative overflow-hidden group"
                 >
                     <div
                         class="absolute top-0 right-0 w-32 h-32 bg-white/10 rounded-full -translate-y-10 translate-x-10 blur-xl"
                     >
                     </div>
-                    <h3 class="text-xl font-bold mb-4 relative z-10">
+                    <h3 class="text-lg md:text-xl font-bold mb-2 md:mb-4 relative z-10">
                         Urgence Hérisson ?
                     </h3>
-                    <p class="text-white/80 text-sm mb-6 relative z-10">
+                    <p class="text-white/80 text-sm mb-4 md:mb-6 relative z-10">
                         Vous avez trouvé un animal en détresse ? Consultez notre
                         guide d'urgence.
                     </p>
                     <a
-                        href="/sauver-les-herissons"
-                        class="block w-full text-center bg-white text-forest font-bold py-3 rounded-lg hover:bg-highlight hover:text-white transition-all shadow-md relative z-10"
+                        href="/sauver-les-herissons/"
+                        class="block w-full text-center bg-white text-forest font-bold py-2.5 md:py-3 rounded-lg hover:bg-highlight hover:text-white transition-all shadow-md relative z-10 text-sm md:text-base"
                     >
                         Voir le guide 🚑
                     </a>

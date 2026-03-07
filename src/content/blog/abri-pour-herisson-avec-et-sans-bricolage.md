@@ -6,6 +6,12 @@ category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "Découvrez comment construire un abri pour hérisson ou en installer un sans bricolage. Plans PDF, astuces et conseils pour accueillir les hérissons dans votre jardin."
 image: "/media/generated/abri-pour-herisson-avec-et-sans-bricolage.png"
+tldr:
+  - "Quand installer un abri : idéalement en automne (septembre-novembre), avant l'hibernation"
+  - "Dimensions clés : entrée 12-13 cm, intérieur ~40x30x25 cm minimum"
+  - "3 méthodes simples sans bricolage : planche, parpaings, tas de bois"
+  - "Plans PDF téléchargeables pour construire votre cabane hérisson sur mesure"
+  - "Cabane hérisson anti chat : l'entrée de 12-13 cm empêche les chats d'entrer"
 ---
 
 **Apprenez tout ce qu'il faut savoir pour fabriquer un abri pour hérisson** qui saura confortablement les accueillir.
@@ -14,18 +20,7 @@ Que vous soyez bricoleur ou un amoureux de la nature simplement désireux d'aide
 
 Au menu du jour, des plans, des vidéos et des astuces pour en savoir plus sur la création d'une **cabane pour hérisson**, aussi appelée **maison pour hérisson** ou **cabane hérisson**.
 
-**Ce qu'il faut retenir de cet article :**
-
-*   **Quand installer un abri** : idéalement en automne (septembre-novembre), avant l'hibernation
-*   **Dimensions clés** : entrée 12-13 cm, intérieur ~40x30x25 cm minimum
-*   **3 méthodes simples sans bricolage** : planche, parpaings, tas de bois
-*   **Plans PDF téléchargeables** pour construire votre **cabane hérisson** sur mesure
-*   **Cabane hérisson anti chat** : l'entrée de 12-13 cm empêche les chats d'entrer
-
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Vue d'ensemble de 3 types d'abris pour hérisson : parpaings, planche contre un mur, et cabane en bois bricolée, dans un jardin naturel</p>
-</div>
+![Vue d'ensemble de 3 types d'abris pour hérisson, parpaings, planche contre un mur, et cabane en bois bricolée, dans un jardin naturel](/media/3-types-abris-herisson.webp)
 
 ## Choisir votre abri selon votre niveau de bricolage
 
@@ -248,10 +243,7 @@ Comme nous vous le disons juste au-dessus, si vous êtes bricoleur, **votre imag
 
 N'hésitez pas à nous envoyer vos cabanes à l'adresse mail [photo@sovkipik.com](mailto:photo@sovkipik.com) dans le but de l'afficher dans les exemples de cabanes pour montrer votre superbe réalisation aux autres utilisateurs.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Vue éclatée d'une cabane en bois pour hérisson montrant les différentes pièces (plancher, murs, sas d'entrée, toit amovible) avec les dimensions annotées</p>
-</div>
+![Vue éclatée d'une cabane en bois pour hérisson montrant les différentes pièces avec les dimensions annotées](/media/cabane-herisson-vue-eclatee.webp)
 
 ### Comment construire une cabane hérisson anti chat ?
 
@@ -323,10 +315,7 @@ Si vous trouvez des [crottes de hérisson](/blog/crotte-de-herisson), cela veut 
 
 Photo Facebook. Crédit :People's Trust for Endangered Species
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Montage de 4 photos d'abris pour hérisson réalisés par des particuliers : parpaings, bois brut, caisse recyclée, et abri du commerce, tous dans des jardins différents</p>
-</div>
+![Montage de 4 photos d'abris pour hérisson réalisés par des particuliers dans des jardins différents](/media/montage-abris-herisson-particuliers.webp)
 
 ## FAQ - Questions fréquentes sur les abris pour hérisson
 

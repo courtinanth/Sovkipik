@@ -6,21 +6,17 @@ category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "Que mange un hérisson ? Guide complet : insectes, croquettes (poulet), fruits. Attention aux aliments interdits (lait, pain) qui sont mortels !"
 image: "/media/generated/que-mange-un-herisson.png"
+tldr:
+  - "Les hérissons mangent principalement des insectes, vers, limaces (60-90g/nuit)"
+  - "Croquettes pour hérisson ou chat au poulet : acceptables en appoint"
+  - "Pain et lait sont MORTELS pour les hérissons (dysenterie, intolérance lactose)"
+  - "Nourrissez surtout en automne (avant hibernation) et au printemps"
+  - "Un jardin sans pesticides vaut mieux qu'une gamelle de croquettes"
 ---
 
 
 
 Le hérisson est un petit mammifère nocturne qui a su conquérir nos cœurs. Découvrez son alimentation et comment participer à sa protection en lui offrant une nourriture adaptée.
-
-Pour résumer, voici **les points essentiels à retenir sur l'alimentation des hérissons et leur protection** :
-
-*   Les hérissons mangent principalement des insectes, vers, limaces (60-90g/nuit)
-*   Croquettes pour hérisson ou chat au poulet : acceptables en appoint
-*   Pain et lait : **MORTELS** (dysenterie, intolérance lactose)
-*   Vers de farine : causent la MBD (maladie osseuse mortelle)
-*   Nourrissez en automne (avant hibernation) et au printemps
-*   Eau fraîche toujours disponible, jamais de lait
-*   Un jardin sans pesticides vaut mieux qu'une gamelle
 
 Sommaire :
 
@@ -181,10 +177,7 @@ Les **croquettes chat pour hérisson** sont une solution de dépannage acceptabl
 
 **Astuce pratique :** Vous pouvez légèrement humidifier les croquettes avec de l'eau tiède pour faciliter la mastication, surtout pour les hérissons affaiblis ou les jeunes.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo d'une gamelle de croquettes pour chat disposée dans un abri anti-chat pour hérisson, avec un bol d'eau à côté</p>
-</div>
+![Photo d'une gamelle de croquettes pour chat disposée dans un abri anti-chat pour hérisson, avec un bol d'eau à côté](/media/gamelle-croquettes-abri-herisson.webp)
 
 **Le saviez vous ?**
 

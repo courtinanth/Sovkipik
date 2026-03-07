@@ -1,22 +1,20 @@
 ---
-title: "Les différentes associations pour les hérissons - Sovkipik"
+title: "Associations pour les hérissons"
 date: 2026-01-25T11:30:12+02:00
 excerpt: ""
-category: "Santé & Danger"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Liste complète des associations et centres de soins pour hérissons en France, Suisse et Belgique. Contacts d'urgence pour sauver un hérisson blessé."
 image: "/media/generated/associations-herissons.png"
+tldr:
+  - "Plusieurs associations en France, Suisse et Belgique accueillent les hérissons blessés ou malades"
+  - "Les groupes Facebook permettent d'obtenir des conseils rapides en cas d'urgence"
+  - "Des centres de soins spécialisés assurent la prise en charge vétérinaire"
+  - "Le hérisson est une espèce protégée par la loi : il est interdit de le garder chez soi"
+  - "Savoir reconnaître un hérisson malade permet d'agir plus vite"
 ---
 
 Des bons contacts, pour des soins rapides ! Si vous avez [trouvé un hérisson en difficulté](/blog/herisson-trouve-que-faire), il est essentiel de contacter rapidement une structure adaptée. Voici notre annuaire complet des associations et groupes d'entraide.
-
-**CE QU'IL FAUT RETENIR :**
-
-* Plusieurs associations en France, Suisse et Belgique accueillent les hérissons blessés ou malades
-* Les groupes Facebook permettent d'obtenir des conseils rapides en cas d'urgence
-* En parallèle, des [centres de soins spécialisés](/blog/centres-soins-herissons) assurent la prise en charge vétérinaire
-* Le hérisson est une [espèce protégée par la loi](/blog/herisson-protection-loi) : il est interdit de le garder chez soi
-* Savoir [reconnaître un hérisson malade](/blog/detecter-un-herisson-malade) permet d'agir plus vite
 
 | Pays | Nombre d'associations listées | Spécificité |
 |------|-------------------------------|-------------|

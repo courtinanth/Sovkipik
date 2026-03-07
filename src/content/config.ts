@@ -10,6 +10,15 @@ const blogCollection = defineCollection({
         tags: z.array(z.string()).optional(),
         category: z.string().default('Général'),
         description: z.string().optional(),
+        tldr: z.array(z.string()).optional(),
+        quiz: z.array(z.object({
+            question: z.string(),
+            answers: z.array(z.object({
+                text: z.string(),
+                correct: z.boolean(),
+                explanation: z.string(),
+            })),
+        })).optional(),
     }),
 });
 

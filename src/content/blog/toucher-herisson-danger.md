@@ -1,24 +1,47 @@
 ---
-title: "Peut-on toucher un hérisson ? Risques, maladies et précautions"
+title: "Peut-on toucher un hérisson ? Risques et précautions"
 date: 2026-03-06T11:30:00+01:00
 excerpt: ""
-category: "Santé & Danger"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Toucher un hérisson peut transmettre des maladies comme la teigne ou la salmonellose. Découvrez les vrais risques, les précautions et la réglementation."
 image: "/media/generated/toucher-herisson-danger.png"
+tldr:
+  - "Le hérisson peut transmettre des maladies à l'homme : teigne, salmonellose, leptospirose"
+  - "Les parasites du hérisson (tiques, puces) peuvent exceptionnellement piquer l'homme"
+  - "Portez toujours des gants épais si vous devez manipuler un hérisson"
+  - "Le hérisson est une espèce protégée : le ramasser sans raison est interdit par la loi"
+  - "Ne touchez un hérisson que dans les situations d'urgence (blessure, danger immédiat, hérisson actif en journée)"
+quiz:
+  - question: "Les puces de hérisson peuvent infester votre chien ou votre chat. Vrai ou faux ?"
+    answers:
+      - text: "Vrai"
+        correct: false
+        explanation: "Les puces du hérisson (Archaeopsylla erinacei) sont spécifiques au hérisson et ne peuvent pas survivre sur les chiens, les chats ou les humains."
+      - text: "Faux"
+        correct: true
+        explanation: "Les puces du hérisson (Archaeopsylla erinacei) sont spécifiques au hérisson et ne peuvent pas survivre sur les chiens, les chats ou les humains."
+  - question: "La teigne du hérisson peut se transmettre à l'homme par simple contact. Vrai ou faux ?"
+    answers:
+      - text: "Vrai"
+        correct: true
+        explanation: "Le champignon Trichophyton erinacei vit sur la peau et les piquants. Un simple contact à mains nues peut provoquer une infection cutanée. C'est pourquoi il faut toujours porter des gants."
+      - text: "Faux"
+        correct: false
+        explanation: "Le champignon Trichophyton erinacei vit sur la peau et les piquants du hérisson et peut se transmettre par simple contact à mains nues."
+  - question: "On a le droit de garder un hérisson chez soi en France. Vrai ou faux ?"
+    answers:
+      - text: "Vrai"
+        correct: false
+        explanation: "Le hérisson d'Europe est protégé par la loi. Le capturer ou le détenir est passible de 3 ans d'emprisonnement et 150 000 euros d'amende."
+      - text: "Faux"
+        correct: true
+        explanation: "Le hérisson d'Europe est protégé par la loi. Le capturer ou le détenir est passible de 3 ans d'emprisonnement et 150 000 euros d'amende."
 ---
 
 **Peut-on toucher un hérisson sans danger ?** C'est une question que se posent tous ceux qui croisent un hérisson dans leur jardin. Si les piquants sont la première barrière évidente, les vrais risques sont ailleurs : maladies, parasites et réglementation.
 
 Le hérisson est un animal sauvage protégé par la loi, et le manipuler n'est ni anodin ni sans conséquence. Toutefois, dans certaines situations d'urgence, toucher un hérisson peut etre nécessaire pour lui sauver la vie.
-
-**CE QU'IL FAUT RETENIR :**
-
-* Le hérisson peut transmettre des maladies à l'homme : **teigne, salmonellose, leptospirose**
-* Les parasites du hérisson (tiques, puces) peuvent exceptionnellement piquer l'homme
-* **Portez toujours des gants épais** si vous devez manipuler un hérisson
-* Le hérisson est une **espèce protégée** : le ramasser sans raison est interdit par la loi
-* Ne touchez un hérisson que dans les **situations d'urgence** (blessure, danger immédiat, hérisson actif en journée)
 
 ## Les maladies transmissibles par le hérisson
 
@@ -135,26 +158,6 @@ Pour en savoir plus, consultez notre article sur [la protection du hérisson par
   <p class="text-earth font-bold mb-2">IMAGE A AJOUTER</p>
   <p class="text-earth-dark/60 text-sm italic">Prompt : Enfant accroupi observant un hérisson depuis une distance respectueuse dans un jardin au crépuscule, sans le toucher, avec un air émerveillé</p>
 </div>
-
-## Quiz : Vrai ou faux sur les dangers du hérisson
-
-<details>
-<summary><strong>1. Les puces de hérisson peuvent infester votre chien ou votre chat. Vrai ou faux ?</strong></summary>
-
-**FAUX.** Les puces du hérisson (*Archaeopsylla erinacei*) sont spécifiques au hérisson et ne peuvent pas survivre sur les chiens, les chats ou les humains.
-</details>
-
-<details>
-<summary><strong>2. La teigne du hérisson peut se transmettre à l'homme par simple contact. Vrai ou faux ?</strong></summary>
-
-**VRAI.** Le champignon *Trichophyton erinacei* vit sur la peau et les piquants. Un simple contact à mains nues peut provoquer une infection cutanée. C'est pourquoi il faut toujours porter des gants.
-</details>
-
-<details>
-<summary><strong>3. On a le droit de garder un hérisson chez soi en France. Vrai ou faux ?</strong></summary>
-
-**FAUX.** Le hérisson d'Europe est protégé par la loi. Le capturer ou le détenir est passible de 3 ans d'emprisonnement et 150 000 euros d'amende.
-</details>
 
 ## FAQ sur les dangers du hérisson
 

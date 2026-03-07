@@ -2,23 +2,21 @@
 title: "Les différentes hérissons à travers le monde"
 date: 2026-01-02T02:30:20+01:00
 excerpt: ""
-category: "Biologie & Espèce"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Découvrez les différentes espèces de hérissons dans le monde : Europe, Afrique, Asie. Photos et description des familles Erinaceidae et Tenrecinae."
 image: "/media/generated/les-differentes-herissons-a-travers-le-monde.png"
+tldr:
+  - "Il existe 2 grandes familles de hérissons : les Erinaceidae et les Tenrecinae"
+  - "L'espèce la plus répandue en Europe est l'Erinaceus europaeus (hérisson commun)"
+  - "Les hérissons sont présents en Europe, Afrique et Asie, mais absents d'Amérique et d'Océanie (sauf introduction)"
+  - "Attention à ne pas confondre hérissons et porcs-épics, qui sont des animaux très différents"
+  - "Certains individus naissent sans pigmentation : ce sont les hérissons albinos"
 ---
 
 
 
 Aujourd’hui, nous allons voir les différents hérissons que nous pouvons trouver à travers le monde, pour pouvoir les identifier plus facilement lorsque vous en trouverez un en difficulté durant vos voyages.
-
-**CE QU’IL FAUT RETENIR :**
-
-* Il existe 2 grandes familles de hérissons : les Erinaceidae et les Tenrecinae
-* L’espece la plus repandue en Europe est l’Erinaceus europaeus (hérisson commun)
-* Les hérissons sont presents en Europe, Afrique et Asie, mais absents d’Amerique et d’Oceanie (sauf introduction)
-* Attention a ne pas confondre hérissons et [porcs-epics, qui sont des animaux tres differents](/blog/herisson-porc-epic-differences)
-* Certains individus naissent sans pigmentation : ce sont les [hérissons albinos](/blog/herisson-albinos)
 
 Nous allons commencer par voir les différentes espèces de hérissons qui existent, pour ensuite voir où celles-ci se situent à travers le monde.
 

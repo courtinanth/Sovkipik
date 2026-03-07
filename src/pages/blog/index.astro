@@ -79,7 +79,7 @@ const posts = sortedPosts;
             <div id="posts-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
                 {
                     posts.map((post) => (
-                        <a href={`/blog/${post.slug}`} class="group h-full post-item" data-category={post.data.category}>
+                        <a href={`/blog/${post.slug}/`} class="group h-full post-item" data-category={post.data.category}>
                             <article class="bg-white rounded-[2rem] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 h-full flex flex-col border border-forest/5 relative">
                                 <!-- Image Container -->
                                 <div class="relative h-64 overflow-hidden">
@@ -116,7 +116,7 @@ const posts = sortedPosts;
                                     </h2>
                                     
                                     <p class="text-forest-dark/60 text-sm line-clamp-3 mb-6 flex-grow leading-relaxed">
-                                        {post.data.excerpt || "Découvrez nos conseils pour aider les hérissons au quotidien..."}
+                                        {post.data.excerpt || post.data.description || "Découvrez nos conseils pour aider les hérissons au quotidien..."}
                                     </p>
                                     
                                     <div class="flex items-center justify-between pt-6 border-t border-forest/5">

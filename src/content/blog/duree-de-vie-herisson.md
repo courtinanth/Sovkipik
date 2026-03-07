@@ -1,25 +1,48 @@
 ---
-title: "Combien de temps vit un hérisson ? Espérance de vie et facteurs de survie"
+title: "Combien de temps vit un hérisson ? Espérance de vie"
 date: 2026-03-06T10:30:00+01:00
 excerpt: ""
-category: "Biologie & Comportement"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Un hérisson sauvage vit en moyenne 2 à 3 ans, mais peut atteindre 10 ans. Découvrez les facteurs qui influencent sa longévité et comment l'aider à vivre plus longtemps."
 image: "/media/generated/duree-de-vie-herisson.png"
+tldr:
+  - "La durée de vie d'un hérisson sauvage est de 2 à 3 ans en moyenne"
+  - "En captivité (centres de soins), un hérisson peut vivre jusqu'à 8-10 ans"
+  - "70% des jeunes hérissons meurent avant leur premier anniversaire"
+  - "La première cause de mortalité est la route (26% des décès)"
+  - "Le record de longévité observé est de 16 ans en captivité"
+  - "La population européenne a chuté de 70% en 20 ans dans certaines régions"
+quiz:
+  - question: "Quelle est l'espérance de vie moyenne d'un hérisson sauvage ?"
+    answers:
+      - text: "2 à 3 ans"
+        correct: true
+        explanation: "Bien que le hérisson puisse théoriquement vivre jusqu'à 10 ans, les nombreuses menaces (route, pesticides, prédateurs) réduisent drastiquement cette durée."
+      - text: "8 à 10 ans"
+        correct: false
+        explanation: "8 à 10 ans correspond à l'espérance de vie en captivité. En milieu sauvage, la moyenne est de 2 à 3 ans."
+  - question: "Quel pourcentage de jeunes hérissons meurt avant l'âge d'un an ?"
+    answers:
+      - text: "Environ 30%"
+        correct: false
+        explanation: "Le taux de mortalité juvénile est bien plus élevé : environ 70% des jeunes hérissons ne survivent pas à leur première année."
+      - text: "Environ 70%"
+        correct: true
+        explanation: "La première année est la plus meurtrière, en raison de l'inexpérience et de la difficulté à accumuler assez de graisse pour la première hibernation."
+  - question: "Quelle est la première cause de mortalité chez les hérissons ?"
+    answers:
+      - text: "Les prédateurs naturels"
+        correct: false
+        explanation: "Les prédateurs naturels ne représentent que 12% des décès. La circulation routière est la première cause avec 26% des décès."
+      - text: "La circulation routière (26%)"
+        correct: true
+        explanation: "Les hérissons se mettent en boule au lieu de fuir, une stratégie fatale face à une voiture."
 ---
 
 **Combien de temps vit un hérisson ?** La réponse est malheureusement cruelle : **la durée de vie d'un hérisson sauvage dépasse rarement 2 à 3 ans**, alors que son potentiel biologique lui permettrait de vivre jusqu'à 10 ans.
 
 Entre les routes, les pesticides, les prédateurs et la destruction de son habitat, le hérisson d'Europe (*Erinaceus europaeus*) fait face à des menaces considérables. Découvrez **l'espérance de vie du hérisson**, les facteurs qui l'influencent et comment vous pouvez agir.
-
-**CE QU'IL FAUT RETENIR**
-
-- La **durée de vie d'un hérisson** sauvage est de **2 à 3 ans** en moyenne
-- En captivité (centres de soins), un hérisson peut vivre **jusqu'à 8-10 ans**
-- **70% des jeunes hérissons** meurent avant leur premier anniversaire
-- La **première cause de mortalité** est la route (26% des décès)
-- Le record de longévité observé est de **16 ans** en captivité
-- La population européenne a chuté de **70% en 20 ans** dans certaines régions
 
 ## Quelle est l'espérance de vie d'un hérisson ?
 
@@ -116,23 +139,6 @@ Les tiques, puces et vers internes affaiblissent les hérissons tout au long de 
 - **Nourrissez en automne** pour aider les jeunes à atteindre 600g avant l'hiver
 
 Pour aller plus loin, découvrez nos [9 gestes pour sauver les hérissons](/blog/sauver-les-herissons).
-
-## Quiz : Testez vos connaissances
-
-<details>
-<summary><strong>1. Quelle est l'espérance de vie moyenne d'un hérisson sauvage ?</strong></summary>
-<p><strong>Réponse : 2 à 3 ans.</strong> Bien que le hérisson puisse théoriquement vivre jusqu'à 10 ans, les nombreuses menaces (route, pesticides, prédateurs) réduisent drastiquement cette durée.</p>
-</details>
-
-<details>
-<summary><strong>2. Quel pourcentage de jeunes hérissons meurt avant l'âge d'un an ?</strong></summary>
-<p><strong>Réponse : environ 70%.</strong> La première année est la plus meurtrière, en raison de l'inexpérience et de la difficulté à accumuler assez de graisse pour la première hibernation.</p>
-</details>
-
-<details>
-<summary><strong>3. Quelle est la première cause de mortalité chez les hérissons ?</strong></summary>
-<p><strong>Réponse : la circulation routière (26%).</strong> Les hérissons se mettent en boule au lieu de fuir, une stratégie fatale face à une voiture.</p>
-</details>
 
 ## Questions fréquentes
 

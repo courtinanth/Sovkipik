@@ -1,22 +1,20 @@
 ---
-title: "Centres de soins pour les hérissons [France-Suisse-Belgique]"
+title: "Centres de soins pour hérissons en France et Europe"
 date: 2026-01-02T11:50:20+01:00
 excerpt: ""
-category: "Santé & Danger"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Annuaire des centres de soins pour hérissons en France (par région), Belgique et Suisse. Qui contacter en urgence pour un hérisson blessé ou malade ?"
 image: "/media/generated/centres-soins-herissons.png"
+tldr:
+  - "Les centres de soins sont répartis sur toute la France, en Belgique et en Suisse"
+  - "Appelez toujours avant de vous déplacer pour confirmer la disponibilité du centre"
+  - "En attendant, gardez le hérisson au chaud dans un carton avec un tissu"
+  - "Les associations dédiées aux hérissons peuvent aussi vous orienter rapidement"
+  - "Le hérisson est protégé par la loi : seuls les centres agréés peuvent le détenir"
 ---
 
 Vous avez [trouvé un hérisson mal en point](/blog/herisson-trouve-que-faire) et vous souhaitez le faire soigner au plus vite ?
-
-**CE QU'IL FAUT RETENIR :**
-
-* Les centres de soins sont répartis sur toute la France, en Belgique et en Suisse
-* Appelez toujours avant de vous déplacer pour confirmer la disponibilité du centre
-* En attendant, gardez le hérisson au chaud dans un carton avec un tissu
-* Les [associations dédiées aux hérissons](/blog/associations-herissons) peuvent aussi vous orienter rapidement
-* Le hérisson est [protégé par la loi](/blog/herisson-protection-loi) : seuls les centres agréés peuvent le détenir
 
 Nous avons listé pour vous, **le plus de centres de soins qui prennent en charge les hérissons.** Nous avons fait une liste pour les centres situés en France, Suisse et Belgique. Avant de contacter un centre, pensez à [vérifier les signes d'un hérisson malade](/blog/detecter-un-herisson-malade) pour mieux décrire la situation au soignant.
 

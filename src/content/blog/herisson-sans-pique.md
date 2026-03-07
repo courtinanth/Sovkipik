@@ -1,11 +1,17 @@
 ---
-title: "Hérisson sans piquants : pourquoi perd-il ses piques et faut-il s'inquiéter ?"
+title: "Hérisson sans piquants : causes et quand s'inquiéter"
 date: 2026-01-03T06:30:20+01:00
 excerpt: ""
-category: "Biologie & Espèce"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Un hérisson sans piques ? Découvrez les causes (maladie, stress, parasites, âge) et quand s'inquiéter. Photos de hérissons nus et bébés hérissons sans piquant."
 image: "/media/generated/herisson-sans-pique.png"
+tldr:
+  - "La perte de piquants (alopécie) peut être causée par les acariens, la teigne, le stress, des carences alimentaires ou un problème génétique"
+  - "Le bébé hérisson naît naturellement sans piquants, ils apparaissent quelques heures après la naissance"
+  - "Un hérisson adulte sans piquants ne peut pas survivre dans la nature et doit être confié à un centre de soins"
+  - "Un hérisson adulte possède environ 5 000 à 7 000 piquants, renouvelés tous les 12 à 18 mois"
+  - "La gale causée par les acariens est la cause la plus fréquente de perte de piquants"
 ---
 
 
@@ -36,10 +42,7 @@ Hérisson sans épine. Source : RTBF.be
 
 Hérisson en boule sans pique. Source : 7sur7.be
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Comparaison côte à côte d'un hérisson avec piquants en bonne santé et d'un hérisson atteint d'alopécie (sans piquants), montrant la différence d'apparence</p>
-</div>
+![Comparaison côte à côte d'un hérisson avec piquants en bonne santé et d'un hérisson atteint d'alopécie (sans piquants), montrant la différence d'apparence](/media/herisson-avec-sans-piquants-comparaison.webp)
 
 ## Pourquoi un hérisson perd-il ses piquants ?
 
@@ -82,10 +85,7 @@ Un hérisson stressé peut perdre ses piquants de la même façon qu'un humain s
 *   Un déménagement ou changement d'environnement
 *   Le manque de nourriture ou d'eau
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Gros plan sur la peau d'un hérisson avec début de perte de piquants montrant les acariens et les croûtes caractéristiques de la gale</p>
-</div>
+![Gros plan sur la peau d'un hérisson avec début de perte de piquants montrant les acariens et les croûtes caractéristiques de la gale](/media/gale-herisson-perte-piquants.webp)
 
 ## Le bébé hérisson sans piquant : un phénomène normal
 
@@ -108,10 +108,7 @@ Le **bébé hérisson sans pique** à la naissance est tout à fait normal. Voic
 
 Pour en savoir plus sur le développement des [bébés hérissons (choupissons)](/blog/bebe-herisson-presentation-et-comment-sen-occuper), consultez notre guide complet.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Séquence de 4 photos montrant le développement des piquants du bébé hérisson : nouveau-né (nu), 1 semaine (piquants blancs), 2 semaines (piquants gris), 6 semaines (piquants adultes)</p>
-</div>
+![Séquence de 4 photos montrant le développement des piquants du bébé hérisson](/media/developpement-piquants-bebe-herisson.webp)
 
 ## Que faire si vous trouvez un hérisson sans piquants ?
 

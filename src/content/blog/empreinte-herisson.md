@@ -1,11 +1,34 @@
 ---
-title: "Empreinte de hérisson : reconnaître ses traces dans votre jardin"
+title: "Empreinte de hérisson : reconnaître ses traces"
 date: 2026-03-06T10:50:00+01:00
 excerpt: ""
-category: "Biologie & Comportement"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Apprenez à identifier l'empreinte d'un hérisson grâce à ses 5 doigts caractéristiques. Photos, dimensions et comparaison avec d'autres traces animales."
 image: "/media/generated/empreinte-herisson.png"
+tldr:
+  - "L'empreinte de hérisson montre 5 doigts avec des griffes visibles"
+  - "La patte avant mesure environ 2,5 cm de large, la patte arrière 2,8 cm"
+  - "Les doigts sont écartés en éventail, disposés en arc de cercle"
+  - "L'empreinte se distingue du rat (4 doigts) et du chat (pas de griffes visibles)"
+  - "Un tunnel à empreintes DIY est la meilleure méthode de détection"
+  - "Les traces de hérisson sont souvent accompagnées de crottes caractéristiques"
+quiz:
+  - question: "Vous trouvez une empreinte à 4 doigts sans marque de griffe, ronde, d'environ 3,5 cm de large. De quel animal s'agit-il ?"
+    answers:
+      - text: "Un chat"
+        correct: true
+        explanation: "Les 4 doigts sans marques de griffes (griffes rétractiles) et la forme ronde sont caractéristiques du chat domestique. Un hérisson aurait laissé 5 doigts avec des griffes visibles."
+  - question: "Trace à 5 doigts en éventail, environ 2,5 cm de large, avec de petites griffes visibles dans la boue. Est-ce un hérisson ?"
+    answers:
+      - text: "Oui, c'est très probablement une empreinte de hérisson"
+        correct: true
+        explanation: "Les 5 doigts en éventail, la taille de 2,5 cm et les griffes visibles correspondent au profil d'un hérisson d'Europe adulte."
+  - question: "Empreinte à 5 doigts de 5 cm de large avec des griffes très longues. Hérisson ou autre animal ?"
+    answers:
+      - text: "C'est un blaireau, pas un hérisson"
+        correct: true
+        explanation: "L'empreinte est beaucoup trop grande pour un hérisson (2-2,8 cm). Le blaireau laisse des empreintes de 4 à 6 cm de large avec de très longues griffes."
 ---
 
 
@@ -13,15 +36,6 @@ image: "/media/generated/empreinte-herisson.png"
 Vous suspectez la présence d'un hérisson dans votre jardin mais vous ne l'avez jamais vu ? C'est normal : le hérisson est un **animal strictement nocturne**. Heureusement, il laisse des indices sur son passage, et parmi les plus fiables, il y a **l'empreinte de hérisson**.
 
 Apprendre à reconnaître une **empreinte de hérisson** dans la boue ou la terre meuble est une compétence précieuse pour tout amateur de nature. Ce guide vous donne toutes les clés pour devenir un véritable pisteur de hérissons.
-
-**CE QU'IL FAUT RETENIR :**
-
-*   L'**empreinte de hérisson** montre **5 doigts** avec des griffes visibles
-*   La patte avant mesure environ **2,5 cm de large**, la patte arrière **2,8 cm**
-*   Les doigts sont **écartés en éventail**, disposés en arc de cercle
-*   L'empreinte se distingue du rat (4 doigts) et du chat (pas de griffes visibles)
-*   Un **tunnel à empreintes** DIY est la meilleure méthode de détection
-*   Les **traces de hérisson** sont souvent accompagnées de [crottes caractéristiques](/blog/crotte-de-herisson)
 
 ## Comment reconnaître une empreinte de hérisson ?
 
@@ -120,26 +134,6 @@ Le **tunnel à empreintes** est la méthode la plus efficace pour détecter la p
 *   **Période idéale** : De mai à octobre, pendant la période d'activité des hérissons
 
 Si vous détectez la présence d'un hérisson, découvrez [ce que signifie un hérisson dans votre jardin](/blog/signification-herisson-jardin) et comment l'accueillir au mieux.
-
-## Quiz : Identifiez cette empreinte
-
-<details>
-<summary><strong>1. Vous trouvez une empreinte à 4 doigts sans marque de griffe, ronde, d'environ 3,5 cm de large. De quel animal s'agit-il ?</strong></summary>
-
-**Réponse : Un chat.** Les 4 doigts sans marques de griffes (griffes rétractiles) et la forme ronde sont caractéristiques du chat domestique. Un hérisson aurait laissé 5 doigts avec des griffes visibles.
-</details>
-
-<details>
-<summary><strong>2. Trace à 5 doigts en éventail, environ 2,5 cm de large, avec de petites griffes visibles dans la boue. Est-ce un hérisson ?</strong></summary>
-
-**Réponse : Oui, c'est très probablement une empreinte de hérisson !** Les 5 doigts en éventail, la taille de 2,5 cm et les griffes visibles correspondent au profil d'un hérisson d'Europe adulte.
-</details>
-
-<details>
-<summary><strong>3. Empreinte à 5 doigts de 5 cm de large avec des griffes très longues. Hérisson ou autre animal ?</strong></summary>
-
-**Réponse : C'est un blaireau, pas un hérisson.** L'empreinte est beaucoup trop grande pour un hérisson (2-2,8 cm). Le blaireau laisse des empreintes de 4 à 6 cm de large avec de très longues griffes.
-</details>
 
 ## FAQ sur les empreintes de hérisson
 

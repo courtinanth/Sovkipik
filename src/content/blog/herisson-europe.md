@@ -1,11 +1,42 @@
 ---
-title: "Le hérisson d'Europe : fiche complète d'Erinaceus europaeus en 2026"
+title: "Hérisson d'Europe : fiche complète d'Erinaceus europaeus"
 date: 2026-03-06T12:10:00+01:00
 excerpt: ""
-category: "Biologie & Comportement"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Tout savoir sur le hérisson d'Europe : anatomie, mode de vie, habitat, statut de conservation. Espèce désormais quasi menacée selon l'UICN."
 image: "/media/generated/herisson-europe.png"
+tldr:
+  - "Le hérisson d'Europe possède environ 5 000 piquants de kératine, renouvelés tous les 12 à 18 mois"
+  - "Animal nocturne et solitaire, il parcourt 1 à 2 km par nuit pour se nourrir"
+  - "Insectivore opportuniste, il consomme 60 à 90 g de nourriture chaque nuit"
+  - "En 2024, l'UICN l'a reclassé au statut quasi menacé avec un déclin de 30 à 75 % en 20 ans"
+  - "Intégralement protégé en France depuis l'arrêté du 23 avril 2007"
+quiz:
+  - question: "Combien de piquants possède un hérisson adulte ?"
+    answers:
+      - text: "Environ 5 000"
+        correct: true
+        explanation: "Un hérisson adulte possède environ 5 000 piquants, parfois jusqu'à 7 000 chez les plus grands spécimens. Ces piquants sont des poils modifiés composés de kératine."
+      - text: "Environ 500"
+        correct: false
+        explanation: "Un hérisson adulte possède bien plus que 500 piquants : environ 5 000, parfois jusqu'à 7 000."
+  - question: "Quelle est la fréquence cardiaque d'un hérisson en hibernation ?"
+    answers:
+      - text: "50 battements par minute"
+        correct: false
+        explanation: "Pendant l'hibernation, le coeur du hérisson ne bat plus qu'à 5 battements par minute, contre 150 à 280 bpm en activité."
+      - text: "5 battements par minute"
+        correct: true
+        explanation: "Pendant l'hibernation, le coeur du hérisson ne bat plus qu'à 5 battements par minute, contre 150 à 280 bpm en activité. Sa température corporelle chute de 35°C à 4-5°C."
+  - question: "Les piquants du hérisson peuvent-ils se lancer comme des fléchettes ?"
+    answers:
+      - text: "Oui"
+        correct: false
+        explanation: "Les piquants du hérisson sont fermement ancrés dans la peau et ne se lancent pas. Ils tombent naturellement et se renouvellent, comme des cheveux."
+      - text: "Non"
+        correct: true
+        explanation: "Les piquants du hérisson sont fermement ancrés dans la peau et ne se lancent pas. Ils tombent naturellement et se renouvellent, comme des cheveux."
 ---
 
 Le **hérisson d'Europe** (*Erinaceus europaeus*) est l'un des mammifères sauvages les plus attachants de notre faune. Reconnaissable grâce à ses **5 000 piquants**, ce petit animal nocturne peuple nos jardins et nos sous-bois depuis des millions d'années. En 2024, l'UICN a reclassé l'espèce au statut **"quasi menacé"** (NT), un signal d'alarme majeur.
@@ -82,26 +113,6 @@ Le hérisson est **intégralement protégé en France** depuis l'arrêté du 23 
   <p class="text-earth font-bold mb-2">📸 IMAGE A AJOUTER</p>
   <p class="text-earth-dark/60 text-sm italic">Prompt : Infographie ou illustration montrant un hérisson d'Europe dans un environnement menacé : route, jardin clôturé, pesticides, avec des icônes de danger, style pédagogique</p>
 </div>
-
-## Quiz : Testez vos connaissances sur le hérisson d'Europe
-
-<details>
-<summary><strong>1. Combien de piquants possède un hérisson adulte ?</strong></summary>
-
-Un hérisson adulte possède environ **5 000 piquants**, parfois jusqu'à 7 000 chez les plus grands spécimens. Ces piquants sont des poils modifiés composés de kératine.
-</details>
-
-<details>
-<summary><strong>2. Quelle est la fréquence cardiaque d'un hérisson en hibernation ?</strong></summary>
-
-Pendant l'hibernation, le cœur du hérisson ne bat plus qu'à **5 battements par minute**, contre 150 à 280 bpm en activité. Sa température corporelle chute de 35°C à 4-5°C.
-</details>
-
-<details>
-<summary><strong>3. Les piquants du hérisson peuvent-ils se lancer comme des fléchettes ?</strong></summary>
-
-**Non !** Les piquants du hérisson sont fermement ancrés dans la peau et ne se lancent pas. Ils tombent naturellement et se renouvellent, comme des cheveux.
-</details>
 
 ## Pour aller plus loin
 

@@ -1,28 +1,46 @@
 ---
-title: "Crotte de hérisson : à quoi ressemble-t-elle et comment la reconnaître ?"
+title: "Crotte de hérisson : comment la reconnaître ?"
 date: 2026-03-06T10:00:00+01:00
 excerpt: ""
-category: "Santé & Danger"
+category: "Santé & Soins"
 author: "Anthony COURTIN"
 description: "Apprenez à identifier une crotte de hérisson grâce à sa taille, sa forme et sa couleur. Comparaison avec les crottes de rat, fouine et crapaud pour ne plus confondre."
-image: "/media/generated/crotte-de-herisson.png"
+image: "/media/cover-crotte-herisson.webp"
+tldr:
+  - "Taille : 2 à 5 cm de long, 0,5 à 0,7 cm de diamètre (jusqu'à 7 cm pour les mâles adultes)"
+  - "Forme : Cylindrique avec une extrémité pointue et l'autre arrondie"
+  - "Couleur : Noir à brun foncé, aspect brillant quand c'est frais"
+  - "Contenu visible : Fragments d'élytres d'insectes brillants, morceaux de coquilles d'escargots"
+  - "Emplacement : Dispersées au hasard dans le jardin (pas de marquage territorial)"
+  - "Santé : Crotte ferme = hérisson en bonne santé / Crotte verdâtre ou liquide = URGENCE vétérinaire"
+quiz:
+  - question: "Vous trouvez une crotte de 3 cm, cylindrique avec un bout pointu, sur votre pelouse. Elle est brun foncé avec de petits fragments brillants. Elle est isolée. Quel animal ?"
+    answers:
+      - text: "Un rat"
+        correct: false
+        explanation: "Les crottes de rat sont trapues avec deux bouts arrondis et sont généralement regroupées."
+      - text: "Un hérisson"
+        correct: true
+        explanation: "Forme cylindrique, bout pointu, fragments d'insectes brillants, crotte isolée sur la pelouse."
+      - text: "Une fouine"
+        correct: false
+        explanation: "Les crottes de fouine sont plus grosses (6-9 cm), vrillées, et déposées en latrines avec une odeur forte."
+  - question: "Près de votre bassin, vous trouvez une crotte de 1,5 cm, noire, humide et gluante, de forme irrégulière. Quel animal ?"
+    answers:
+      - text: "Un hérisson"
+        correct: false
+        explanation: "Les crottes de hérisson sont fermes et sèches, pas humides et gluantes."
+      - text: "Un crapaud"
+        correct: true
+        explanation: "Proximité de l'eau, texture humide et gluante, petite taille et forme irrégulière : c'est un crapaud."
+      - text: "Une souris"
+        correct: false
+        explanation: "Les crottes de souris sont minuscules (3-8 mm), sèches et ressemblent à des grains de riz."
 ---
 
 Vous avez découvert de petites crottes sombres dans votre jardin et vous vous demandez quel animal en est l'auteur ? Bonne nouvelle : il pourrait bien s'agir d'un **hérisson**, ce précieux allié du jardinier. Ce guide vous apprend à **identifier les excréments de hérisson** et à les différencier de ceux des autres animaux courants dans nos jardins.
 
-**CE QU'IL FAUT RETENIR :**
-
-*   **Taille** : 2 à 5 cm de long, 0,5 à 0,7 cm de diamètre (jusqu'a 7 cm pour les mâles adultes)
-*   **Forme** : Cylindrique avec une extrémité pointue et l'autre arrondie
-*   **Couleur** : Noir a brun fonce, aspect brillant quand c'est frais
-*   **Contenu visible** : Fragments d'elytres d'insectes brillants, morceaux de coquilles d'escargots
-*   **Emplacement** : Dispersees au hasard dans le jardin (pas de marquage territorial)
-*   **Sante** : Crotte ferme = herisson en bonne sante / Crotte verdatre ou liquide = **URGENCE veterinaire**
-
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Photo realiste d'une crotte de herisson typique sur de l'herbe verte, vue rapprochee montrant la forme cylindrique avec extremite pointue, couleur brun fonce a noire, fragments d'insectes visibles a la surface</p>
-</div>
+![Photo realiste d'une crotte de herisson typique sur de l'herbe verte, vue rapprochee montrant la forme cylindrique avec extremite pointue, couleur brun fonce a noire, fragments d'insectes visibles a la surface](/media/crotte-herisson-realiste.webp)
 
 ## À quoi ressemble une crotte de hérisson ?
 
@@ -67,10 +85,7 @@ La fouine depose ses crottes en **latrines** (toujours au meme endroit), souvent
 
 Le moyen le plus simple de trancher est de regarder les extremites. Si la crotte presente une **extremite pointue**, c'est tres probablement un herisson. Si les **deux bouts sont arrondis**, il s'agit plutot d'un rat. Les crottes de rat sont aussi **presque toujours regroupees** en nombre (40 a 50 par nuit), alors que les crottes de herisson sont isolees et dispersees.
 
-<div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
-  <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
-  <p class="text-earth-dark/60 text-sm italic">Prompt : Illustration comparative cote a cote montrant une crotte de herisson (cylindrique, bout pointu, fragments brillants) et une crotte de rat (trapue, deux bouts arrondis, surface lisse), avec des annotations et fleches pour les differencier</p>
-</div>
+![Illustration comparative cote a cote montrant une crotte de herisson et une crotte de rat](/media/comparaison-crotte-herisson-rat.webp)
 
 ## Ce que les crottes de hérisson révèlent sur sa santé
 
@@ -88,50 +103,6 @@ Le moyen le plus simple de trancher est de regarder les extremites. Si la crotte
 ## Les crottes de hérisson sont-elles dangereuses ?
 
 Les **crottes de herisson** ne representent pas un danger significatif, mais elles peuvent vehiculer des **salmonelles**, des **parasites** internes ou la **leptospirose**. Portez des gants pour les ramasser, lavez-vous les mains au savon et apprenez aux enfants a ne pas toucher les excréments.
-
-## Quiz : Quelle est cette crotte ?
-
-<div class="bg-forest/5 border border-forest/20 rounded-2xl p-6 my-8">
-<h3 class="text-forest font-bold text-lg mb-4">🎯 Quiz : Saurez-vous reconnaître cette crotte ?</h3>
-
-<p class="text-earth-dark mb-4"><strong>Situation 1 :</strong> Vous trouvez une crotte de 3 cm, cylindrique avec un bout pointu, sur votre pelouse. Elle est brun fonce avec de petits fragments brillants. Elle est isolee.</p>
-
-<details class="mb-3">
-<summary class="cursor-pointer bg-white px-4 py-2 rounded-lg shadow-sm hover:shadow-md transition-shadow font-medium text-forest">A) Un rat</summary>
-<p class="mt-2 px-4 py-2 bg-red-50 rounded-lg">❌ Incorrect. Les crottes de rat sont trapues avec deux bouts arrondis et sont generalement regroupees.</p>
-</details>
-
-<details class="mb-3">
-<summary class="cursor-pointer bg-white px-4 py-2 rounded-lg shadow-sm hover:shadow-md transition-shadow font-medium text-forest">B) Un herisson</summary>
-<p class="mt-2 px-4 py-2 bg-green-50 rounded-lg">✅ Correct ! Forme cylindrique, bout pointu, fragments d'insectes brillants, crotte isolee sur la pelouse.</p>
-</details>
-
-<details class="mb-3">
-<summary class="cursor-pointer bg-white px-4 py-2 rounded-lg shadow-sm hover:shadow-md transition-shadow font-medium text-forest">C) Une fouine</summary>
-<p class="mt-2 px-4 py-2 bg-red-50 rounded-lg">❌ Incorrect. Les crottes de fouine sont plus grosses (6-9 cm), vrillées, et deposees en latrines avec une odeur forte.</p>
-</details>
-</div>
-
-<div class="bg-forest/5 border border-forest/20 rounded-2xl p-6 my-8">
-<h3 class="text-forest font-bold text-lg mb-4">🎯 Quiz : Deuxieme scenario</h3>
-
-<p class="text-earth-dark mb-4"><strong>Situation 2 :</strong> Pres de votre bassin, vous trouvez une crotte de 1,5 cm, noire, humide et gluante, de forme irreguliere.</p>
-
-<details class="mb-3">
-<summary class="cursor-pointer bg-white px-4 py-2 rounded-lg shadow-sm hover:shadow-md transition-shadow font-medium text-forest">A) Un herisson</summary>
-<p class="mt-2 px-4 py-2 bg-red-50 rounded-lg">❌ Incorrect. Les crottes de herisson sont fermes et seches, pas humides et gluantes.</p>
-</details>
-
-<details class="mb-3">
-<summary class="cursor-pointer bg-white px-4 py-2 rounded-lg shadow-sm hover:shadow-md transition-shadow font-medium text-forest">B) Un crapaud</summary>
-<p class="mt-2 px-4 py-2 bg-green-50 rounded-lg">✅ Correct ! Proximite de l'eau, texture humide et gluante, petite taille et forme irreguliere : c'est un crapaud.</p>
-</details>
-
-<details class="mb-3">
-<summary class="cursor-pointer bg-white px-4 py-2 rounded-lg shadow-sm hover:shadow-md transition-shadow font-medium text-forest">C) Une souris</summary>
-<p class="mt-2 px-4 py-2 bg-red-50 rounded-lg">❌ Incorrect. Les crottes de souris sont minuscules (3-8 mm), seches et ressemblent a des grains de riz.</p>
-</details>
-</div>
 
 ## FAQ - Questions fréquemment posées
 

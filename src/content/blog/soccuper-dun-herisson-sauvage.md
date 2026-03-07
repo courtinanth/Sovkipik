@@ -2,10 +2,16 @@
 title: "S'occuper d'un hérisson sauvage"
 date: 2026-01-02T21:10:20+01:00
 excerpt: ""
-category: "Guide & Conseil"
+category: "Guides Pratiques"
 author: "Anthony COURTIN"
 description: "GUIDE : S'occuper d'un hérisson sauvage au jardin. Habitat, nourriture, eau. Apprenez à les protéger sans les domestiquer (c'est interdit !)."
 image: "/media/generated/sauver-les-herissons.png"
+tldr:
+  - "Les hérissons sont une espèce protégée : il est interdit de les domestiquer"
+  - "Laissez une partie de votre jardin \"sauvage\" pour les accueillir naturellement"
+  - "Proposez de l'eau et des croquettes pour chat, surtout avant et après l'hibernation"
+  - "Un hérisson actif en journée est probablement en difficulté et nécessite une aide rapide"
+  - "Contactez un vétérinaire ou un centre de soins en cas de hérisson blessé ou malade"
 ---
 
 
@@ -13,14 +19,6 @@ image: "/media/generated/sauver-les-herissons.png"
 **En Europe, où les jardins bourdonnent de vie, le hérisson est un invité fréquent**. Ces petites créatures épineuses, avec leurs mœurs nocturnes et leur appétit pour les insectes nuisibles, sont non seulement utiles mais aussi captivantes.
 
 Avant de plonger dans les détails de leurs soins, familiarisons-nous avec les différentes tailles de ces charmants mammifères. 🦔
-
-**CE QU'IL FAUT RETENIR :**
-
-* Les hérissons sont une espèce protégée : il est interdit de les domestiquer
-* Laissez une partie de votre jardin "sauvage" pour les accueillir naturellement
-* Proposez de l'eau et des croquettes pour chat, surtout avant et après l'hibernation
-* Un hérisson actif en journée est probablement en difficulté et nécessite une aide rapide
-* Contactez un vétérinaire ou un centre de soins en cas de hérisson blessé ou malade
 
 Sommaire :
 

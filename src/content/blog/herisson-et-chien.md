@@ -1,11 +1,34 @@
 ---
-title: "Hérisson et chien : cohabitation, dangers et que faire en cas de contact"
+title: "Hérisson et chien : dangers et cohabitation"
 date: 2026-03-06T11:40:00+01:00
 excerpt: ""
-category: "Cohabitation"
+category: "Jardin & Cohabitation"
 author: "Anthony COURTIN"
 description: "Votre chien a trouvé un hérisson ? Découvrez les risques pour les deux animaux, comment réagir et les réflexes pour une cohabitation sans danger."
 image: "/media/generated/herisson-et-chien.png"
+tldr:
+  - "Les piquants du hérisson peuvent blesser la gueule et les pattes du chien"
+  - "Les hérissons peuvent transmettre des tiques et des parasites aux chiens"
+  - "Un chien qui attaque un hérisson peut le tuer par le stress ou les blessures"
+  - "Ne punissez jamais votre chien, éduquez-le avec le renforcement positif"
+  - "Aménagez le jardin pour que chacun ait son espace, surtout la nuit"
+  - "En cas de piqûre importante ou de comportement anormal, consultez un vétérinaire"
+quiz:
+  - question: "Mon chien peut-il attraper les puces d'un hérisson ?"
+    answers:
+      - text: "Non, c'est très peu probable"
+        correct: true
+        explanation: "Les puces du hérisson (Archaeopsylla erinacei) sont spécifiques à cette espèce. Elles ne survivent pas sur les chiens car la température corporelle est différente."
+  - question: "Les piquants de hérisson sont-ils venimeux ?"
+    answers:
+      - text: "Non, les piquants de hérisson ne contiennent aucun venin"
+        correct: true
+        explanation: "Ce sont des poils modifiés, composés de kératine (comme nos ongles). Le danger vient uniquement de la piqûre mécanique et du risque d'infection bactérienne qui peut suivre."
+  - question: "Dois-je empêcher mon chien d'aller dans le jardin la nuit ?"
+    answers:
+      - text: "Pas nécessairement, mais accompagnez-le"
+        correct: true
+        explanation: "Les hérissons sont actifs entre 22h et 4h. Pendant cette période, sortez votre chien en laisse ou surveillez-le de près. Un chien bien éduqué au rappel peut cohabiter sans problème, même la nuit."
 ---
 
 
@@ -13,15 +36,6 @@ image: "/media/generated/herisson-et-chien.png"
 Votre chien aboie dans le jardin en pleine nuit et vous decouvrez qu'il a trouve un herisson ? **Cette situation est plus frequente qu'on ne le pense** et peut mal tourner, autant pour le chien que pour le herisson.
 
 Contrairement a la [cohabitation herisson-chat](/blog/herissons-et-chats) qui se passe generalement bien, **l'interaction chien-herisson est plus risquee** et demande une vraie vigilance de votre part.
-
-**CE QU'IL FAUT RETENIR :**
-
-*   Les piquants du herisson peuvent blesser la gueule et les pattes du chien
-*   Les herissons peuvent transmettre des [tiques](/blog/tique-herisson) et des parasites aux chiens
-*   **Un chien qui attaque un herisson peut le tuer** par le stress ou les blessures
-*   Ne punissez jamais votre chien, eduquez-le avec le renforcement positif
-*   Amenagez le jardin pour que chacun ait son espace, surtout la nuit
-*   En cas de piqure importante ou de comportement anormal, consultez un veterinaire
 
 ## Les risques pour le chien
 
@@ -102,29 +116,6 @@ Un jardin bien amenage permet au chien et au herisson de coexister sans jamais s
   <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
   <p class="text-earth-dark/60 text-sm italic">Prompt : Un jardin amenage avec un passage a herisson dans une cloture, un abri pour herisson en bois, et une gamelle protegee sous une caisse, ambiance naturelle</p>
 </div>
-
-## Quiz : Les bons reflexes chien/herisson
-
-<details>
-<summary><strong>1. Mon chien peut-il attraper les puces d'un herisson ?</strong></summary>
-
-**Non, c'est tres peu probable.** Les puces du herisson (*Archaeopsylla erinacei*) sont specifiques a cette espece. Elles ne survivent pas sur les chiens car la temperature corporelle est differente. [En savoir plus sur les puces du herisson](/blog/puce-herisson).
-
-</details>
-
-<details>
-<summary><strong>2. Les piquants de herisson sont-ils venimeux ?</strong></summary>
-
-**Non, les piquants de herisson ne contiennent aucun venin.** Ce sont des poils modifies, composes de keratine (comme nos ongles). Le danger vient uniquement de la piqure mecanique et du risque d'infection bacterienne qui peut suivre.
-
-</details>
-
-<details>
-<summary><strong>3. Dois-je empecher mon chien d'aller dans le jardin la nuit ?</strong></summary>
-
-**Pas necessairement, mais accompagnez-le.** Les herissons sont actifs entre 22h et 4h. Pendant cette periode, sortez votre chien en laisse ou surveillez-le de pres. Un chien bien eduque au rappel peut cohabiter sans probleme, meme la nuit.
-
-</details>
 
 ## FAQ - Questions frequentes sur le herisson et le chien
 

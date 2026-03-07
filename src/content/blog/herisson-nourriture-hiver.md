@@ -1,23 +1,46 @@
 ---
-title: "Que mange un hérisson en hiver ? Faut-il le nourrir pendant l'hibernation ?"
+title: "Que mange un hérisson en hiver ? Nourriture"
 date: 2026-03-06T13:20:00+01:00
 excerpt: ""
 category: "Alimentation & Habitat"
 author: "Anthony COURTIN"
 description: "En hiver le hérisson hiberne et ne mange pas. Mais que faire s'il se réveille ? Découvrez quand et comment le nourrir en hiver sans lui nuire."
 image: "/media/generated/herisson-nourriture-hiver.png"
+tldr:
+  - "En hiver, le hérisson hiberne et ne mange pas : il vit sur ses réserves de graisse"
+  - "Un hérisson qui se réveille la nuit en hiver est souvent normal : il refait ses réserves"
+  - "Un hérisson actif en journée en hiver est un signal d'alarme : il a probablement besoin d'aide"
+  - "En cas de réveil hivernal, proposez des croquettes pour chat au poulet et de l'eau fraîche (jamais de lait)"
+  - "Le poids minimum pour hiberner est d'environ 500 à 600 g : en dessous, le hérisson ne survivra pas sans aide"
+  - "Pensez à protéger la gamelle d'eau du gel avec des astuces simples"
+quiz:
+  - question: "Le hérisson mange-t-il pendant l'hibernation ?"
+    answers:
+      - text: "Oui, il mange régulièrement"
+        correct: false
+        explanation: "Le hérisson ne mange pas pendant l'hibernation profonde. Il vit sur ses réserves de graisse."
+      - text: "Non, pas pendant l'hibernation profonde"
+        correct: true
+        explanation: "Il vit sur ses réserves de graisse. Cependant, il peut se réveiller brièvement (tous les 8 à 10 jours) pour boire et grignoter un peu."
+  - question: "Quel est le poids minimum pour hiberner sans risque ?"
+    answers:
+      - text: "Environ 300 g"
+        correct: false
+        explanation: "300 g est bien trop léger. Le hérisson a besoin d'environ 600 à 700 g en novembre pour hiberner sans risque."
+      - text: "Environ 600 à 700 g en novembre"
+        correct: true
+        explanation: "En dessous de 500 g, le hérisson n'a pas assez de réserves et a besoin d'une aide urgente."
+  - question: "Peut-on donner du lait à un hérisson en hiver ?"
+    answers:
+      - text: "Oui, du lait tiède"
+        correct: false
+        explanation: "Les hérissons sont intolérants au lactose. Le lait provoque des diarrhées graves pouvant être fatales."
+      - text: "Jamais"
+        correct: true
+        explanation: "Les hérissons sont intolérants au lactose. Le lait provoque des diarrhées graves pouvant être fatales. Donnez uniquement de l'eau fraîche."
 ---
 
 **En hiver, le hérisson hiberne et ne mange normalement pas.** Ses réserves de graisse accumulées en automne suffisent à le maintenir en vie pendant 4 à 6 mois. Mais que faire si un hérisson se réveille en plein hiver ? Faut-il le nourrir ? Et comment savoir si ce réveil est normal ou préoccupant ?
-
-**CE QU'IL FAUT RETENIR :**
-
-* En hiver, le hérisson hiberne et **ne mange pas** : il vit sur ses réserves de graisse
-* Un hérisson qui se réveille la nuit en hiver est **souvent normal** : il refait ses réserves
-* Un hérisson actif **en journée** en hiver est un **signal d'alarme** : il a probablement besoin d'aide
-* En cas de réveil hivernal, proposez des **croquettes pour chat au poulet** et de **l'eau fraîche** (jamais de lait)
-* Le poids minimum pour hiberner est d'environ **500 à 600 g** : en dessous, le hérisson ne survivra pas sans aide
-* Pensez à **protéger la gamelle d'eau du gel** avec des astuces simples
 
 <div class="bg-beige-softer border-2 border-dashed border-earth/30 rounded-2xl p-8 text-center my-8">
   <p class="text-earth font-bold mb-2">📸 IMAGE À AJOUTER</p>
@@ -136,26 +159,6 @@ Pour la liste complète, consultez notre article sur [les croquettes pour héris
 Pour une liste complète des menaces à éviter, consultez notre guide sur les [dangers du jardin pour le hérisson](/blog/dangers-jardin-herisson). Et pour offrir un refuge sûr à votre visiteur nocturne, pensez à [construire un abri pour hérisson](/blog/abri-pour-herisson-avec-et-sans-bricolage) avant les premiers froids.
 
 **L'erreur la plus fréquente reste le lait.** Les hérissons sont intolérants au lactose. **La seule boisson à donner est de l'eau fraîche.** Réveiller un hérisson en hibernation est aussi très dangereux : chaque réveil forcé lui coute environ 25 % de l'énergie d'une semaine d'hibernation.
-
-## Quiz : Savez-vous nourrir un hérisson en hiver ?
-
-<details>
-<summary><strong>1. Le hérisson mange-t-il pendant l'hibernation ?</strong></summary>
-
-**Non, pas pendant l'hibernation profonde.** Il vit sur ses réserves de graisse. Cependant, il peut se réveiller brièvement (tous les 8 à 10 jours) pour boire et grignoter un peu.
-</details>
-
-<details>
-<summary><strong>2. Quel est le poids minimum pour hiberner sans risque ?</strong></summary>
-
-**Environ 600 à 700 g en novembre.** En dessous de 500 g, le hérisson n'a pas assez de réserves et a besoin d'une aide urgente.
-</details>
-
-<details>
-<summary><strong>3. Peut-on donner du lait à un hérisson en hiver ?</strong></summary>
-
-**Jamais !** Les hérissons sont intolérants au lactose. Le lait provoque des diarrhées graves pouvant etre fatales. Donnez uniquement de l'eau fraîche.
-</details>
 
 ## FAQ sur l'alimentation du hérisson en hiver
 

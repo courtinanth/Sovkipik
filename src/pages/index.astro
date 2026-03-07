@@ -87,7 +87,7 @@ const structuredData = {
                     d'urgence absolus pour le sauver avant d'agir.
                 </p>
                 <a
-                    href="/sauver-les-herissons"
+                    href="/sauver-les-herissons/"
                     class="inline-flex items-center text-earth font-bold group-hover:text-earth-dark transition-colors"
                 >
                     Le guide d'urgence <span
@@ -121,7 +121,7 @@ const structuredData = {
                     et dangers à éviter absolument.
                 </p>
                 <a
-                    href="/blog"
+                    href="/blog/"
                     class="inline-flex items-center text-earth font-bold group-hover:text-earth-dark transition-colors"
                 >
                     Aménager son jardin <span
@@ -155,7 +155,7 @@ const structuredData = {
                     le régime alimentaire du hérisson.
                 </p>
                 <a
-                    href="/blog/que-mange-un-herisson"
+                    href="/blog/que-mange-un-herisson/"
                     class="inline-flex items-center text-earth font-bold group-hover:text-earth-dark transition-colors"
                 >
                     Lire le guide complet <span
@@ -454,7 +454,7 @@ const structuredData = {
 
             <div class="text-center">
                 <a
-                    href="/blog/centres-soins-herissons"
+                    href="/blog/centres-soins-herissons/"
                     class="inline-flex items-center justify-center px-8 py-3 bg-white text-forest-dark border-2 border-forest-dark/10 rounded-full font-bold shadow-sm hover:bg-forest hover:text-white hover:border-forest transition-all duration-300 group"
                 >
                     Voir la liste complète
@@ -489,7 +489,7 @@ const structuredData = {
             <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto mb-16">
                 {
                     latestPosts.map((post) => (
-                        <a href={`/blog/${post.slug}`} class="group">
+                        <a href={`/blog/${post.slug}/`} class="group">
                             <article class="bg-white rounded-[2rem] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 h-full flex flex-col border border-forest/5">
                                 <div class="relative h-56 overflow-hidden">
                                     <img
@@ -513,7 +513,7 @@ const structuredData = {
                                         {post.data.title}
                                     </h3>
                                     <p class="text-forest-dark/60 text-sm line-clamp-3 mb-6 flex-grow">
-                                        {post.data.excerpt}
+                                        {post.data.excerpt || post.data.description || "Découvrez nos conseils pour aider les hérissons au quotidien..."}
                                     </p>
                                     <div class="flex items-center text-earth font-bold text-sm">
                                         Lire l'article{" "}
@@ -530,7 +530,7 @@ const structuredData = {
 
             <div class="text-center">
                 <a
-                    href="/blog"
+                    href="/blog/"
                     class="inline-flex items-center justify-center px-8 py-4 bg-forest text-white rounded-full font-bold shadow-lg shadow-forest/20 hover:bg-forest-dark hover:shadow-forest/40 hover:-translate-y-1 transition-all duration-300"
                 >
                     Voir tous les articles

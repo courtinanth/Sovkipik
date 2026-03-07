@@ -1,23 +1,46 @@
 ---
-title: "Hérisson ou porc-épic : quelles différences entre ces deux animaux à piquants ?"
+title: "Hérisson ou porc-épic : les 8 différences majeures"
 date: 2026-03-06T12:30:00+01:00
 excerpt: ""
-category: "Biologie & Comportement"
+category: "Biologie & Espèces"
 author: "Anthony COURTIN"
 description: "Hérisson et porc-épic sont souvent confondus. Découvrez les 8 différences majeures : taille, piquants, alimentation, habitat et comportement."
 image: "/media/generated/herisson-porc-epic-differences.png"
+tldr:
+  - "Le hérisson pèse 450 à 700 g, le porc-épic peut atteindre 30 kg : ils n'ont rien à voir en taille"
+  - "Leurs piquants sont différents : courts et non détachables chez le hérisson, longs et détachables chez le porc-épic"
+  - "Le hérisson est un insectivore, le porc-épic est un herbivore"
+  - "Ils n'ont aucun lien de parenté proche : le hérisson est un Eulipotyphla, le porc-épic est un rongeur"
+  - "Le hérisson vit en Europe, le porc-épic vit en Afrique, Asie et Amériques"
+  - "Le hérisson se met en boule pour se défendre, le porc-épic charge en arrière"
+quiz:
+  - question: "Un animal à piquants traverse votre jardin en France la nuit. Hérisson ou porc-épic ?"
+    answers:
+      - text: "Hérisson"
+        correct: true
+        explanation: "C'est forcément un hérisson ! Le porc-épic n'existe pas à l'état sauvage en France métropolitaine."
+      - text: "Porc-épic"
+        correct: false
+        explanation: "Le porc-épic n'existe pas à l'état sauvage en France métropolitaine. C'est forcément un hérisson."
+  - question: "Un animal à piquants se met en boule parfaite quand vous l'approchez. Hérisson ou porc-épic ?"
+    answers:
+      - text: "Hérisson"
+        correct: true
+        explanation: "C'est un hérisson. Le porc-épic ne se met pas en boule. Il hérisse ses piquants et charge en arrière."
+      - text: "Porc-épic"
+        correct: false
+        explanation: "Le porc-épic ne se met pas en boule. Il hérisse ses piquants et charge en arrière. Seul le hérisson se met en boule."
+  - question: "Un animal à piquants de 15 kg ronge l'écorce d'un arbre. Hérisson ou porc-épic ?"
+    answers:
+      - text: "Hérisson"
+        correct: false
+        explanation: "Le hérisson ne pèse que 450 à 700 g et ne mange pas d'écorce. C'est un porc-épic."
+      - text: "Porc-épic"
+        correct: true
+        explanation: "C'est un porc-épic. Le hérisson ne pèse que 450 à 700 g et ne mange pas d'écorce."
 ---
 
 **Hérisson et porc-épic** : deux animaux à piquants, souvent confondus, et pourtant radicalement différents. L'un tient dans la paume de la main, l'autre peut peser autant qu'un gros chien. L'un est un insectivore nocturne de nos jardins, l'autre est un herbivore des forêts tropicales ou des déserts.
-
-## Ce qu'il faut retenir
-
-- Le **hérisson** pèse 450 à 700 g, le **porc-épic** peut atteindre **30 kg** : ils n'ont rien à voir en taille
-- Leurs **piquants** sont différents : courts et non détachables chez le hérisson, longs et détachables chez le porc-épic
-- Le hérisson est un **insectivore**, le porc-épic est un **herbivore**
-- Ils n'ont **aucun lien de parenté proche** : le hérisson est un Eulipotyphla, le porc-épic est un rongeur
-- Le hérisson vit en **Europe**, le porc-épic vit en **Afrique, Asie et Amériques**
-- Le hérisson se met en **boule** pour se défendre, le porc-épic **charge en arrière**
 
 ## Les 8 différences majeures en un tableau
 
@@ -82,26 +105,6 @@ Le **hérisson** est solitaire, nocturne, **hiberne** d'octobre à mars ([hibern
 | "Le porc-épic peut tuer un lion" | **Partiellement vrai** | Des lions sont morts après infection par des piquants plantés. |
 | "Le hérisson mange des serpents" | **Partiellement vrai** | Le hérisson possède une certaine résistance au venin de vipère, mais ce n'est pas son régime principal. |
 | "Le porc-épic grimpe aux arbres" | **Vrai** (certaines espèces) | Les porcs-épics du Nouveau Monde sont d'excellents grimpeurs. |
-
-## Quiz : Hérisson ou porc-épic ?
-
-<details>
-<summary><strong>1. Un animal à piquants traverse votre jardin en France la nuit. Hérisson ou porc-épic ?</strong></summary>
-
-C'est forcément un **hérisson** ! Le porc-épic n'existe pas à l'état sauvage en France métropolitaine.
-</details>
-
-<details>
-<summary><strong>2. Un animal à piquants se met en boule parfaite quand vous l'approchez. Hérisson ou porc-épic ?</strong></summary>
-
-C'est un **hérisson**. Le porc-épic ne se met pas en boule. Il hérisse ses piquants et charge en arrière.
-</details>
-
-<details>
-<summary><strong>3. Un animal à piquants de 15 kg ronge l'écorce d'un arbre. Hérisson ou porc-épic ?</strong></summary>
-
-C'est un **porc-épic**. Le hérisson ne pèse que 450 à 700 g et ne mange pas d'écorce.
-</details>
 
 ## FAQ : Questions fréquentes
 

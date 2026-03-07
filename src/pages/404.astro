@@ -70,7 +70,7 @@ const suggestedPosts = allPosts
                         🏠 Retour à l'accueil
                     </a>
                     <a
-                        href="/blog"
+                        href="/blog/"
                         class="bg-white hover:bg-beige-softer text-forest font-bold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-1 border-2 border-transparent hover:border-forest/10 flex items-center justify-center gap-2"
                     >
                         🌲 Voir tous les articles
@@ -89,7 +89,7 @@ const suggestedPosts = allPosts
                     <div class="grid md:grid-cols-3 gap-6">
                         {
                             suggestedPosts.map((post) => (
-                                <a href={`/blog/${post.slug}`} class="group">
+                                <a href={`/blog/${post.slug}/`} class="group">
                                     <article class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-forest/5 h-full flex flex-col">
                                         <div class="h-40 overflow-hidden relative">
                                             <div class="absolute inset-0 bg-forest-dark/10 group-hover:bg-forest-dark/0 transition-colors z-10" />

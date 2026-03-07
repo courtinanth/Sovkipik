@@ -47,11 +47,15 @@
 }
 
 @layer base {
+  html {
+    overflow-x: hidden;
+  }
+
   body {
     background-color: var(--color-beige);
     color: var(--color-forest-dark);
-    /* Changed from earth-dark to forest-dark for better contrast */
     font-family: var(--font-sans);
+    overflow-x: hidden;
     background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%233a5a40' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
   }
 
@@ -64,5 +68,290 @@
     font-weight: bold;
     color: var(--color-forest-dark);
     letter-spacing: -0.025em;
+  }
+}
+
+@layer components {
+
+  /* ========================================= */
+  /*  TABLES – polished, scrollable on mobile  */
+  /* ========================================= */
+  .prose :where(table) {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border-collapse: separate !important;
+    border-spacing: 0;
+    border-radius: 0.75rem;
+    border: 1px solid color-mix(in srgb, var(--color-forest) 12%, transparent);
+    box-shadow: 0 2px 8px rgb(0 0 0 / .05);
+    font-size: 0.8rem;
+  }
+
+  @media (min-width: 768px) {
+    .prose :where(table) {
+      display: table;
+      border-radius: 1rem;
+      font-size: inherit;
+    }
+  }
+
+  .prose :where(thead) {
+    background: linear-gradient(135deg, color-mix(in srgb, var(--color-forest) 18%, #fff), color-mix(in srgb, var(--color-forest) 10%, #fff));
+  }
+
+  .prose :where(thead th) {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-forest-dark);
+    border-bottom: 2px solid color-mix(in srgb, var(--color-forest) 22%, transparent);
+    padding: 0.5rem 0.6rem;
+    white-space: nowrap;
+  }
+
+  @media (min-width: 768px) {
+    .prose :where(thead th) {
+      font-size: 0.8rem;
+      padding: 0.85rem 1rem;
+      white-space: normal;
+    }
+  }
+
+  .prose :where(thead th:first-child) {
+    border-top-left-radius: 0.75rem;
+  }
+
+  .prose :where(thead th:last-child) {
+    border-top-right-radius: 0.75rem;
+  }
+
+  @media (min-width: 768px) {
+    .prose :where(thead th:first-child) {
+      border-top-left-radius: 1rem;
+    }
+
+    .prose :where(thead th:last-child) {
+      border-top-right-radius: 1rem;
+    }
+  }
+
+  .prose :where(td) {
+    padding: 0.4rem 0.6rem;
+    border-bottom: 1px solid color-mix(in srgb, var(--color-forest) 6%, transparent);
+  }
+
+  @media (min-width: 768px) {
+    .prose :where(td) {
+      padding: 0.75rem 1rem;
+    }
+  }
+
+  .prose :where(tbody tr) {
+    transition: background-color 0.15s ease;
+  }
+
+  .prose :where(tbody tr:hover) {
+    background-color: color-mix(in srgb, var(--color-forest) 4%, transparent);
+  }
+
+  .prose :where(tbody tr:last-child td) {
+    border-bottom: none;
+  }
+
+  .prose :where(td) {
+    vertical-align: top;
+  }
+
+  .prose :where(td:first-child),
+  .prose :where(th:first-child) {
+    font-weight: 600;
+  }
+
+  /* ========================================= */
+  /*  DETAILS / ACCORDION                      */
+  /* ========================================= */
+  .prose details {
+    background: linear-gradient(135deg, #fff, color-mix(in srgb, var(--color-beige-softer) 40%, #fff));
+    border: 1px solid color-mix(in srgb, var(--color-forest) 12%, transparent);
+    border-radius: 1rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    overflow: hidden;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+  }
+
+  .prose details:hover {
+    border-color: color-mix(in srgb, var(--color-forest) 25%, transparent);
+    box-shadow: 0 2px 8px rgb(0 0 0 / .04);
+  }
+
+  .prose details[open] {
+    border-color: color-mix(in srgb, var(--color-forest) 20%, transparent);
+    box-shadow: 0 2px 12px rgb(0 0 0 / .06);
+  }
+
+  .prose details summary {
+    list-style: none;
+    cursor: pointer;
+    padding: 0.75rem 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color-forest-dark);
+    transition: background-color 0.15s ease, color 0.15s ease;
+    user-select: none;
+    margin: 0;
+  }
+
+  @media (min-width: 768px) {
+    .prose details summary {
+      padding: 1rem 1.25rem;
+      gap: 0.75rem;
+      font-size: inherit;
+    }
+  }
+
+  .prose details summary::-webkit-details-marker {
+    display: none;
+  }
+
+  /* Chevron icon */
+  .prose details summary::before {
+    content: '';
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: color-mix(in srgb, var(--color-forest) 10%, transparent);
+    border-radius: 50%;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%233A5A40' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='9 18 15 12 9 6'%3E%3C/polyline%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: transform 0.25s ease, background-color 0.2s ease;
+  }
+
+  .prose details[open] summary::before {
+    transform: rotate(90deg);
+    background-color: color-mix(in srgb, var(--color-forest) 18%, transparent);
+  }
+
+  .prose details summary:hover {
+    background-color: color-mix(in srgb, var(--color-forest) 4%, transparent);
+  }
+
+  .prose details[open] summary {
+    border-bottom: 1px solid color-mix(in srgb, var(--color-forest) 8%, transparent);
+    background-color: color-mix(in srgb, var(--color-forest) 3%, transparent);
+  }
+
+  /* Content area inside details */
+  .prose details > *:not(summary) {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+
+  @media (min-width: 768px) {
+    .prose details > *:not(summary) {
+      padding-left: 1.25rem;
+      padding-right: 1.25rem;
+    }
+  }
+
+  .prose details > *:last-child {
+    padding-bottom: 0.75rem;
+  }
+
+  @media (min-width: 768px) {
+    .prose details > *:last-child {
+      padding-bottom: 1rem;
+    }
+  }
+
+  .prose details > *:not(summary):first-of-type {
+    padding-top: 0.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .prose details > *:not(summary):first-of-type {
+      padding-top: 0.75rem;
+    }
+  }
+
+  .prose details ul,
+  .prose details ol {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .prose details li {
+    font-size: 0.925em;
+  }
+
+  /* ========================================= */
+  /*  BLOCKQUOTES                              */
+  /* ========================================= */
+  .prose blockquote {
+    position: relative;
+  }
+
+  .prose blockquote::before {
+    content: '\201C';
+    position: absolute;
+    top: -0.25rem;
+    left: 0.75rem;
+    font-size: 3rem;
+    color: var(--color-highlight);
+    opacity: 0.15;
+    font-family: Georgia, serif;
+    line-height: 1;
+  }
+
+  /* ========================================= */
+  /*  HORIZONTAL RULES                         */
+  /* ========================================= */
+  .prose hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, color-mix(in srgb, var(--color-earth) 30%, transparent), transparent);
+    margin: 2.5rem 0;
+  }
+
+  /* ========================================= */
+  /*  BOLD TEXT                                */
+  /* ========================================= */
+  .prose strong {
+    color: var(--color-forest-dark);
+  }
+
+  /* ========================================= */
+  /*  IMAGES                                   */
+  /* ========================================= */
+  .prose img {
+    border: 1px solid color-mix(in srgb, var(--color-forest) 8%, transparent);
+  }
+
+  /* ========================================= */
+  /*  ORDERED LIST MARKERS                     */
+  /* ========================================= */
+  .prose ol > li::marker {
+    color: var(--color-forest);
+    font-weight: 700;
+  }
+
+  /* ========================================= */
+  /*  QUIZ COMPONENT                           */
+  /* ========================================= */
+  .quiz-container details summary {
+    list-style: none;
+  }
+
+  .quiz-container details summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .quiz-container details[open] summary {
+    pointer-events: none;
   }
 }
